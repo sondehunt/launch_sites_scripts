@@ -29,11 +29,16 @@ with open('sonde_models.csv') as models_file:
         wmo_ids = row['wmo type identifier'].split(',')
         for id in wmo_ids:
             real_wmo = id
+            autosonde = False
             if str(id).startswith("1"):
                 real_wmo = str(id)[1:]
+            if real_wmo.endswith("(autosonde)"):
+                real_wmo = real_wmo[:real_wmo.find("(autosonde)")]
+                autosonde = True
             wmo_to_model_index = wmo_to_model_index.append(pd.DataFrame(data={
                 'WMO': [real_wmo],
                 'ModelIndex': [i],
+                'Autosonde': [autosonde],
             }), ignore_index=True)
         models = models.append(pd.DataFrame(data={
             'Manufacturer': row['Manufacturer'],
@@ -83,8 +88,9 @@ print('Matching nearest stations....')
 nearest = ckdnearest(stations, station_results)
 
 
-def sonde_df_to_dict(df: pd.DataFrame) -> dict:
+def sonde_df_to_dict(df: pd.DataFrame, match_df: pd.DataFrame) -> dict:
     dicts = []
+    i = 0
     for index, row in df.iterrows():
         dicts.append({
             'model': {
@@ -93,16 +99,17 @@ def sonde_df_to_dict(df: pd.DataFrame) -> dict:
                 'model': row['Model'],
                 'wmo': row['WMOTypeIdentifier'],
             },
-            'autosonde': row['Autosonde'],
-            'xdata': row['XDATA'],
+            'autosonde': bool(match_df.iloc[i].Autosonde),
         })
+        i += 1
     return dicts
 
 
 station_jsons = []
 for index, row in nearest.iterrows():
     sonde_models = row['SondeModels'].strip().split(',')
-    sonde_models_indices = wmo_to_model_index[wmo_to_model_index['WMO'].isin(sonde_models)]['ModelIndex']
+    sonde_models_matches = wmo_to_model_index[wmo_to_model_index['WMO'].isin(sonde_models)]
+    sonde_models_indices = sonde_models_matches['ModelIndex']
     sonde_models_df = models.loc[sonde_models_indices]
     station = {
         'name': row['Station'],
@@ -112,7 +119,7 @@ for index, row in nearest.iterrows():
         'longitude': row['Longitude'],
         'elevation': row['Elevation'],
         'sonde_wmos': sonde_models,
-        'sonde': sonde_df_to_dict(sonde_models_df),
+        'sonde': sonde_df_to_dict(sonde_models_df, sonde_models_matches),
     }
     station_jsons.append(station)
 
