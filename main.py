@@ -28,8 +28,11 @@ with open('sonde_models.csv') as models_file:
     for row in models_csv:
         wmo_ids = row['wmo type identifier'].split(',')
         for id in wmo_ids:
+            real_wmo = id
+            if str(id).startswith("1"):
+                real_wmo = str(id)[1:]
             wmo_to_model_index = wmo_to_model_index.append(pd.DataFrame(data={
-                'WMO': [id],
+                'WMO': [real_wmo],
                 'ModelIndex': [i],
             }), ignore_index=True)
         models = models.append(pd.DataFrame(data={
