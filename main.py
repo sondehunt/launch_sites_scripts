@@ -19,6 +19,32 @@ def ckdnearest(data_frame_a: gpd.GeoDataFrame, data_frame_b: gpd.GeoDataFrame) -
     return gdf
 
 
+print('Reading sonde models...')
+wmo_to_model_index = pd.DataFrame(data={})
+models = pd.DataFrame(data={})
+with open('sonde_models.csv') as models_file:
+    models_csv = csv.DictReader(models_file, delimiter=",")
+    i = 0
+    for row in models_csv:
+        wmo_ids = row['wmo type identifier'].split(',')
+        for id in wmo_ids:
+            wmo_to_model_index = wmo_to_model_index.append(pd.DataFrame(data={
+                'WMO': [id],
+                'ModelIndex': [i],
+            }), ignore_index=True)
+        models = models.append(pd.DataFrame(data={
+            'Manufacturer': row['Manufacturer'],
+            'Family': row['Family'],
+            'Model': row['Model'],
+            'Frequency': row['Frequency'],
+            'XDATA': None if row['XDATA/ext.Sensor capable'] == '?' else bool(row['XDATA/ext.Sensor capable']),
+            'Windfinding': None if row['internal windfinding'] == '?' else bool(row['internal windfinding']),
+            'Autosonde': None if row['autosonde capable'] == '?' else bool(row['autosonde capable']),
+            'WMOTypeIdentifier': row['wmo type identifier'],
+            'WMOTypeIdentifierFamily': row['wmo type identifier (family)'],
+        }, index=[i]))
+        i += 1
+
 print('Reading stations list (with WMO ID)...')
 stations = gpd.GeoDataFrame(data={})
 with open('stations_2019jun3.txt') as stations_file:
@@ -39,9 +65,9 @@ stations.geometry = gpd.points_from_xy(stations.ApproxLongitude, stations.Approx
 print('Reading station search results...')
 station_results = gpd.GeoDataFrame(data={})
 with open('StationSearchResults.csv') as results_file:
-    csv = csv.DictReader(results_file, delimiter=";")
+    station_csv = csv.DictReader(results_file, delimiter=";")
     i = 0
-    for row in csv:
+    for row in station_csv:
         lat, long = float(row['Latitude']), float(row['Longitude'])
         entry = gpd.GeoDataFrame(data=row, index=[i])
         entry.Latitude = [lat]
@@ -53,8 +79,28 @@ station_results.geometry = gpd.points_from_xy(station_results.Longitude, station
 print('Matching nearest stations....')
 nearest = ckdnearest(stations, station_results)
 
+
+def sonde_df_to_dict(df: pd.DataFrame) -> dict:
+    dicts = []
+    for index, row in df.iterrows():
+        dicts.append({
+            'model': {
+                'manufacturer': row['Manufacturer'],
+                'family': row['Family'],
+                'model': row['Model'],
+                'wmo': row['WMOTypeIdentifier'],
+            },
+            'autosonde': row['Autosonde'],
+            'xdata': row['XDATA'],
+        })
+    return dicts
+
+
 station_jsons = []
 for index, row in nearest.iterrows():
+    sonde_models = row['SondeModels'].strip().split(',')
+    sonde_models_indices = wmo_to_model_index[wmo_to_model_index['WMO'].isin(sonde_models)]['ModelIndex']
+    sonde_models_df = models.loc[sonde_models_indices]
     station = {
         'name': row['Station'],
         'operator': row['Supervising organization'],
@@ -62,7 +108,8 @@ for index, row in nearest.iterrows():
         'latitude': row['Latitude'],
         'longitude': row['Longitude'],
         'elevation': row['Elevation'],
-        'sonde': row['SondeModels'].strip().split(','),
+        'sonde_wmos': sonde_models,
+        'sonde': sonde_df_to_dict(sonde_models_df),
     }
     station_jsons.append(station)
 
