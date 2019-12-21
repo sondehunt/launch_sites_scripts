@@ -1,0 +1,77 @@
+import csv
+import json
+import numpy as np
+import pandas as pd
+import geopandas as gpd
+from scipy.spatial import cKDTree
+from shapely.geometry import Point
+from matplotlib import pyplot as plt
+
+
+def ckdnearest(data_frame_a: gpd.GeoDataFrame, data_frame_b: gpd.GeoDataFrame) -> gpd.GeoDataFrame:
+    nA = np.array(list(zip(data_frame_a.geometry.x, data_frame_a.geometry.y)))
+    nB = np.array(list(zip(data_frame_b.geometry.x, data_frame_b.geometry.y)))
+    btree = cKDTree(nB)
+    dist, idx = btree.query(nA, k=1)
+    gdf = pd.concat(
+        [data_frame_a, data_frame_b.loc[idx, data_frame_b.columns != 'geometry'].reset_index(),
+         pd.Series(dist, name='dist')], axis=1)
+    return gdf
+
+
+print('Reading stations list (with WMO ID)...')
+stations = gpd.GeoDataFrame(data={})
+with open('stations_2019jun3.txt') as stations_file:
+    i = 0
+    for line in stations_file:
+        wmo_id, rest = line.strip().split(':')
+        sonde_models, rest = rest.strip().split('#')
+        lat, long, *rest = rest.strip().split(' ')
+        stations = stations.append(gpd.GeoDataFrame(data={
+            'WMO': int(wmo_id),
+            'SondeModels': [sonde_models],
+            'ApproxLatitude': float(lat),
+            'ApproxLongitude': float(long),
+        }, index=[i]))
+        i += 1
+stations.geometry = gpd.points_from_xy(stations.ApproxLongitude, stations.ApproxLatitude)
+
+print('Reading station search results...')
+station_results = gpd.GeoDataFrame(data={})
+with open('StationSearchResults.csv') as results_file:
+    csv = csv.DictReader(results_file, delimiter=";")
+    i = 0
+    for row in csv:
+        lat, long = float(row['Latitude']), float(row['Longitude'])
+        entry = gpd.GeoDataFrame(data=row, index=[i])
+        entry.Latitude = [lat]
+        entry.Longitude = [long]
+        station_results = station_results.append(entry)
+        i += 1
+station_results.geometry = gpd.points_from_xy(station_results.Longitude, station_results.Latitude)
+
+print('Matching nearest stations....')
+nearest = ckdnearest(stations, station_results)
+
+station_jsons = []
+for index, row in nearest.iterrows():
+    station = {
+        'name': row['Station'],
+        'operator': row['Supervising organization'],
+        'wmo-id': row['WMO'],
+        'latitude': row['Latitude'],
+        'longitude': row['Longitude'],
+        'elevation': row['Elevation'],
+        'sonde': row['SondeModels'].strip().split(','),
+    }
+    station_jsons.append(station)
+
+print('Writing stations to stations.json...')
+station_json_file = open('stations.json', 'w')
+station_json_file.write(json.dumps(station_jsons, indent=4))
+station_json_file.close()
+
+world = gpd.read_file(gpd.datasets.get_path('naturalearth_lowres'))
+base = world.plot(color='white', edgecolor='black')
+nearest.plot(ax=base, marker='o', color='red', markersize=5)
+plt.show()

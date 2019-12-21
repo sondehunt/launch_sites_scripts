@@ -1,0 +1,8579 @@
+[
+    {
+        "name": "JAN MAYEN (1001-1)",
+        "operator": "MET Norway",
+        "wmo-id": 1001,
+        "latitude": 70.9397222222,
+        "longitude": -8.6677777778,
+        "elevation": "9",
+        "sonde": [
+            "23"
+        ]
+    },
+    {
+        "name": "NY-ALESUND II",
+        "operator": "MET Norway",
+        "wmo-id": 1004,
+        "latitude": 78.9233333333,
+        "longitude": 11.9222222222,
+        "elevation": "15.5",
+        "sonde": [
+            "23"
+        ]
+    },
+    {
+        "name": "ANDOYA (1010-1)",
+        "operator": "MET Norway",
+        "wmo-id": 1010,
+        "latitude": 69.3152777778,
+        "longitude": 16.1308333333,
+        "elevation": "10",
+        "sonde": [
+            "24"
+        ]
+    },
+    {
+        "name": "BJORNOYA (1028-1)",
+        "operator": "MET Norway",
+        "wmo-id": 1028,
+        "latitude": 74.5038888889,
+        "longitude": 19.0011111111,
+        "elevation": "20",
+        "sonde": [
+            "23"
+        ]
+    },
+    {
+        "name": "ORLAND III (1241-1)",
+        "operator": "MET Norway",
+        "wmo-id": 1241,
+        "latitude": 63.7055555556,
+        "longitude": 9.6116666667,
+        "elevation": "10",
+        "sonde": [
+            "24"
+        ]
+    },
+    {
+        "name": "EKOFISK (1400-1)",
+        "operator": "MET Norway",
+        "wmo-id": 1400,
+        "latitude": 56.5422222222,
+        "longitude": 3.2236111111,
+        "elevation": "52",
+        "sonde": [
+            "23"
+        ]
+    },
+    {
+        "name": "STAVANGER/SOLA (1415-1)",
+        "operator": "MET Norway",
+        "wmo-id": 1415,
+        "latitude": 58.8741666667,
+        "longitude": 5.665,
+        "elevation": "37",
+        "sonde": [
+            "24"
+        ]
+    },
+    {
+        "name": "OSLO-BLINDERN (1492-1)",
+        "operator": "MET Norway",
+        "wmo-id": 1492,
+        "latitude": 59.9427777778,
+        "longitude": 10.7194444444,
+        "elevation": "95",
+        "sonde": [
+            "24"
+        ]
+    },
+    {
+        "name": "LULEA-KALLAX (2185-0)",
+        "operator": "SMHI",
+        "wmo-id": 2185,
+        "latitude": 65.5433333333,
+        "longitude": 22.1144444444,
+        "elevation": "17",
+        "sonde": [
+            "42"
+        ]
+    },
+    {
+        "name": "SUNDSVALL HARNOSAND (2365-0)",
+        "operator": "SMHI",
+        "wmo-id": 2365,
+        "latitude": 62.5316666667,
+        "longitude": 17.4361111111,
+        "elevation": "3.9",
+        "sonde": [
+            "42"
+        ]
+    },
+    {
+        "name": "GOTEBORG/LANDVETTER",
+        "operator": "SMHI",
+        "wmo-id": 2527,
+        "latitude": 57.6572222222,
+        "longitude": 12.2911111111,
+        "elevation": "164",
+        "sonde": [
+            "42"
+        ]
+    },
+    {
+        "name": "VISBY AEROLOGISKA STATION",
+        "operator": "SMHI",
+        "wmo-id": 2591,
+        "latitude": 57.65,
+        "longitude": 18.35,
+        "elevation": "45",
+        "sonde": [
+            "42"
+        ]
+    },
+    {
+        "name": "SODANKYLA ARCTIC RESEARCH CENTRE",
+        "operator": "FMI",
+        "wmo-id": 2836,
+        "latitude": 67.3666666667,
+        "longitude": 26.6288888889,
+        "elevation": "179",
+        "sonde": [
+            "42"
+        ]
+    },
+    {
+        "name": "JOKIOINEN OBSERVATORY",
+        "operator": "FMI",
+        "wmo-id": 2963,
+        "latitude": 60.8138888889,
+        "longitude": 23.4975,
+        "elevation": "104",
+        "sonde": [
+            "42"
+        ]
+    },
+    {
+        "name": "LERWICK",
+        "operator": "UKMO",
+        "wmo-id": 3005,
+        "latitude": 60.1391666667,
+        "longitude": -1.1847222222,
+        "elevation": "82",
+        "sonde": [
+            "41"
+        ]
+    },
+    {
+        "name": "ALBEMARLE",
+        "operator": "UKMO",
+        "wmo-id": 3238,
+        "latitude": 55.0197222222,
+        "longitude": -1.8816666667,
+        "elevation": "142",
+        "sonde": [
+            "42"
+        ]
+    },
+    {
+        "name": "NOTTINGHAM, WATNALL",
+        "operator": "UKMO",
+        "wmo-id": 3354,
+        "latitude": 53.0055555556,
+        "longitude": -1.2511111111,
+        "elevation": "117",
+        "sonde": [
+            "42"
+        ]
+    },
+    {
+        "name": "ABERPORTH",
+        "operator": "UKMO",
+        "wmo-id": 3502,
+        "latitude": 52.1394444444,
+        "longitude": -4.5711111111,
+        "elevation": "133",
+        "sonde": [
+            "41"
+        ]
+    },
+    {
+        "name": "LARKHILL",
+        "operator": "UKMO",
+        "wmo-id": 3743,
+        "latitude": 51.2016666667,
+        "longitude": -1.8058333333,
+        "elevation": "132",
+        "sonde": [
+            "41"
+        ]
+    },
+    {
+        "name": "CAMBORNE",
+        "operator": "UKMO",
+        "wmo-id": 3808,
+        "latitude": 50.21841,
+        "longitude": -5.32753,
+        "elevation": "87",
+        "sonde": [
+            "41"
+        ]
+    },
+    {
+        "name": "HERSTMONCEUX, WEST END",
+        "operator": "UKMO",
+        "wmo-id": 3882,
+        "latitude": 50.8994444444,
+        "longitude": 0.3169444444,
+        "elevation": "52",
+        "sonde": [
+            "42"
+        ]
+    },
+    {
+        "name": "CASTOR BAY",
+        "operator": "UKMO",
+        "wmo-id": 3918,
+        "latitude": 54.5,
+        "longitude": -6.3333333333,
+        "elevation": "",
+        "sonde": [
+            "42"
+        ]
+    },
+    {
+        "name": "VALENTIA OBSERVATORY (3953-1)",
+        "operator": "ME",
+        "wmo-id": 3953,
+        "latitude": 51.9380555556,
+        "longitude": -10.2433333333,
+        "elevation": "23.9",
+        "sonde": [
+            "77"
+        ]
+    },
+    {
+        "name": "KEFLAVIKURFLUGVOLLUR",
+        "operator": "IMO",
+        "wmo-id": 4018,
+        "latitude": 63.9805555556,
+        "longitude": -22.595,
+        "elevation": "52",
+        "sonde": [
+            "42"
+        ]
+    },
+    {
+        "name": "AASIAAT (EGEDESMINDE)",
+        "operator": "DMI",
+        "wmo-id": 4220,
+        "latitude": 68.7080555556,
+        "longitude": -52.8516666667,
+        "elevation": "43",
+        "sonde": [
+            "41"
+        ]
+    },
+    {
+        "name": "MITTARFIK NARSARSUAQ (4270-1)",
+        "operator": "DMI",
+        "wmo-id": 4270,
+        "latitude": 61.1666666667,
+        "longitude": -45.4166666667,
+        "elevation": "",
+        "sonde": [
+            "41"
+        ]
+    },
+    {
+        "name": "DANMARKSHAVN",
+        "operator": "DMI",
+        "wmo-id": 4320,
+        "latitude": 76.7694444444,
+        "longitude": -18.6680555556,
+        "elevation": "11",
+        "sonde": [
+            "41"
+        ]
+    },
+    {
+        "name": "ITTOQQORTOORMIIT (SCORESBYSUND)",
+        "operator": "DMI",
+        "wmo-id": 4339,
+        "latitude": 70.4844444444,
+        "longitude": -21.9511111111,
+        "elevation": "70",
+        "sonde": [
+            "41"
+        ]
+    },
+    {
+        "name": "TASIILAQ (AMMASSALIK)",
+        "operator": "DMI",
+        "wmo-id": 4360,
+        "latitude": 65.6111111111,
+        "longitude": -37.6366666667,
+        "elevation": "54",
+        "sonde": [
+            "77"
+        ]
+    },
+    {
+        "name": "GEOSUMMIT",
+        "operator": "DMI",
+        "wmo-id": 4417,
+        "latitude": 72.5802777778,
+        "longitude": -38.4586111111,
+        "elevation": "3216.5",
+        "sonde": [
+            "23"
+        ]
+    },
+    {
+        "name": "TORSHAVN",
+        "operator": "DMI",
+        "wmo-id": 6011,
+        "latitude": 62.0230555556,
+        "longitude": -6.7647222222,
+        "elevation": "54",
+        "sonde": [
+            "07"
+        ]
+    },
+    {
+        "name": "FLYVESTATION KARUP",
+        "operator": "DMI",
+        "wmo-id": 6060,
+        "latitude": 56.2933333333,
+        "longitude": 9.1138888889,
+        "elevation": "52.12",
+        "sonde": [
+            "17"
+        ]
+    },
+    {
+        "name": "DE BILT AWS",
+        "operator": "KNMI",
+        "wmo-id": 6260,
+        "latitude": 52.0988888889,
+        "longitude": 5.1797222222,
+        "elevation": "1.9",
+        "sonde": [
+            "23"
+        ]
+    },
+    {
+        "name": "BEAUVECHAIN",
+        "operator": "RMIB",
+        "wmo-id": 6447,
+        "latitude": 50.7455555556,
+        "longitude": 4.7633333333,
+        "elevation": "112.8",
+        "sonde": [
+            "41"
+        ]
+    },
+    {
+        "name": "BEAUVECHAIN",
+        "operator": "RMIB",
+        "wmo-id": 6458,
+        "latitude": 50.7455555556,
+        "longitude": 4.7633333333,
+        "elevation": "112.8",
+        "sonde": [
+            "17",
+            "07"
+        ]
+    },
+    {
+        "name": "RUENENBERG MIL",
+        "operator": "MeteoSwiss",
+        "wmo-id": 6610,
+        "latitude": 47.4344444444,
+        "longitude": 7.8794444444,
+        "elevation": "611.17",
+        "sonde": [
+            "42",
+            "41"
+        ]
+    },
+    {
+        "name": "BEAUVECHAIN",
+        "operator": "RMIB",
+        "wmo-id": 7074,
+        "latitude": 50.7455555556,
+        "longitude": 4.7633333333,
+        "elevation": "112.8",
+        "sonde": [
+            "41"
+        ]
+    },
+    {
+        "name": "BREST-GUIPAVAS",
+        "operator": "MF",
+        "wmo-id": 7110,
+        "latitude": 48.45,
+        "longitude": -4.3833,
+        "elevation": "94",
+        "sonde": [
+            "77"
+        ]
+    },
+    {
+        "name": "TRAPPES",
+        "operator": "MF",
+        "wmo-id": 7145,
+        "latitude": 48.7744444444,
+        "longitude": 2.0097222222,
+        "elevation": "167",
+        "sonde": [
+            "77"
+        ]
+    },
+    {
+        "name": "TRAPPES",
+        "operator": "MF",
+        "wmo-id": 7255,
+        "latitude": 48.7744444444,
+        "longitude": 2.0097222222,
+        "elevation": "167",
+        "sonde": [
+            "17"
+        ]
+    },
+    {
+        "name": "BORDEAUX MERIGNAC",
+        "operator": "MF",
+        "wmo-id": 7510,
+        "latitude": 44.8305555556,
+        "longitude": -0.6913888889,
+        "elevation": "51",
+        "sonde": [
+            "77"
+        ]
+    },
+    {
+        "name": "NIMES-COURBESSAC",
+        "operator": "MF",
+        "wmo-id": 7645,
+        "latitude": 43.8569444444,
+        "longitude": 4.4063888889,
+        "elevation": "60",
+        "sonde": [
+            "77"
+        ]
+    },
+    {
+        "name": "AJACCIO",
+        "operator": "MF",
+        "wmo-id": 7761,
+        "latitude": 41.9180555556,
+        "longitude": 8.7927777778,
+        "elevation": "6",
+        "sonde": [
+            "77"
+        ]
+    },
+    {
+        "name": "LA CORUNA",
+        "operator": "AEMET",
+        "wmo-id": 8001,
+        "latitude": 43.3658333333,
+        "longitude": -8.4213888889,
+        "elevation": "58",
+        "sonde": [
+            "23"
+        ]
+    },
+    {
+        "name": "SANTANDER",
+        "operator": "AEMET",
+        "wmo-id": 8023,
+        "latitude": 43.4911111111,
+        "longitude": -3.8005555556,
+        "elevation": "52",
+        "sonde": [
+            "23"
+        ]
+    },
+    {
+        "name": "BARCELONA SERVEI",
+        "operator": "AEMET",
+        "wmo-id": 8190,
+        "latitude": 41.3844444444,
+        "longitude": 2.1180555556,
+        "elevation": "95",
+        "sonde": [
+            "77"
+        ]
+    },
+    {
+        "name": "MADRID/BARAJAS RS",
+        "operator": "AEMET",
+        "wmo-id": 8221,
+        "latitude": 40.4652777778,
+        "longitude": -3.5797222222,
+        "elevation": "631",
+        "sonde": [
+            "23"
+        ]
+    },
+    {
+        "name": "MALLORCA-SON BONET",
+        "operator": "AEMET",
+        "wmo-id": 8302,
+        "latitude": 39.6058333333,
+        "longitude": 2.7066666667,
+        "elevation": "41",
+        "sonde": [
+            "23"
+        ]
+    },
+    {
+        "name": "GIBRALTAR (8495-1)",
+        "operator": "UKMO",
+        "wmo-id": 8383,
+        "latitude": 36.15,
+        "longitude": -5.35,
+        "elevation": "3",
+        "sonde": [
+            "23"
+        ]
+    },
+    {
+        "name": "MURCIA",
+        "operator": "AEMET",
+        "wmo-id": 8430,
+        "latitude": 38.0019444444,
+        "longitude": -1.1708333333,
+        "elevation": "61",
+        "sonde": [
+            "77"
+        ]
+    },
+    {
+        "name": "LAJES (ACORES) (8508-0)",
+        "operator": "PIM",
+        "wmo-id": 8508,
+        "latitude": 38.76783,
+        "longitude": -27.08716,
+        "elevation": "72",
+        "sonde": [
+            "23"
+        ]
+    },
+    {
+        "name": "FUNCHAL",
+        "operator": "PIM",
+        "wmo-id": 8522,
+        "latitude": 32.64753,
+        "longitude": -16.89248,
+        "elevation": "58",
+        "sonde": [
+            "79"
+        ]
+    },
+    {
+        "name": "LISBOA/GAGO COUTINHO",
+        "operator": "PIM",
+        "wmo-id": 8579,
+        "latitude": 38.7662,
+        "longitude": -9.12749,
+        "elevation": "104",
+        "sonde": [
+            "23"
+        ]
+    },
+    {
+        "name": "SCHLESWIG (10035-1)",
+        "operator": "DWD",
+        "wmo-id": 10035,
+        "latitude": 54.527539,
+        "longitude": 9.548666,
+        "elevation": "47",
+        "sonde": [
+            "23"
+        ]
+    },
+    {
+        "name": "NORDERNEY",
+        "operator": "DWD",
+        "wmo-id": 10113,
+        "latitude": 53.712304,
+        "longitude": 7.151923,
+        "elevation": "11.47",
+        "sonde": [
+            "24"
+        ]
+    },
+    {
+        "name": "GREIFSWALD",
+        "operator": "DWD",
+        "wmo-id": 10184,
+        "latitude": 54.096736,
+        "longitude": 13.405576,
+        "elevation": "2",
+        "sonde": [
+            "23"
+        ]
+    },
+    {
+        "name": "BERGEN",
+        "operator": "DWD",
+        "wmo-id": 10238,
+        "latitude": 52.815233,
+        "longitude": 9.924809,
+        "elevation": "70",
+        "sonde": [
+            "23"
+        ]
+    },
+    {
+        "name": "MEPPEN",
+        "operator": "DWD",
+        "wmo-id": 10304,
+        "latitude": 52.715579,
+        "longitude": 7.317629,
+        "elevation": "19",
+        "sonde": [
+            "23"
+        ]
+    },
+    {
+        "name": "LINDENBERG (10393-1)",
+        "operator": "DWD",
+        "wmo-id": 10393,
+        "latitude": 52.20925,
+        "longitude": 14.1206,
+        "elevation": "112",
+        "sonde": [
+            "23"
+        ]
+    },
+    {
+        "name": "ESSEN-BREDENEY (10410-1)",
+        "operator": "DWD",
+        "wmo-id": 10410,
+        "latitude": 51.4055555556,
+        "longitude": 6.9686111111,
+        "elevation": "153",
+        "sonde": [
+            "24"
+        ]
+    },
+    {
+        "name": "MEININGEN (10548-1)",
+        "operator": "DWD",
+        "wmo-id": 10548,
+        "latitude": 50.561752,
+        "longitude": 10.377062,
+        "elevation": "450",
+        "sonde": [
+            "24"
+        ]
+    },
+    {
+        "name": "IDAR-OBERSTEIN",
+        "operator": "DWD",
+        "wmo-id": 10618,
+        "latitude": 49.692727,
+        "longitude": 7.326355,
+        "elevation": "376",
+        "sonde": [
+            "23"
+        ]
+    },
+    {
+        "name": "STUTTGART/SCHNARRENBERG (10739-1)",
+        "operator": "DWD",
+        "wmo-id": 10739,
+        "latitude": 48.8333333333,
+        "longitude": 9.2,
+        "elevation": "314",
+        "sonde": [
+            "24"
+        ]
+    },
+    {
+        "name": "KUEMMERSBRUCK (10771-0)",
+        "operator": "DWD",
+        "wmo-id": 10771,
+        "latitude": 49.4283333333,
+        "longitude": 11.9016666667,
+        "elevation": "417",
+        "sonde": [
+            "23"
+        ]
+    },
+    {
+        "name": "MUENCHEN-OBERSCHLEISSHEIM",
+        "operator": "DWD",
+        "wmo-id": 10868,
+        "latitude": 48.244636,
+        "longitude": 11.552548,
+        "elevation": "484",
+        "sonde": [
+            "24"
+        ]
+    },
+    {
+        "name": "ALTENSTADT",
+        "operator": "DWD",
+        "wmo-id": 10954,
+        "latitude": 47.834167,
+        "longitude": 10.866723,
+        "elevation": "756",
+        "sonde": [
+            "23"
+        ]
+    },
+    {
+        "name": "HOHENPEISSENBERG",
+        "operator": "DWD",
+        "wmo-id": 10962,
+        "latitude": 47.800864,
+        "longitude": 11.010754,
+        "elevation": "977",
+        "sonde": [
+            "14"
+        ]
+    },
+    {
+        "name": "LINZ/HOERSCHING-FLUGHAFEN",
+        "operator": "ZAMG",
+        "wmo-id": 11010,
+        "latitude": 48.2352777778,
+        "longitude": 14.1880555556,
+        "elevation": "298",
+        "sonde": [
+            "81",
+            "42"
+        ]
+    },
+    {
+        "name": "WIEN/HOHE WARTE (11035-1)",
+        "operator": "ZAMG",
+        "wmo-id": 11035,
+        "latitude": 48.2486111111,
+        "longitude": 16.3563888889,
+        "elevation": "198",
+        "sonde": [
+            "41",
+            "77"
+        ]
+    },
+    {
+        "name": "INNSBRUCK-FLUGHAFEN",
+        "operator": "ZAMG",
+        "wmo-id": 11120,
+        "latitude": 47.2602777778,
+        "longitude": 11.3438888889,
+        "elevation": "581",
+        "sonde": [
+            "42"
+        ]
+    },
+    {
+        "name": "GRAZ-THALERHOF-FLUGHAFEN",
+        "operator": "ZAMG",
+        "wmo-id": 11240,
+        "latitude": 46.9805555556,
+        "longitude": 15.44,
+        "elevation": "340",
+        "sonde": [
+            "42"
+        ]
+    },
+    {
+        "name": "PRAHA-LIBUS",
+        "operator": "CHMI",
+        "wmo-id": 11520,
+        "latitude": 50.0077777778,
+        "longitude": 14.4469444444,
+        "elevation": "302.04",
+        "sonde": [
+            "41"
+        ]
+    },
+    {
+        "name": "PROSTEJOV",
+        "operator": "CHMI",
+        "wmo-id": 11747,
+        "latitude": 49.4525,
+        "longitude": 17.1347222222,
+        "elevation": "214.75",
+        "sonde": [
+            "80"
+        ]
+    },
+    {
+        "name": "POPRAD-GANOVCE",
+        "operator": "SHMI",
+        "wmo-id": 11952,
+        "latitude": 49.0333333333,
+        "longitude": 20.3166666667,
+        "elevation": "",
+        "sonde": [
+            "23"
+        ]
+    },
+    {
+        "name": "LEBA",
+        "operator": "PIMWM",
+        "wmo-id": 12120,
+        "latitude": 54.7536111111,
+        "longitude": 17.5347222222,
+        "elevation": "1.81",
+        "sonde": [
+            "41"
+        ]
+    },
+    {
+        "name": "LEGIONOWO",
+        "operator": "PIMWM",
+        "wmo-id": 12374,
+        "latitude": 52.4077777778,
+        "longitude": 20.9563888889,
+        "elevation": "94.19",
+        "sonde": [
+            "41"
+        ]
+    },
+    {
+        "name": "WROCLAW-STARACHOWICE",
+        "operator": "PIMWM",
+        "wmo-id": 12425,
+        "latitude": 51.1130555556,
+        "longitude": 16.8811111111,
+        "elevation": "119.55",
+        "sonde": [
+            "41"
+        ]
+    },
+    {
+        "name": "BUDAPEST/PESTSZENTLORINC",
+        "operator": "HMS",
+        "wmo-id": 12843,
+        "latitude": 47.4333333333,
+        "longitude": 19.1833333333,
+        "elevation": "138",
+        "sonde": [
+            "23"
+        ]
+    },
+    {
+        "name": "SZEGED",
+        "operator": "HMS",
+        "wmo-id": 12982,
+        "latitude": 46.25,
+        "longitude": 20.1,
+        "elevation": "82",
+        "sonde": [
+            "17"
+        ]
+    },
+    {
+        "name": "BEOGRAD/KOSUTNJAK",
+        "operator": "RHSS",
+        "wmo-id": 13275,
+        "latitude": 44.7666666667,
+        "longitude": 20.4166666667,
+        "elevation": "203",
+        "sonde": [
+            "77"
+        ]
+    },
+    {
+        "name": "NIS",
+        "operator": "RHSS",
+        "wmo-id": 13388,
+        "latitude": 43.3333333333,
+        "longitude": 21.9,
+        "elevation": "203",
+        "sonde": [
+            "77"
+        ]
+    },
+    {
+        "name": "LJUBLJANA/BEZIGRAD",
+        "operator": "MOS",
+        "wmo-id": 14015,
+        "latitude": 46.0655056158,
+        "longitude": 14.5123590017,
+        "elevation": "299",
+        "sonde": [
+            "77"
+        ]
+    },
+    {
+        "name": "ZAGREB/MAKSIMIR",
+        "operator": "MHSC",
+        "wmo-id": 14240,
+        "latitude": 45.8219444444,
+        "longitude": 16.0336111111,
+        "elevation": "123",
+        "sonde": [
+            "41"
+        ]
+    },
+    {
+        "name": "ZADAR RS",
+        "operator": "MHSC",
+        "wmo-id": 14430,
+        "latitude": 44.0969444444,
+        "longitude": 15.3402777778,
+        "elevation": "78",
+        "sonde": [
+            "42"
+        ]
+    },
+    {
+        "name": "BUCURESTI BANEASA",
+        "operator": "NMAR",
+        "wmo-id": 15420,
+        "latitude": 44.5104330044,
+        "longitude": 26.0781904077,
+        "elevation": "90",
+        "sonde": [
+            "41"
+        ]
+    },
+    {
+        "name": "SOFIA (OBSERV.)",
+        "operator": "NIMH",
+        "wmo-id": 15614,
+        "latitude": 42.65,
+        "longitude": 23.3833333333,
+        "elevation": "595",
+        "sonde": [
+            "41"
+        ]
+    },
+    {
+        "name": "UDINE/RIVOLTO RDS",
+        "operator": "AM-IMS",
+        "wmo-id": 16045,
+        "latitude": 45.9805555556,
+        "longitude": 13.0591666667,
+        "elevation": "50",
+        "sonde": [
+            "41"
+        ]
+    },
+    {
+        "name": "MILANO LINATE RDS",
+        "operator": "AM-IMS",
+        "wmo-id": 16080,
+        "latitude": 45.4613888889,
+        "longitude": 9.2830555556,
+        "elevation": "104",
+        "sonde": [
+            "41"
+        ]
+    },
+    {
+        "name": "CUNEO-LEVALDIGI RDS",
+        "operator": "AM-IMS",
+        "wmo-id": 16113,
+        "latitude": 44.5391666667,
+        "longitude": 7.6125,
+        "elevation": "385",
+        "sonde": [
+            "42"
+        ]
+    },
+    {
+        "name": "S. PIETRO CAPOFIUME RDS",
+        "operator": "AM-IMS",
+        "wmo-id": 16144,
+        "latitude": 44.6538888889,
+        "longitude": 11.6225,
+        "elevation": "10",
+        "sonde": [
+            "24"
+        ]
+    },
+    {
+        "name": "PRATICA DI MARE RDS",
+        "operator": "AM-IMS",
+        "wmo-id": 16245,
+        "latitude": 41.67,
+        "longitude": 12.4508333333,
+        "elevation": "32",
+        "sonde": [
+            "41"
+        ]
+    },
+    {
+        "name": "BRINDISI RDS",
+        "operator": "AM-IMS",
+        "wmo-id": 16320,
+        "latitude": 40.6602777778,
+        "longitude": 17.9566666667,
+        "elevation": "14.5",
+        "sonde": [
+            "41"
+        ]
+    },
+    {
+        "name": "TRAPANI BIRGI RDS",
+        "operator": "AM-IMS",
+        "wmo-id": 16429,
+        "latitude": 37.9141666667,
+        "longitude": 12.4913888889,
+        "elevation": "7.3",
+        "sonde": [
+            "41"
+        ]
+    },
+    {
+        "name": "DECIMOMANNU RDS",
+        "operator": "AM-IMS",
+        "wmo-id": 16546,
+        "latitude": 39.3461111111,
+        "longitude": 8.9675,
+        "elevation": "29",
+        "sonde": [
+            "41"
+        ]
+    },
+    {
+        "name": "THESSALONIKI (AIRPORT)",
+        "operator": "HNMS",
+        "wmo-id": 16622,
+        "latitude": 40.529,
+        "longitude": 22.9703,
+        "elevation": "1.68",
+        "sonde": [
+            "23"
+        ]
+    },
+    {
+        "name": "ATHINAI HELLINIKON",
+        "operator": "HNMS",
+        "wmo-id": 16716,
+        "latitude": 37.8897222222,
+        "longitude": 23.7416666667,
+        "elevation": "43.13",
+        "sonde": [
+            "23"
+        ]
+    },
+    {
+        "name": "HERAKLEION (AIRPORT)",
+        "operator": "HNMS",
+        "wmo-id": 16754,
+        "latitude": 35.3352777778,
+        "longitude": 25.1819444444,
+        "elevation": "35.05",
+        "sonde": [
+            "23"
+        ]
+    },
+    {
+        "name": "SAMSUN",
+        "operator": "TSMS",
+        "wmo-id": 17030,
+        "latitude": 41.344167,
+        "longitude": 36.256389,
+        "elevation": "4",
+        "sonde": [
+            "35"
+        ]
+    },
+    {
+        "name": "ISTANBUL BOLGE (KARTAL)",
+        "operator": "TSMS",
+        "wmo-id": 17064,
+        "latitude": 40.911345,
+        "longitude": 29.155803,
+        "elevation": "18",
+        "sonde": [
+            "35"
+        ]
+    },
+    {
+        "name": "ERZURUM BOLGE",
+        "operator": "TSMS",
+        "wmo-id": 17095,
+        "latitude": 39.905833,
+        "longitude": 41.254444,
+        "elevation": "1860",
+        "sonde": [
+            "35"
+        ]
+    },
+    {
+        "name": "ANKARA B\u00d6LGE",
+        "operator": "TSMS",
+        "wmo-id": 17130,
+        "latitude": 39.95,
+        "longitude": 32.8833333333,
+        "elevation": "891",
+        "sonde": [
+            "35",
+            "17"
+        ]
+    },
+    {
+        "name": "IZMIR/GUZELYALI",
+        "operator": "TSMS",
+        "wmo-id": 17220,
+        "latitude": 38.394873,
+        "longitude": 27.081855,
+        "elevation": "29",
+        "sonde": [
+            "35"
+        ]
+    },
+    {
+        "name": "ISPARTA",
+        "operator": "TSMS",
+        "wmo-id": 17240,
+        "latitude": 37.784833,
+        "longitude": 30.567912,
+        "elevation": "997",
+        "sonde": [
+            "35"
+        ]
+    },
+    {
+        "name": "DIYARBAKIR-BOLGE",
+        "operator": "TSMS",
+        "wmo-id": 17281,
+        "latitude": 37.9,
+        "longitude": 40.2,
+        "elevation": "675",
+        "sonde": [
+            "35"
+        ]
+    },
+    {
+        "name": "ADANA/BOLGE",
+        "operator": "TSMS",
+        "wmo-id": 17351,
+        "latitude": 37.0041,
+        "longitude": 35.3443,
+        "elevation": "23",
+        "sonde": [
+            "35",
+            "17"
+        ]
+    },
+    {
+        "name": "ATHALASSA",
+        "operator": "DMCYP",
+        "wmo-id": 17607,
+        "latitude": 35.1408333333,
+        "longitude": 33.3963888889,
+        "elevation": "162",
+        "sonde": [
+            "14",
+            "41",
+            "23"
+        ]
+    },
+    {
+        "name": "POLARGMO IM. E.T. KRENKELJA",
+        "operator": "Roshydromet",
+        "wmo-id": 20046,
+        "latitude": 80.6263888889,
+        "longitude": 58.0588888889,
+        "elevation": "21",
+        "sonde": [
+            "90",
+            "62",
+            "89",
+            "11"
+        ]
+    },
+    {
+        "name": "GMO IM.E.K. FEDOROVA",
+        "operator": "Roshydromet",
+        "wmo-id": 20292,
+        "latitude": 77.7130555556,
+        "longitude": 104.2919444444,
+        "elevation": "12",
+        "sonde": [
+            "90",
+            "60",
+            "62"
+        ]
+    },
+    {
+        "name": "OSTROV DIKSON",
+        "operator": "Roshydromet",
+        "wmo-id": 20674,
+        "latitude": 73.5136111111,
+        "longitude": 80.4063888889,
+        "elevation": "42",
+        "sonde": [
+            "90"
+        ]
+    },
+    {
+        "name": "MALYE KARMAKULY (20744-1)",
+        "operator": "Roshydromet",
+        "wmo-id": 20744,
+        "latitude": 72.3666666667,
+        "longitude": 52.7,
+        "elevation": "",
+        "sonde": [
+            "90"
+        ]
+    },
+    {
+        "name": "OSTROV KOTEL'NYJ",
+        "operator": "Roshydromet",
+        "wmo-id": 21432,
+        "latitude": 76.0,
+        "longitude": 137.8666666667,
+        "elevation": "11.5",
+        "sonde": [
+            "89",
+            "90"
+        ]
+    },
+    {
+        "name": "TIKSI",
+        "operator": "Roshydromet",
+        "wmo-id": 21824,
+        "latitude": 71.5833333333,
+        "longitude": 128.9166666667,
+        "elevation": "6",
+        "sonde": [
+            "62",
+            "90"
+        ]
+    },
+    {
+        "name": "CHOKURDAH",
+        "operator": "Roshydromet",
+        "wmo-id": 21946,
+        "latitude": 70.6166666667,
+        "longitude": 147.8833333333,
+        "elevation": "44",
+        "sonde": [
+            "58",
+            "27"
+        ]
+    },
+    {
+        "name": "KANDALAKSHA",
+        "operator": "Roshydromet",
+        "wmo-id": 22217,
+        "latitude": 67.1691666667,
+        "longitude": 32.3541666667,
+        "elevation": "26",
+        "sonde": [
+            "62"
+        ]
+    },
+    {
+        "name": "SHOJNA",
+        "operator": "Roshydromet",
+        "wmo-id": 22271,
+        "latitude": 67.8766666667,
+        "longitude": 44.1741666667,
+        "elevation": "4.83",
+        "sonde": [
+            "90"
+        ]
+    },
+    {
+        "name": "KEM'",
+        "operator": "Roshydromet",
+        "wmo-id": 22522,
+        "latitude": 64.95,
+        "longitude": 34.65,
+        "elevation": "8",
+        "sonde": [
+            "29"
+        ]
+    },
+    {
+        "name": "ARHANGEL'SK (22543-0)",
+        "operator": "Roshydromet",
+        "wmo-id": 22543,
+        "latitude": 64.6247222222,
+        "longitude": 40.5113888889,
+        "elevation": "4",
+        "sonde": [
+            "90",
+            "89",
+            "62"
+        ]
+    },
+    {
+        "name": "PETROZAVODSK",
+        "operator": "Roshydromet",
+        "wmo-id": 22820,
+        "latitude": 61.8166666667,
+        "longitude": 34.2666666667,
+        "elevation": "110",
+        "sonde": [
+            "89",
+            "90"
+        ]
+    },
+    {
+        "name": "KARGOPOL'",
+        "operator": "Roshydromet",
+        "wmo-id": 22845,
+        "latitude": 61.5066666667,
+        "longitude": 38.9347222222,
+        "elevation": "124",
+        "sonde": [
+            "58"
+        ]
+    },
+    {
+        "name": "NORIL'SK",
+        "operator": "Roshydromet",
+        "wmo-id": 23078,
+        "latitude": 69.3472222222,
+        "longitude": 88.2638888889,
+        "elevation": "60",
+        "sonde": [
+            "62"
+        ]
+    },
+    {
+        "name": "NAR'JAN-MAR",
+        "operator": "Roshydromet",
+        "wmo-id": 23205,
+        "latitude": 67.625,
+        "longitude": 53.0175,
+        "elevation": "5.4",
+        "sonde": [
+            "90",
+            "58"
+        ]
+    },
+    {
+        "name": "SALEHARD",
+        "operator": "Roshydromet",
+        "wmo-id": 23330,
+        "latitude": 66.5319444444,
+        "longitude": 66.6744444444,
+        "elevation": "14.83",
+        "sonde": [
+            "90"
+        ]
+    },
+    {
+        "name": "PECHORA (23415-0)",
+        "operator": "Roshydromet",
+        "wmo-id": 23415,
+        "latitude": 65.1166666667,
+        "longitude": 57.1,
+        "elevation": "56",
+        "sonde": [
+            "90"
+        ]
+    },
+    {
+        "name": "TURUHANSK",
+        "operator": "Roshydromet",
+        "wmo-id": 23472,
+        "latitude": 65.7944444444,
+        "longitude": 87.9888888889,
+        "elevation": "41.96",
+        "sonde": [
+            "90"
+        ]
+    },
+    {
+        "name": "SYKTYVKAR (23802-0)",
+        "operator": "Roshydromet",
+        "wmo-id": 23802,
+        "latitude": 61.6766666667,
+        "longitude": 50.7805555556,
+        "elevation": "116",
+        "sonde": [
+            "90",
+            "62"
+        ]
+    },
+    {
+        "name": "BOR",
+        "operator": "Roshydromet",
+        "wmo-id": 23884,
+        "latitude": 61.5805555556,
+        "longitude": 90.0305555556,
+        "elevation": "62",
+        "sonde": [
+            "58",
+            "90"
+        ]
+    },
+    {
+        "name": "IVDEL'",
+        "operator": "Roshydromet",
+        "wmo-id": 23921,
+        "latitude": 60.6833333333,
+        "longitude": 60.45,
+        "elevation": "93",
+        "sonde": [
+            "90",
+            "28"
+        ]
+    },
+    {
+        "name": "HANTY-MANSIJSK",
+        "operator": "Roshydromet",
+        "wmo-id": 23933,
+        "latitude": 61.0277777778,
+        "longitude": 69.1188888889,
+        "elevation": "44",
+        "sonde": [
+            "90",
+            "89",
+            "62"
+        ]
+    },
+    {
+        "name": "ALEKSANDROVSKOE",
+        "operator": "Roshydromet",
+        "wmo-id": 23955,
+        "latitude": 60.4333333333,
+        "longitude": 77.8666666667,
+        "elevation": "47.01",
+        "sonde": [
+            "89"
+        ]
+    },
+    {
+        "name": "VERHOJANSK",
+        "operator": "Roshydromet",
+        "wmo-id": 24266,
+        "latitude": 67.5666666667,
+        "longitude": 133.4,
+        "elevation": "135.9",
+        "sonde": [
+            "62"
+        ]
+    },
+    {
+        "name": "ZHIGANSK",
+        "operator": "Roshydromet",
+        "wmo-id": 24343,
+        "latitude": 66.7666666667,
+        "longitude": 123.4,
+        "elevation": "87.81",
+        "sonde": [
+            "89",
+            "90"
+        ]
+    },
+    {
+        "name": "TURA (24507-0)",
+        "operator": "Roshydromet",
+        "wmo-id": 24507,
+        "latitude": 64.2694444444,
+        "longitude": 100.2166666667,
+        "elevation": "188",
+        "sonde": [
+            "90",
+            "62"
+        ]
+    },
+    {
+        "name": "VILJUJSK",
+        "operator": "Roshydromet",
+        "wmo-id": 24641,
+        "latitude": 63.7833333333,
+        "longitude": 121.6166666667,
+        "elevation": "110.76",
+        "sonde": [
+            "90",
+            "58"
+        ]
+    },
+    {
+        "name": "OJMJAKON",
+        "operator": "Roshydromet",
+        "wmo-id": 24688,
+        "latitude": 63.25,
+        "longitude": 143.15,
+        "elevation": "740.28",
+        "sonde": [
+            "90",
+            "27"
+        ]
+    },
+    {
+        "name": "MIRNVY",
+        "operator": "Roshydromet",
+        "wmo-id": 24726,
+        "latitude": 62.5333333333,
+        "longitude": 113.8666666667,
+        "elevation": "351.16",
+        "sonde": [
+            "90",
+            "89"
+        ]
+    },
+    {
+        "name": "VANAVARA",
+        "operator": "Roshydromet",
+        "wmo-id": 24908,
+        "latitude": 60.3361111111,
+        "longitude": 102.2944444444,
+        "elevation": "258.8",
+        "sonde": [
+            "58",
+            "90"
+        ]
+    },
+    {
+        "name": "JAKUTSK",
+        "operator": "Roshydromet",
+        "wmo-id": 24959,
+        "latitude": 62.0166666667,
+        "longitude": 129.7166666667,
+        "elevation": "98.25",
+        "sonde": [
+            "90"
+        ]
+    },
+    {
+        "name": "CHERSKIJ",
+        "operator": "Roshydromet",
+        "wmo-id": 25123,
+        "latitude": 68.75,
+        "longitude": 161.2833333333,
+        "elevation": "32",
+        "sonde": [
+            "58",
+            "60"
+        ]
+    },
+    {
+        "name": "OMOLON",
+        "operator": "Roshydromet",
+        "wmo-id": 25428,
+        "latitude": 65.2333333333,
+        "longitude": 160.5333333333,
+        "elevation": "260",
+        "sonde": [
+            "62",
+            "90"
+        ]
+    },
+    {
+        "name": "SEJMCHAN",
+        "operator": "Roshydromet",
+        "wmo-id": 25703,
+        "latitude": 62.9166666667,
+        "longitude": 152.4166666667,
+        "elevation": "206.08",
+        "sonde": [
+            "90",
+            "28"
+        ]
+    },
+    {
+        "name": "MAGADAN",
+        "operator": "Roshydromet",
+        "wmo-id": 25913,
+        "latitude": 59.55,
+        "longitude": 150.7833333333,
+        "elevation": "115.33",
+        "sonde": [
+            "90"
+        ]
+    },
+    {
+        "name": "TALLINN-HARKU",
+        "operator": "EstEA",
+        "wmo-id": 26038,
+        "latitude": 59.3981,
+        "longitude": 24.6028,
+        "elevation": "33.16",
+        "sonde": [
+            "77"
+        ]
+    },
+    {
+        "name": "BOLOGOE",
+        "operator": "Roshydromet",
+        "wmo-id": 26298,
+        "latitude": 57.8833333333,
+        "longitude": 34.0333333333,
+        "elevation": "186",
+        "sonde": [
+            "90",
+            "89"
+        ]
+    },
+    {
+        "name": "SKRIVERI",
+        "operator": "LEGMA",
+        "wmo-id": 26435,
+        "latitude": 56.6425,
+        "longitude": 25.1283333333,
+        "elevation": "79.45",
+        "sonde": [
+            "41"
+        ]
+    },
+    {
+        "name": "VELIKIE LUKI",
+        "operator": "Roshydromet",
+        "wmo-id": 26477,
+        "latitude": 56.35,
+        "longitude": 30.6166666667,
+        "elevation": "97",
+        "sonde": [
+            "90",
+            "62"
+        ]
+    },
+    {
+        "name": "KALININGRAD",
+        "operator": "Roshydromet",
+        "wmo-id": 26702,
+        "latitude": 54.7263888889,
+        "longitude": 20.5583333333,
+        "elevation": "19.04",
+        "sonde": [
+            "90"
+        ]
+    },
+    {
+        "name": "SMOLENSK",
+        "operator": "Roshydromet",
+        "wmo-id": 26781,
+        "latitude": 54.75,
+        "longitude": 32.0666666667,
+        "elevation": "240",
+        "sonde": [
+            "62",
+            "90"
+        ]
+    },
+    {
+        "name": "GOMEL (33041-1)",
+        "operator": "Hydromet",
+        "wmo-id": 26850,
+        "latitude": 52.4019444444,
+        "longitude": 30.9630555556,
+        "elevation": "",
+        "sonde": [
+            "41"
+        ]
+    },
+    {
+        "name": "VOLOGDA (27038-0)",
+        "operator": "Roshydromet",
+        "wmo-id": 27038,
+        "latitude": 59.3183333333,
+        "longitude": 39.9255555556,
+        "elevation": "124.71",
+        "sonde": [
+            "90"
+        ]
+    },
+    {
+        "name": "KIROV (27199-0)",
+        "operator": "Roshydromet",
+        "wmo-id": 27199,
+        "latitude": 58.5666666667,
+        "longitude": 49.5666666667,
+        "elevation": "156.54",
+        "sonde": [
+            "29"
+        ]
+    },
+    {
+        "name": "NIZHNIJ NOVGOROD",
+        "operator": "Roshydromet",
+        "wmo-id": 27459,
+        "latitude": 56.2666666667,
+        "longitude": 44.0,
+        "elevation": "161.1",
+        "sonde": [
+            "89",
+            "62",
+            "90"
+        ]
+    },
+    {
+        "name": "SUHINICHI",
+        "operator": "Roshydromet",
+        "wmo-id": 27707,
+        "latitude": 54.1,
+        "longitude": 35.35,
+        "elevation": "237",
+        "sonde": [
+            "90",
+            "58"
+        ]
+    },
+    {
+        "name": "RYAZAN'",
+        "operator": "Roshydromet",
+        "wmo-id": 27730,
+        "latitude": 54.6333333333,
+        "longitude": 39.7,
+        "elevation": "155",
+        "sonde": [
+            "90",
+            "62"
+        ]
+    },
+    {
+        "name": "PENZA",
+        "operator": "Roshydromet",
+        "wmo-id": 27962,
+        "latitude": 53.1227777778,
+        "longitude": 45.0188888889,
+        "elevation": "169.49",
+        "sonde": [
+            "90"
+        ]
+    },
+    {
+        "name": "SAMARA (BEZENCHUK)",
+        "operator": "Roshydromet",
+        "wmo-id": 27995,
+        "latitude": 52.9833333333,
+        "longitude": 49.4333333333,
+        "elevation": "44.72",
+        "sonde": [
+            "90"
+        ]
+    },
+    {
+        "name": "PERM' (28225-1)",
+        "operator": "Roshydromet",
+        "wmo-id": 28225,
+        "latitude": 57.9583333333,
+        "longitude": 56.1972222222,
+        "elevation": "170",
+        "sonde": [
+            "90"
+        ]
+    },
+    {
+        "name": "TOBOL'SK",
+        "operator": "Roshydromet",
+        "wmo-id": 28275,
+        "latitude": 58.15,
+        "longitude": 68.25,
+        "elevation": "55.34",
+        "sonde": [
+            "90",
+            "62"
+        ]
+    },
+    {
+        "name": "EKATERINBURG (VERHNEE DUBROVO)",
+        "operator": "Roshydromet",
+        "wmo-id": 28445,
+        "latitude": 56.7333333333,
+        "longitude": 61.0666666667,
+        "elevation": "286.14",
+        "sonde": [
+            "90"
+        ]
+    },
+    {
+        "name": "KURGAN",
+        "operator": "Roshydromet",
+        "wmo-id": 28661,
+        "latitude": 55.4566666667,
+        "longitude": 65.4011111111,
+        "elevation": "70.78",
+        "sonde": [
+            "58"
+        ]
+    },
+    {
+        "name": "UFA-DIOMA",
+        "operator": "Roshydromet",
+        "wmo-id": 28722,
+        "latitude": 54.7105555556,
+        "longitude": 55.815,
+        "elevation": "103.6",
+        "sonde": [
+            "62",
+            "90"
+        ]
+    },
+    {
+        "name": "KOSTANAI",
+        "operator": "KAZHYDROMET",
+        "wmo-id": 28951,
+        "latitude": 53.2333333333,
+        "longitude": 63.6166666667,
+        "elevation": "",
+        "sonde": [
+            "17"
+        ]
+    },
+    {
+        "name": "KOLPASEVO",
+        "operator": "Roshydromet",
+        "wmo-id": 29231,
+        "latitude": 58.3166666667,
+        "longitude": 82.95,
+        "elevation": "72.9",
+        "sonde": [
+            "62",
+            "90"
+        ]
+    },
+    {
+        "name": "ENISEJSK",
+        "operator": "Roshydromet",
+        "wmo-id": 29263,
+        "latitude": 58.4527777778,
+        "longitude": 92.2027777778,
+        "elevation": "76.95",
+        "sonde": [
+            "90"
+        ]
+    },
+    {
+        "name": "BOGUCANY",
+        "operator": "Roshydromet",
+        "wmo-id": 29282,
+        "latitude": 58.3833333333,
+        "longitude": 97.45,
+        "elevation": "130.99",
+        "sonde": [
+            "58"
+        ]
+    },
+    {
+        "name": "EMEL' YANOVO",
+        "operator": "Roshydromet",
+        "wmo-id": 29572,
+        "latitude": 56.1805555556,
+        "longitude": 92.6055555556,
+        "elevation": "204.65",
+        "sonde": [
+            "29",
+            "90",
+            "62"
+        ]
+    },
+    {
+        "name": "BARABINSK",
+        "operator": "Roshydromet",
+        "wmo-id": 29612,
+        "latitude": 55.3544444444,
+        "longitude": 78.3083333333,
+        "elevation": "118.59",
+        "sonde": [
+            "90",
+            "28",
+            "58"
+        ]
+    },
+    {
+        "name": "NOVOSIBIRSK (29634-1)",
+        "operator": "Roshydromet",
+        "wmo-id": 29634,
+        "latitude": 54.9705555556,
+        "longitude": 82.9530555556,
+        "elevation": "",
+        "sonde": [
+            "62",
+            "58",
+            "90"
+        ]
+    },
+    {
+        "name": "NIZHNEUDINSK",
+        "operator": "Roshydromet",
+        "wmo-id": 29698,
+        "latitude": 54.8833333333,
+        "longitude": 99.0333333333,
+        "elevation": "410.65",
+        "sonde": [
+            "69"
+        ]
+    },
+    {
+        "name": "BARNAUL (29839-0)",
+        "operator": "Roshydromet",
+        "wmo-id": 29839,
+        "latitude": 53.5,
+        "longitude": 83.8333333333,
+        "elevation": "140.26",
+        "sonde": [
+            "90"
+        ]
+    },
+    {
+        "name": "ABAKAN",
+        "operator": "Roshydromet",
+        "wmo-id": 29862,
+        "latitude": 53.7666666667,
+        "longitude": 91.3166666667,
+        "elevation": "253.6",
+        "sonde": [
+            "62",
+            "90"
+        ]
+    },
+    {
+        "name": "VITIM",
+        "operator": "Roshydromet",
+        "wmo-id": 30054,
+        "latitude": 59.45,
+        "longitude": 112.5833333333,
+        "elevation": "186",
+        "sonde": [
+            "90",
+            "27"
+        ]
+    },
+    {
+        "name": "KIRENSK",
+        "operator": "Roshydromet",
+        "wmo-id": 30230,
+        "latitude": 57.7666666667,
+        "longitude": 108.0666666667,
+        "elevation": "256.49",
+        "sonde": [
+            "62"
+        ]
+    },
+    {
+        "name": "CHARA",
+        "operator": "Roshydromet",
+        "wmo-id": 30372,
+        "latitude": 56.9,
+        "longitude": 118.2666666667,
+        "elevation": "709",
+        "sonde": [
+            "90"
+        ]
+    },
+    {
+        "name": "UST'-BARGUZIN",
+        "operator": "Roshydromet",
+        "wmo-id": 30635,
+        "latitude": 53.4166666667,
+        "longitude": 109.0166666667,
+        "elevation": "459",
+        "sonde": [
+            "62"
+        ]
+    },
+    {
+        "name": "MOGOCHA",
+        "operator": "Roshydromet",
+        "wmo-id": 30673,
+        "latitude": 53.75,
+        "longitude": 119.7333333333,
+        "elevation": "624",
+        "sonde": [
+            "90"
+        ]
+    },
+    {
+        "name": "ANGARSK",
+        "operator": "Roshydromet",
+        "wmo-id": 30715,
+        "latitude": 52.4833333333,
+        "longitude": 103.85,
+        "elevation": "435.53",
+        "sonde": [
+            "69"
+        ]
+    },
+    {
+        "name": "CHITA",
+        "operator": "Roshydromet",
+        "wmo-id": 30758,
+        "latitude": 52.0833333333,
+        "longitude": 113.4833333333,
+        "elevation": "671",
+        "sonde": [
+            "90",
+            "29"
+        ]
+    },
+    {
+        "name": "KRASNYJ CHIKOJ",
+        "operator": "Roshydromet",
+        "wmo-id": 30935,
+        "latitude": 50.3666666667,
+        "longitude": 108.75,
+        "elevation": "770",
+        "sonde": [
+            "90"
+        ]
+    },
+    {
+        "name": "BORZYA",
+        "operator": "Roshydromet",
+        "wmo-id": 30965,
+        "latitude": 50.4,
+        "longitude": 116.5166666667,
+        "elevation": "675",
+        "sonde": [
+            "90"
+        ]
+    },
+    {
+        "name": "ALDAN",
+        "operator": "Roshydromet",
+        "wmo-id": 31004,
+        "latitude": 58.6166666667,
+        "longitude": 125.3666666667,
+        "elevation": "678.44",
+        "sonde": [
+            "90",
+            "27"
+        ]
+    },
+    {
+        "name": "OHOTSK",
+        "operator": "Roshydromet",
+        "wmo-id": 31088,
+        "latitude": 59.3666666667,
+        "longitude": 143.2,
+        "elevation": "4.6",
+        "sonde": [
+            "90",
+            "58"
+        ]
+    },
+    {
+        "name": "AYAN",
+        "operator": "Roshydromet",
+        "wmo-id": 31168,
+        "latitude": 56.45,
+        "longitude": 138.15,
+        "elevation": "6",
+        "sonde": [
+            "90"
+        ]
+    },
+    {
+        "name": "ZEJA",
+        "operator": "Roshydromet",
+        "wmo-id": 31300,
+        "latitude": 53.7413888889,
+        "longitude": 127.2763888889,
+        "elevation": "228",
+        "sonde": [
+            "90",
+            "69"
+        ]
+    },
+    {
+        "name": "NIKOLAEVSK-NA-AMURE",
+        "operator": "Roshydromet",
+        "wmo-id": 31369,
+        "latitude": 53.1475,
+        "longitude": 140.6938888889,
+        "elevation": "44.77",
+        "sonde": [
+            "90"
+        ]
+    },
+    {
+        "name": "BLAGOVESCETNSK",
+        "operator": "Roshydromet",
+        "wmo-id": 31510,
+        "latitude": 50.2802777778,
+        "longitude": 127.4783333333,
+        "elevation": "168",
+        "sonde": [
+            "90",
+            "58",
+            "69"
+        ]
+    },
+    {
+        "name": "SUTUR",
+        "operator": "Roshydromet",
+        "wmo-id": 31538,
+        "latitude": 50.0666666667,
+        "longitude": 132.1333333333,
+        "elevation": "343.22",
+        "sonde": [
+            "90"
+        ]
+    },
+    {
+        "name": "HABAROVSK (31736-0)",
+        "operator": "Roshydromet",
+        "wmo-id": 31736,
+        "latitude": 48.5333333333,
+        "longitude": 135.2333333333,
+        "elevation": "72",
+        "sonde": [
+            "90"
+        ]
+    },
+    {
+        "name": "SOVETSKAYA GAVAN'",
+        "operator": "Roshydromet",
+        "wmo-id": 31770,
+        "latitude": 49.0,
+        "longitude": 140.3,
+        "elevation": "20.54",
+        "sonde": [
+            "90"
+        ]
+    },
+    {
+        "name": "DAL'NERECHENSK",
+        "operator": "Roshydromet",
+        "wmo-id": 31873,
+        "latitude": 45.8666666667,
+        "longitude": 133.7333333333,
+        "elevation": "100",
+        "sonde": [
+            "90"
+        ]
+    },
+    {
+        "name": "VLADIVOSTOK (SAD GOROD)",
+        "operator": "Roshydromet",
+        "wmo-id": 31977,
+        "latitude": 43.2666666667,
+        "longitude": 132.05,
+        "elevation": "77",
+        "sonde": [
+            "62",
+            "90"
+        ]
+    },
+    {
+        "name": "ALEKSANDROVSK-SAHALINSKIJ",
+        "operator": "Roshydromet",
+        "wmo-id": 32061,
+        "latitude": 50.9,
+        "longitude": 142.1666666667,
+        "elevation": "30",
+        "sonde": [
+            "62",
+            "90"
+        ]
+    },
+    {
+        "name": "PORONAJSK",
+        "operator": "Roshydromet",
+        "wmo-id": 32098,
+        "latitude": 49.2166666667,
+        "longitude": 143.1,
+        "elevation": "7",
+        "sonde": [
+            "90"
+        ]
+    },
+    {
+        "name": "JUZHNO-SAHALINSK",
+        "operator": "Roshydromet",
+        "wmo-id": 32150,
+        "latitude": 46.95,
+        "longitude": 142.7166666667,
+        "elevation": "22",
+        "sonde": [
+            "90"
+        ]
+    },
+    {
+        "name": "SEVERO-KURIL'SK",
+        "operator": "Roshydromet",
+        "wmo-id": 32215,
+        "latitude": 50.6833333333,
+        "longitude": 156.1333333333,
+        "elevation": "24",
+        "sonde": [
+            "90"
+        ]
+    },
+    {
+        "name": "KLJUCHI",
+        "operator": "Roshydromet",
+        "wmo-id": 32389,
+        "latitude": 56.3166666667,
+        "longitude": 160.8333333333,
+        "elevation": "28",
+        "sonde": [
+            "90"
+        ]
+    },
+    {
+        "name": "SOBOLEVO",
+        "operator": "Roshydromet",
+        "wmo-id": 32477,
+        "latitude": 54.3,
+        "longitude": 155.9166666667,
+        "elevation": "25",
+        "sonde": [
+            "62"
+        ]
+    },
+    {
+        "name": "PETROPAVLOVSK-KAMCHATSKIJ (32540-0)",
+        "operator": "Roshydromet",
+        "wmo-id": 32540,
+        "latitude": 53.0833333333,
+        "longitude": 158.5833333333,
+        "elevation": "78",
+        "sonde": [
+            "90"
+        ]
+    },
+    {
+        "name": "OSTROV BERINGA",
+        "operator": "Roshydromet",
+        "wmo-id": 32618,
+        "latitude": 55.2,
+        "longitude": 165.9833333333,
+        "elevation": "16",
+        "sonde": [
+            "90",
+            "30"
+        ]
+    },
+    {
+        "name": "BREST (33008-1)",
+        "operator": "Hydromet",
+        "wmo-id": 33008,
+        "latitude": 52.1166666667,
+        "longitude": 23.6858333333,
+        "elevation": "",
+        "sonde": [
+            "41"
+        ]
+    },
+    {
+        "name": "GOMEL (33041-1)",
+        "operator": "Hydromet",
+        "wmo-id": 33041,
+        "latitude": 52.4019444444,
+        "longitude": 30.9630555556,
+        "elevation": "",
+        "sonde": [
+            "41"
+        ]
+    },
+    {
+        "name": "Shepetivka",
+        "operator": "UHC",
+        "wmo-id": 33317,
+        "latitude": 50.161414,
+        "longitude": 27.037047,
+        "elevation": "278",
+        "sonde": [
+            "15"
+        ]
+    },
+    {
+        "name": "Kyiv",
+        "operator": "UHC",
+        "wmo-id": 33345,
+        "latitude": 50.391792,
+        "longitude": 30.535631,
+        "elevation": "167",
+        "sonde": [
+            "16",
+            "15"
+        ]
+    },
+    {
+        "name": "Lviv",
+        "operator": "UHC",
+        "wmo-id": 33393,
+        "latitude": 49.807489,
+        "longitude": 23.965106,
+        "elevation": "323",
+        "sonde": [
+            "15"
+        ]
+    },
+    {
+        "name": "Kryvyi Rih",
+        "operator": "UHC",
+        "wmo-id": 33791,
+        "latitude": 48.0537139,
+        "longitude": 33.211139,
+        "elevation": "124",
+        "sonde": [
+            "15"
+        ]
+    },
+    {
+        "name": "Odesa",
+        "operator": "UHC",
+        "wmo-id": 33837,
+        "latitude": 46.440753,
+        "longitude": 30.770336,
+        "elevation": "42",
+        "sonde": [
+            "15"
+        ]
+    },
+    {
+        "name": "KURSK",
+        "operator": "Roshydromet",
+        "wmo-id": 34009,
+        "latitude": 51.7666666667,
+        "longitude": 36.1666666667,
+        "elevation": "246.45",
+        "sonde": [
+            "90"
+        ]
+    },
+    {
+        "name": "VORONEZ (34122-0)",
+        "operator": "Roshydromet",
+        "wmo-id": 34122,
+        "latitude": 51.65,
+        "longitude": 39.25,
+        "elevation": "100",
+        "sonde": [
+            "90",
+            "27"
+        ]
+    },
+    {
+        "name": "SARATOV (34172-1)",
+        "operator": "Roshydromet",
+        "wmo-id": 34172,
+        "latitude": 51.5566666667,
+        "longitude": 46.0394444444,
+        "elevation": "162.5",
+        "sonde": [
+            "90"
+        ]
+    },
+    {
+        "name": "KALACH",
+        "operator": "Roshydromet",
+        "wmo-id": 34247,
+        "latitude": 50.4166666667,
+        "longitude": 41.05,
+        "elevation": "90.38",
+        "sonde": [
+            "90"
+        ]
+    },
+    {
+        "name": "Kharkiv",
+        "operator": "UHC",
+        "wmo-id": 34300,
+        "latitude": 49.927978,
+        "longitude": 36.282428,
+        "elevation": "156",
+        "sonde": [
+            "16"
+        ]
+    },
+    {
+        "name": "VOLGOGRAD (34467-1)",
+        "operator": "Roshydromet",
+        "wmo-id": 34467,
+        "latitude": 48.7833333333,
+        "longitude": 44.3333333333,
+        "elevation": "",
+        "sonde": [
+            "89",
+            "90"
+        ]
+    },
+    {
+        "name": "ROSTOV-NA-DONU (34731-1)",
+        "operator": "Roshydromet",
+        "wmo-id": 34731,
+        "latitude": 47.25,
+        "longitude": 39.8166666667,
+        "elevation": "",
+        "sonde": [
+            "90",
+            "62"
+        ]
+    },
+    {
+        "name": "DIVNOE",
+        "operator": "Roshydromet",
+        "wmo-id": 34858,
+        "latitude": 45.9166666667,
+        "longitude": 43.35,
+        "elevation": "85.91",
+        "sonde": [
+            "90",
+            "59"
+        ]
+    },
+    {
+        "name": "ASTRAHAN' (34882-1)",
+        "operator": "Roshydromet",
+        "wmo-id": 34882,
+        "latitude": 46.2833333333,
+        "longitude": 47.9833333333,
+        "elevation": "",
+        "sonde": [
+            "90",
+            "29"
+        ]
+    },
+    {
+        "name": "ORENBURG",
+        "operator": "Roshydromet",
+        "wmo-id": 35121,
+        "latitude": 51.6925,
+        "longitude": 55.0783333333,
+        "elevation": "114.81",
+        "sonde": [
+            "90"
+        ]
+    },
+    {
+        "name": "AKTOBE",
+        "operator": "KAZHYDROMET",
+        "wmo-id": 35229,
+        "latitude": 50.2833333333,
+        "longitude": 57.15,
+        "elevation": "",
+        "sonde": [
+            "27",
+            "17"
+        ]
+    },
+    {
+        "name": "OMSK (28698-1)",
+        "operator": "Roshydromet",
+        "wmo-id": 35394,
+        "latitude": 54.9333333333,
+        "longitude": 73.4,
+        "elevation": "",
+        "sonde": [
+            "17"
+        ]
+    },
+    {
+        "name": "ZHEZKAZGAN",
+        "operator": "KAZHYDROMET",
+        "wmo-id": 35671,
+        "latitude": 47.8,
+        "longitude": 67.7166666667,
+        "elevation": "",
+        "sonde": [
+            "27"
+        ]
+    },
+    {
+        "name": "ATYRAU",
+        "operator": "KAZHYDROMET",
+        "wmo-id": 35700,
+        "latitude": 47.1166666667,
+        "longitude": 51.9166666667,
+        "elevation": "",
+        "sonde": [
+            "88"
+        ]
+    },
+    {
+        "name": "BARABINSK",
+        "operator": "Roshydromet",
+        "wmo-id": 36003,
+        "latitude": 55.3544444444,
+        "longitude": 78.3083333333,
+        "elevation": "118.59",
+        "sonde": [
+            "88"
+        ]
+    },
+    {
+        "name": "KYZYL",
+        "operator": "Roshydromet",
+        "wmo-id": 36096,
+        "latitude": 51.7166666667,
+        "longitude": 94.5,
+        "elevation": "626.13",
+        "sonde": [
+            "90",
+            "62"
+        ]
+    },
+    {
+        "name": "ALMATY (36872-0)",
+        "operator": "KAZHYDROMET",
+        "wmo-id": 36872,
+        "latitude": 43.3633333333,
+        "longitude": 77.0041666667,
+        "elevation": "",
+        "sonde": [
+            "89"
+        ]
+    },
+    {
+        "name": "TUAPSE (37011-1)",
+        "operator": "Roshydromet",
+        "wmo-id": 37011,
+        "latitude": 44.1,
+        "longitude": 39.0333333333,
+        "elevation": "94.63",
+        "sonde": [
+            "62"
+        ]
+    },
+    {
+        "name": "MINERAL'NYE VODY (37055-1)",
+        "operator": "Roshydromet",
+        "wmo-id": 37055,
+        "latitude": 44.2166666667,
+        "longitude": 43.1,
+        "elevation": "",
+        "sonde": [
+            "89",
+            "90"
+        ]
+    },
+    {
+        "name": "MAHACHKALA (37259-1)",
+        "operator": "Roshydromet",
+        "wmo-id": 37259,
+        "latitude": 43.0,
+        "longitude": 47.5,
+        "elevation": "-19.74",
+        "sonde": [
+            "90",
+            "89"
+        ]
+    },
+    {
+        "name": "YEREVAN AERO",
+        "operator": "ASHMS",
+        "wmo-id": 37789,
+        "latitude": 40.2169444444,
+        "longitude": 44.5016666667,
+        "elevation": "1139.7",
+        "sonde": [
+            "77"
+        ]
+    },
+    {
+        "name": "KYZYLORDA (38064-0)",
+        "operator": "KAZHYDROMET",
+        "wmo-id": 38064,
+        "latitude": 44.7666666667,
+        "longitude": 65.5166666667,
+        "elevation": "",
+        "sonde": [
+            "09"
+        ]
+    },
+    {
+        "name": "TARAZ",
+        "operator": "KAZHYDROMET",
+        "wmo-id": 38341,
+        "latitude": 42.85,
+        "longitude": 71.3,
+        "elevation": "",
+        "sonde": [
+            "27",
+            "88"
+        ]
+    },
+    {
+        "name": "BET DAGAN",
+        "operator": "IMS",
+        "wmo-id": 40179,
+        "latitude": 32.0,
+        "longitude": 34.8166666667,
+        "elevation": "",
+        "sonde": [
+            "41"
+        ]
+    },
+    {
+        "name": "ASHDOD NORTH",
+        "operator": "IMS",
+        "wmo-id": 40186,
+        "latitude": 31.8666666667,
+        "longitude": 34.6833333333,
+        "elevation": "",
+        "sonde": [
+            "07"
+        ]
+    },
+    {
+        "name": "MAFRAQ",
+        "operator": "JMD",
+        "wmo-id": 40265,
+        "latitude": 32.3666666667,
+        "longitude": 36.25,
+        "elevation": "683",
+        "sonde": [
+            "17"
+        ]
+    },
+    {
+        "name": "AL-QAISUMAH",
+        "operator": "",
+        "wmo-id": 40373,
+        "latitude": 28.3166666667,
+        "longitude": 46.1333333333,
+        "elevation": "358",
+        "sonde": [
+            "41"
+        ]
+    },
+    {
+        "name": "TABUK",
+        "operator": "",
+        "wmo-id": 40375,
+        "latitude": 28.3833333333,
+        "longitude": 36.6,
+        "elevation": "778",
+        "sonde": [
+            "41"
+        ]
+    },
+    {
+        "name": "HAIL",
+        "operator": "",
+        "wmo-id": 40394,
+        "latitude": 27.4333333333,
+        "longitude": 41.6833333333,
+        "elevation": "1015",
+        "sonde": [
+            "41"
+        ]
+    },
+    {
+        "name": "K.F.I.A. (KING FAHAD INT. AIRPORT) DAMMAM",
+        "operator": "",
+        "wmo-id": 40417,
+        "latitude": 26.45,
+        "longitude": 49.8166666667,
+        "elevation": "22",
+        "sonde": [
+            "41"
+        ]
+    },
+    {
+        "name": "AL-MADINAH",
+        "operator": "",
+        "wmo-id": 40430,
+        "latitude": 24.55,
+        "longitude": 39.7,
+        "elevation": "654",
+        "sonde": [
+            "41"
+        ]
+    },
+    {
+        "name": "KING KHALED INT. AIRPORT",
+        "operator": "",
+        "wmo-id": 40437,
+        "latitude": 24.9333333333,
+        "longitude": 46.7166666667,
+        "elevation": "614",
+        "sonde": [
+            "41"
+        ]
+    },
+    {
+        "name": "TABRIZ",
+        "operator": "IRIMO",
+        "wmo-id": 40706,
+        "latitude": 38.1222,
+        "longitude": 46.2425,
+        "elevation": "1361",
+        "sonde": [
+            "77"
+        ]
+    },
+    {
+        "name": "MASHHAD",
+        "operator": "IRIMO",
+        "wmo-id": 40745,
+        "latitude": 36.2363,
+        "longitude": 59.6311,
+        "elevation": "999.2",
+        "sonde": [
+            "77"
+        ]
+    },
+    {
+        "name": "TEHRAN-MEHRABAD",
+        "operator": "IRIMO",
+        "wmo-id": 40754,
+        "latitude": 35.6933,
+        "longitude": 51.3094,
+        "elevation": "1191",
+        "sonde": [
+            "77"
+        ]
+    },
+    {
+        "name": "KERMANSHAH",
+        "operator": "IRIMO",
+        "wmo-id": 40766,
+        "latitude": 34.3522,
+        "longitude": 47.1533,
+        "elevation": "1318.5",
+        "sonde": [
+            "77"
+        ]
+    },
+    {
+        "name": "ESFAHAN",
+        "operator": "IRIMO",
+        "wmo-id": 40800,
+        "latitude": 32.5175,
+        "longitude": 51.7061,
+        "elevation": "1550.4",
+        "sonde": [
+            "77"
+        ]
+    },
+    {
+        "name": "BIRJAND",
+        "operator": "IRIMO",
+        "wmo-id": 40809,
+        "latitude": 32.8905,
+        "longitude": 59.2836,
+        "elevation": "1491",
+        "sonde": [
+            "77"
+        ]
+    },
+    {
+        "name": "AHWAZ",
+        "operator": "IRIMO",
+        "wmo-id": 40811,
+        "latitude": 31.3447,
+        "longitude": 48.7441,
+        "elevation": "22.5",
+        "sonde": [
+            "77"
+        ]
+    },
+    {
+        "name": "KERMAN",
+        "operator": "IRIMO",
+        "wmo-id": 40841,
+        "latitude": 30.25,
+        "longitude": 56.9666666667,
+        "elevation": "1748",
+        "sonde": [
+            "77"
+        ]
+    },
+    {
+        "name": "SHIRAZ",
+        "operator": "IRIMO",
+        "wmo-id": 40848,
+        "latitude": 29.5613,
+        "longitude": 52.6025,
+        "elevation": "1488",
+        "sonde": [
+            "77"
+        ]
+    },
+    {
+        "name": "BIRJAND",
+        "operator": "IRIMO",
+        "wmo-id": 40856,
+        "latitude": 32.8905,
+        "longitude": 59.2836,
+        "elevation": "1491",
+        "sonde": [
+            "77"
+        ]
+    },
+    {
+        "name": "KABUL AIRPORT",
+        "operator": "AMA",
+        "wmo-id": 40948,
+        "latitude": 34.55,
+        "longitude": 69.2166666667,
+        "elevation": "",
+        "sonde": [
+            "23"
+        ]
+    },
+    {
+        "name": "JEDDAH (KING ABDUL AZIZ INT. AIRPORT)",
+        "operator": "",
+        "wmo-id": 41024,
+        "latitude": 21.7,
+        "longitude": 39.1833333333,
+        "elevation": "15",
+        "sonde": [
+            "41"
+        ]
+    },
+    {
+        "name": "ABHA",
+        "operator": "",
+        "wmo-id": 41112,
+        "latitude": 18.2333333333,
+        "longitude": 42.65,
+        "elevation": "2090",
+        "sonde": [
+            "41"
+        ]
+    },
+    {
+        "name": "ABU DHABI INTERNATIONAL AIRPORT",
+        "operator": "NCMS",
+        "wmo-id": 41217,
+        "latitude": 24.4333333333,
+        "longitude": 54.65,
+        "elevation": "16",
+        "sonde": [
+            "41"
+        ]
+    },
+    {
+        "name": "MUSCAT INT'L AIRPORT",
+        "operator": "MetOman",
+        "wmo-id": 41256,
+        "latitude": 23.608673211,
+        "longitude": 58.2614592121,
+        "elevation": "2",
+        "sonde": [
+            "41"
+        ]
+    },
+    {
+        "name": "SALALAH AIRPORT",
+        "operator": "MetOman",
+        "wmo-id": 41316,
+        "latitude": 17.0346360021,
+        "longitude": 54.073684221,
+        "elevation": "20",
+        "sonde": [
+            "41"
+        ]
+    },
+    {
+        "name": "AGARTALA",
+        "operator": "IMD",
+        "wmo-id": 41891,
+        "latitude": 23.8833333333,
+        "longitude": 91.25,
+        "elevation": "16",
+        "sonde": [
+            "07"
+        ]
+    },
+    {
+        "name": "CHITTAGONG (AMBAGAN)",
+        "operator": "BMD",
+        "wmo-id": 41977,
+        "latitude": 22.35,
+        "longitude": 91.8166666667,
+        "elevation": "33",
+        "sonde": [
+            "07"
+        ]
+    },
+    {
+        "name": "SRINAGAR (42027-0)",
+        "operator": "IMD",
+        "wmo-id": 42027,
+        "latitude": 34.0833333333,
+        "longitude": 74.8333333333,
+        "elevation": "1585",
+        "sonde": [
+            "21"
+        ]
+    },
+    {
+        "name": "LAHORE CITY",
+        "operator": "PMD",
+        "wmo-id": 42056,
+        "latitude": 31.55,
+        "longitude": 74.3333333333,
+        "elevation": "214",
+        "sonde": [
+            "21"
+        ]
+    },
+    {
+        "name": "PATIALA",
+        "operator": "IMD",
+        "wmo-id": 42101,
+        "latitude": 30.3333333333,
+        "longitude": 76.4666666667,
+        "elevation": "251",
+        "sonde": [
+            "21"
+        ]
+    },
+    {
+        "name": "NEW DELHI/SAFDARJUNG",
+        "operator": "IMD",
+        "wmo-id": 42182,
+        "latitude": 28.5833333333,
+        "longitude": 77.2,
+        "elevation": "211",
+        "sonde": [
+            "17"
+        ]
+    },
+    {
+        "name": "BOGRA",
+        "operator": "BMD",
+        "wmo-id": 42299,
+        "latitude": 24.85,
+        "longitude": 89.3666666667,
+        "elevation": "18",
+        "sonde": [
+            "21"
+        ]
+    },
+    {
+        "name": "DIBRUGARH /MOHANBARI",
+        "operator": "IMD",
+        "wmo-id": 42314,
+        "latitude": 27.4833333333,
+        "longitude": 95.0166666667,
+        "elevation": "110",
+        "sonde": [
+            "21"
+        ]
+    },
+    {
+        "name": "JODHPUR",
+        "operator": "IMD",
+        "wmo-id": 42339,
+        "latitude": 26.3,
+        "longitude": 73.0166666667,
+        "elevation": "217",
+        "sonde": [
+            "21"
+        ]
+    },
+    {
+        "name": "GWALIOR",
+        "operator": "IMD",
+        "wmo-id": 42361,
+        "latitude": 26.2333333333,
+        "longitude": 78.25,
+        "elevation": "205",
+        "sonde": [
+            "21"
+        ]
+    },
+    {
+        "name": "LUCKNOW/AMAUSI",
+        "operator": "IMD",
+        "wmo-id": 42369,
+        "latitude": 26.75,
+        "longitude": 80.8833333333,
+        "elevation": "122",
+        "sonde": [
+            "21"
+        ]
+    },
+    {
+        "name": "GORAKHPUR",
+        "operator": "IMD",
+        "wmo-id": 42379,
+        "latitude": 26.75,
+        "longitude": 83.3666666667,
+        "elevation": "78.3",
+        "sonde": [
+            "21"
+        ]
+    },
+    {
+        "name": "GUWAHATI",
+        "operator": "IMD",
+        "wmo-id": 42410,
+        "latitude": 26.1,
+        "longitude": 91.5833333333,
+        "elevation": "54",
+        "sonde": [
+            "17"
+        ]
+    },
+    {
+        "name": "PATNA",
+        "operator": "IMD",
+        "wmo-id": 42492,
+        "latitude": 25.6,
+        "longitude": 85.1666666667,
+        "elevation": "51",
+        "sonde": [
+            "21"
+        ]
+    },
+    {
+        "name": "AHMADABAD",
+        "operator": "IMD",
+        "wmo-id": 42647,
+        "latitude": 23.0666666667,
+        "longitude": 72.6333333333,
+        "elevation": "55",
+        "sonde": [
+            "21"
+        ]
+    },
+    {
+        "name": "BHOPAL/BAIRAGHAR",
+        "operator": "IMD",
+        "wmo-id": 42667,
+        "latitude": 23.2833333333,
+        "longitude": 77.35,
+        "elevation": "522",
+        "sonde": [
+            "21"
+        ]
+    },
+    {
+        "name": "M.O. RANCHI",
+        "operator": "IMD",
+        "wmo-id": 42701,
+        "latitude": 23.3166666667,
+        "longitude": 85.3166666667,
+        "elevation": "646",
+        "sonde": [
+            "21"
+        ]
+    },
+    {
+        "name": "AGARTALA",
+        "operator": "IMD",
+        "wmo-id": 42724,
+        "latitude": 23.8833333333,
+        "longitude": 91.25,
+        "elevation": "16",
+        "sonde": [
+            "21"
+        ]
+    },
+    {
+        "name": "KOLKATA/DUM DUM",
+        "operator": "IMD",
+        "wmo-id": 42809,
+        "latitude": 22.65,
+        "longitude": 88.45,
+        "elevation": "6",
+        "sonde": [
+            "17"
+        ]
+    },
+    {
+        "name": "NAGPUR SONEGAON",
+        "operator": "IMD",
+        "wmo-id": 42867,
+        "latitude": 21.1,
+        "longitude": 79.05,
+        "elevation": "310",
+        "sonde": [
+            "17"
+        ]
+    },
+    {
+        "name": "PBO RAIPUR",
+        "operator": "IMD",
+        "wmo-id": 42874,
+        "latitude": 21.2333333333,
+        "longitude": 81.65,
+        "elevation": "296",
+        "sonde": [
+            "21"
+        ]
+    },
+    {
+        "name": "BHUBANESHWAR",
+        "operator": "IMD",
+        "wmo-id": 42971,
+        "latitude": 20.25,
+        "longitude": 85.8333333333,
+        "elevation": "45",
+        "sonde": [
+            "21"
+        ]
+    },
+    {
+        "name": "BOMBAY / SANTACRUZ",
+        "operator": "IMD",
+        "wmo-id": 43003,
+        "latitude": 19.1166666667,
+        "longitude": 72.85,
+        "elevation": "14.2",
+        "sonde": [
+            "17"
+        ]
+    },
+    {
+        "name": "JAGDALPUR",
+        "operator": "IMD",
+        "wmo-id": 43041,
+        "latitude": 19.0833333333,
+        "longitude": 82.0333333333,
+        "elevation": "554",
+        "sonde": [
+            "21"
+        ]
+    },
+    {
+        "name": "BOMBAY / SANTACRUZ",
+        "operator": "IMD",
+        "wmo-id": 43063,
+        "latitude": 19.1166666667,
+        "longitude": 72.85,
+        "elevation": "14.2",
+        "sonde": [
+            "21"
+        ]
+    },
+    {
+        "name": "HYDERABAD AIRPORT",
+        "operator": "IMD",
+        "wmo-id": 43128,
+        "latitude": 17.45,
+        "longitude": 78.4666666667,
+        "elevation": "530",
+        "sonde": [
+            "21"
+        ]
+    },
+    {
+        "name": "VISHAKHAPATNAM/WALTAIR",
+        "operator": "IMD",
+        "wmo-id": 43150,
+        "latitude": 17.6833333333,
+        "longitude": 83.3,
+        "elevation": "",
+        "sonde": [
+            "21"
+        ]
+    },
+    {
+        "name": "MACHILIPATNAM/FRANCHPET",
+        "operator": "IMD",
+        "wmo-id": 43185,
+        "latitude": 16.2,
+        "longitude": 81.15,
+        "elevation": "3.05",
+        "sonde": [
+            "21"
+        ]
+    },
+    {
+        "name": "GOA/PANJIM",
+        "operator": "IMD",
+        "wmo-id": 43192,
+        "latitude": 15.4833333333,
+        "longitude": 73.8166666667,
+        "elevation": "58.4",
+        "sonde": [
+            "21"
+        ]
+    },
+    {
+        "name": "CHENNAI/MINAMBAKKAM",
+        "operator": "IMD",
+        "wmo-id": 43279,
+        "latitude": 13.0,
+        "longitude": 80.1833333333,
+        "elevation": "13.7",
+        "sonde": [
+            "17"
+        ]
+    },
+    {
+        "name": "MANGALORE/PANAMBUR",
+        "operator": "IMD",
+        "wmo-id": 43285,
+        "latitude": 12.95,
+        "longitude": 74.8333333333,
+        "elevation": "30.8",
+        "sonde": [
+            "21"
+        ]
+    },
+    {
+        "name": "BANGALORE",
+        "operator": "IMD",
+        "wmo-id": 43295,
+        "latitude": 12.9666666667,
+        "longitude": 77.5833333333,
+        "elevation": "917",
+        "sonde": [
+            "21"
+        ]
+    },
+    {
+        "name": "AMINIDIVI",
+        "operator": "IMD",
+        "wmo-id": 43311,
+        "latitude": 11.1166666667,
+        "longitude": 72.7333333333,
+        "elevation": "2.7",
+        "sonde": [
+            "21"
+        ]
+    },
+    {
+        "name": "PORT BLAIR",
+        "operator": "IMD",
+        "wmo-id": 43333,
+        "latitude": 11.6666666667,
+        "longitude": 92.7166666667,
+        "elevation": "79",
+        "sonde": [
+            "21"
+        ]
+    },
+    {
+        "name": "KARAIKAL",
+        "operator": "IMD",
+        "wmo-id": 43346,
+        "latitude": 10.9166666667,
+        "longitude": 79.8333333333,
+        "elevation": "6.95",
+        "sonde": [
+            "21"
+        ]
+    },
+    {
+        "name": "THIRUVANANTHAPURAM (43371-0)",
+        "operator": "IMD",
+        "wmo-id": 43353,
+        "latitude": 8.4833333333,
+        "longitude": 76.95,
+        "elevation": "59.9",
+        "sonde": [
+            "21"
+        ]
+    },
+    {
+        "name": "MINICOY",
+        "operator": "IMD",
+        "wmo-id": 43369,
+        "latitude": 8.3,
+        "longitude": 73.15,
+        "elevation": "0.9",
+        "sonde": [
+            "21"
+        ]
+    },
+    {
+        "name": "THIRUVANANTHAPURAM (43371-0)",
+        "operator": "IMD",
+        "wmo-id": 43371,
+        "latitude": 8.4833333333,
+        "longitude": 76.95,
+        "elevation": "59.9",
+        "sonde": [
+            "21"
+        ]
+    },
+    {
+        "name": "COLOMBO",
+        "operator": "KVD",
+        "wmo-id": 43466,
+        "latitude": 6.9,
+        "longitude": 79.8666666667,
+        "elevation": "7",
+        "sonde": [
+            "07",
+            "35"
+        ]
+    },
+    {
+        "name": "GAN",
+        "operator": "MMS",
+        "wmo-id": 43599,
+        "latitude": -0.6933333333,
+        "longitude": 73.1555555556,
+        "elevation": "1.8",
+        "sonde": [
+            "99"
+        ]
+    },
+    {
+        "name": "ULAANGOM",
+        "operator": "IMH",
+        "wmo-id": 44212,
+        "latitude": 49.9714,
+        "longitude": 92.0778,
+        "elevation": "939.1",
+        "sonde": [
+            "77"
+        ]
+    },
+    {
+        "name": "MUREN",
+        "operator": "IMH",
+        "wmo-id": 44231,
+        "latitude": 49.6384,
+        "longitude": 100.167,
+        "elevation": "1291",
+        "sonde": [
+            "77"
+        ]
+    },
+    {
+        "name": "DALANZADGAD",
+        "operator": "IMH",
+        "wmo-id": 44373,
+        "latitude": 43.5772,
+        "longitude": 104.4181,
+        "elevation": "1462",
+        "sonde": [
+            "33"
+        ]
+    },
+    {
+        "name": "QINGYUAN (59280-0)",
+        "operator": "CMA",
+        "wmo-id": 45004,
+        "latitude": 23.7166666667,
+        "longitude": 113.0833333333,
+        "elevation": "79.2",
+        "sonde": [
+            "41"
+        ]
+    },
+    {
+        "name": "BAENGNYEONGDO",
+        "operator": "KMA",
+        "wmo-id": 47102,
+        "latitude": 37.97396,
+        "longitude": 124.71241,
+        "elevation": "36",
+        "sonde": [
+            "21",
+            "12",
+            "45"
+        ]
+    },
+    {
+        "name": "OSAN AB",
+        "operator": "KMA",
+        "wmo-id": 47104,
+        "latitude": 37.0833333333,
+        "longitude": 127.0333333333,
+        "elevation": "11.8",
+        "sonde": [
+            "45",
+            "77"
+        ]
+    },
+    {
+        "name": "OSAN AB",
+        "operator": "KMA",
+        "wmo-id": 47122,
+        "latitude": 37.0833333333,
+        "longitude": 127.0333333333,
+        "elevation": "11.8",
+        "sonde": [
+            "21"
+        ]
+    },
+    {
+        "name": "POHANG",
+        "operator": "KMA",
+        "wmo-id": 47138,
+        "latitude": 36.0319444444,
+        "longitude": 129.38,
+        "elevation": "2.88",
+        "sonde": [
+            "21",
+            "12",
+            "45"
+        ]
+    },
+    {
+        "name": "CHANGWON",
+        "operator": "KMA",
+        "wmo-id": 47155,
+        "latitude": 35.1702777778,
+        "longitude": 128.5727777778,
+        "elevation": "37.67",
+        "sonde": [
+            "42"
+        ]
+    },
+    {
+        "name": "GWANGJU AB",
+        "operator": "KMA",
+        "wmo-id": 47158,
+        "latitude": 35.1166666667,
+        "longitude": 126.8,
+        "elevation": "12.5",
+        "sonde": [
+            "45",
+            "21"
+        ]
+    },
+    {
+        "name": "HEUKSANDO",
+        "operator": "KMA",
+        "wmo-id": 47169,
+        "latitude": 34.6872222222,
+        "longitude": 125.4511111111,
+        "elevation": "77.07",
+        "sonde": [
+            "45"
+        ]
+    },
+    {
+        "name": "WAKKANAI",
+        "operator": "JMA",
+        "wmo-id": 47401,
+        "latitude": 45.41527777,
+        "longitude": 141.67861111,
+        "elevation": "2.85",
+        "sonde": [
+            "35"
+        ]
+    },
+    {
+        "name": "SAPPORO",
+        "operator": "JMA",
+        "wmo-id": 47412,
+        "latitude": 43.06,
+        "longitude": 141.3286111111,
+        "elevation": "17.45",
+        "sonde": [
+            "35"
+        ]
+    },
+    {
+        "name": "KUSHIRO (47418-1)",
+        "operator": "JMA",
+        "wmo-id": 47418,
+        "latitude": 42.9530555556,
+        "longitude": 144.4375,
+        "elevation": "14",
+        "sonde": [
+            "42"
+        ]
+    },
+    {
+        "name": "MISAWA AB",
+        "operator": "JMA",
+        "wmo-id": 47580,
+        "latitude": 40.7052777778,
+        "longitude": 141.3719444444,
+        "elevation": "36.27",
+        "sonde": [
+            "22"
+        ]
+    },
+    {
+        "name": "AKITA (47582-1)",
+        "operator": "JMA",
+        "wmo-id": 47582,
+        "latitude": 39.7175,
+        "longitude": 140.0991666667,
+        "elevation": "6.3",
+        "sonde": [
+            "35"
+        ]
+    },
+    {
+        "name": "WAJIMA",
+        "operator": "JMA",
+        "wmo-id": 47600,
+        "latitude": 37.3913888889,
+        "longitude": 136.8952777778,
+        "elevation": "5.16",
+        "sonde": [
+            "42"
+        ]
+    },
+    {
+        "name": "TATENO",
+        "operator": "JMA",
+        "wmo-id": 47646,
+        "latitude": 36.0580555556,
+        "longitude": 140.1258333333,
+        "elevation": "25.2",
+        "sonde": [
+            "35"
+        ]
+    },
+    {
+        "name": "HAMAMATSU AB",
+        "operator": "JMA",
+        "wmo-id": 47678,
+        "latitude": 34.7502777778,
+        "longitude": 137.7030555556,
+        "elevation": "45.72",
+        "sonde": [
+            "35"
+        ]
+    },
+    {
+        "name": "HAMAMATSU AB",
+        "operator": "JMA",
+        "wmo-id": 47681,
+        "latitude": 34.7502777778,
+        "longitude": 137.7030555556,
+        "elevation": "45.72",
+        "sonde": [
+            "22"
+        ]
+    },
+    {
+        "name": "MATSUE",
+        "operator": "JMA",
+        "wmo-id": 47741,
+        "latitude": 35.4572222222,
+        "longitude": 133.0655555556,
+        "elevation": "16.9",
+        "sonde": [
+            "42"
+        ]
+    },
+    {
+        "name": "SHIONOMISAKI (47778-1)",
+        "operator": "JMA",
+        "wmo-id": 47778,
+        "latitude": 33.4502777778,
+        "longitude": 135.7572222222,
+        "elevation": "67.53",
+        "sonde": [
+            "42"
+        ]
+    },
+    {
+        "name": "FUKUOKA",
+        "operator": "JMA",
+        "wmo-id": 47807,
+        "latitude": 33.5822222222,
+        "longitude": 130.3763888889,
+        "elevation": "2.5",
+        "sonde": [
+            "35"
+        ]
+    },
+    {
+        "name": "KAGOSHIMA",
+        "operator": "JMA",
+        "wmo-id": 47827,
+        "latitude": 31.555,
+        "longitude": 130.5480555556,
+        "elevation": "3.9",
+        "sonde": [
+            "35"
+        ]
+    },
+    {
+        "name": "NAZE/FUNCHATOGE",
+        "operator": "JMA",
+        "wmo-id": 47909,
+        "latitude": 28.3941666667,
+        "longitude": 129.5527777778,
+        "elevation": "293.7",
+        "sonde": [
+            "35"
+        ]
+    },
+    {
+        "name": "ISHIGAKIJIMA",
+        "operator": "JMA",
+        "wmo-id": 47918,
+        "latitude": 24.3366666667,
+        "longitude": 124.1644444444,
+        "elevation": "5.7",
+        "sonde": [
+            "35"
+        ]
+    },
+    {
+        "name": "MINAMIDAITOJIMA",
+        "operator": "JMA",
+        "wmo-id": 47945,
+        "latitude": 25.8288888889,
+        "longitude": 131.2286111111,
+        "elevation": "15.3",
+        "sonde": [
+            "35"
+        ]
+    },
+    {
+        "name": "CHICHIJIMA",
+        "operator": "JMA",
+        "wmo-id": 47971,
+        "latitude": 27.0922222222,
+        "longitude": 142.1913888889,
+        "elevation": "2.7",
+        "sonde": [
+            "35"
+        ]
+    },
+    {
+        "name": "MINAMITORISHIMA",
+        "operator": "JMA",
+        "wmo-id": 47991,
+        "latitude": 24.2883333333,
+        "longitude": 153.9833333333,
+        "elevation": "7.1",
+        "sonde": [
+            "35"
+        ]
+    },
+    {
+        "name": "CHIANG MAI",
+        "operator": "TMD",
+        "wmo-id": 48327,
+        "latitude": 18.7705555556,
+        "longitude": 98.9683333333,
+        "elevation": "313.2",
+        "sonde": [
+            "78"
+        ]
+    },
+    {
+        "name": "UBON RATCHATHANI",
+        "operator": "TMD",
+        "wmo-id": 48407,
+        "latitude": 15.25,
+        "longitude": 104.8666666667,
+        "elevation": "122",
+        "sonde": [
+            "97"
+        ]
+    },
+    {
+        "name": "PHUKET AIRPORT",
+        "operator": "TMD",
+        "wmo-id": 48565,
+        "latitude": 8.145,
+        "longitude": 98.3144444444,
+        "elevation": "5.86",
+        "sonde": [
+            "97"
+        ]
+    },
+    {
+        "name": "SONGKHLA",
+        "operator": "TMD",
+        "wmo-id": 48568,
+        "latitude": 7.1819444444,
+        "longitude": 100.6075,
+        "elevation": "4.57",
+        "sonde": [
+            "97"
+        ]
+    },
+    {
+        "name": "PENANG/BAYAN LEPAS",
+        "operator": "MMD",
+        "wmo-id": 48601,
+        "latitude": 5.3,
+        "longitude": 100.2666666667,
+        "elevation": "2",
+        "sonde": [
+            "17"
+        ]
+    },
+    {
+        "name": "KOTA BHARU",
+        "operator": "MMD",
+        "wmo-id": 48615,
+        "latitude": 6.1666666667,
+        "longitude": 102.2833333333,
+        "elevation": "4",
+        "sonde": [
+            "17"
+        ]
+    },
+    {
+        "name": "KUALA LUMPUR INTERNATIONAL AIRPORT (KLIA)",
+        "operator": "MMD",
+        "wmo-id": 48650,
+        "latitude": 2.7166666667,
+        "longitude": 101.7,
+        "elevation": "16",
+        "sonde": [
+            "17"
+        ]
+    },
+    {
+        "name": "KUANTAN",
+        "operator": "MMD",
+        "wmo-id": 48657,
+        "latitude": 3.7833333333,
+        "longitude": 103.2166666667,
+        "elevation": "15",
+        "sonde": [
+            "17"
+        ]
+    },
+    {
+        "name": "SINGAPORE/CHANGI AIRPORT",
+        "operator": "MSS-NEA",
+        "wmo-id": 48698,
+        "latitude": 1.3679,
+        "longitude": 103.9824,
+        "elevation": "14",
+        "sonde": [
+            "41"
+        ]
+    },
+    {
+        "name": "MENGZI",
+        "operator": "CMA",
+        "wmo-id": 48811,
+        "latitude": 23.4444444444,
+        "longitude": 103.3277777778,
+        "elevation": "",
+        "sonde": [
+            "41"
+        ]
+    },
+    {
+        "name": "HA NOI",
+        "operator": "NHMS",
+        "wmo-id": 48820,
+        "latitude": 21.0333333333,
+        "longitude": 105.8,
+        "elevation": "5",
+        "sonde": [
+            "41",
+            "80"
+        ]
+    },
+    {
+        "name": "BACH LONG VI",
+        "operator": "NHMS",
+        "wmo-id": 48839,
+        "latitude": 20.1333333333,
+        "longitude": 107.7166666667,
+        "elevation": "56",
+        "sonde": [
+            "41",
+            "80"
+        ]
+    },
+    {
+        "name": "HA NOI",
+        "operator": "NHMS",
+        "wmo-id": 48845,
+        "latitude": 21.0333333333,
+        "longitude": 105.8,
+        "elevation": "5",
+        "sonde": [
+            "41",
+            "80"
+        ]
+    },
+    {
+        "name": "DA NANG",
+        "operator": "NHMS",
+        "wmo-id": 48855,
+        "latitude": 16.0666666667,
+        "longitude": 108.35,
+        "elevation": "7",
+        "sonde": [
+            "41",
+            "80"
+        ]
+    },
+    {
+        "name": "TAN SON HOA",
+        "operator": "NHMS",
+        "wmo-id": 48900,
+        "latitude": 10.8166666667,
+        "longitude": 106.6666666667,
+        "elevation": "5",
+        "sonde": [
+            "41",
+            "80"
+        ]
+    },
+    {
+        "name": "HAILAR (50527-1)",
+        "operator": "CMA",
+        "wmo-id": 50527,
+        "latitude": 49.25,
+        "longitude": 119.7,
+        "elevation": "",
+        "sonde": [
+            "33"
+        ]
+    },
+    {
+        "name": "NENJIANG",
+        "operator": "CMA",
+        "wmo-id": 50557,
+        "latitude": 49.1666666667,
+        "longitude": 125.2333333333,
+        "elevation": "",
+        "sonde": [
+            "32"
+        ]
+    },
+    {
+        "name": "YICHUN (50774-1)",
+        "operator": "CMA",
+        "wmo-id": 50774,
+        "latitude": 47.7166666667,
+        "longitude": 128.8333333333,
+        "elevation": "",
+        "sonde": [
+            "32"
+        ]
+    },
+    {
+        "name": "HARBIN (50953-1)",
+        "operator": "CMA",
+        "wmo-id": 50953,
+        "latitude": 45.9333333333,
+        "longitude": 126.5666666667,
+        "elevation": "",
+        "sonde": [
+            "32"
+        ]
+    },
+    {
+        "name": "ALTAY",
+        "operator": "CMA",
+        "wmo-id": 51076,
+        "latitude": 47.7333333333,
+        "longitude": 88.0833333333,
+        "elevation": "",
+        "sonde": [
+            "32"
+        ]
+    },
+    {
+        "name": "YINING",
+        "operator": "CMA",
+        "wmo-id": 51431,
+        "latitude": 43.95,
+        "longitude": 81.3333333333,
+        "elevation": "",
+        "sonde": [
+            "31"
+        ]
+    },
+    {
+        "name": "WU LU MU QI (51463-1)",
+        "operator": "CMA",
+        "wmo-id": 51463,
+        "latitude": 43.7833333333,
+        "longitude": 87.6166666667,
+        "elevation": "",
+        "sonde": [
+            "31"
+        ]
+    },
+    {
+        "name": "KUQA",
+        "operator": "CMA",
+        "wmo-id": 51644,
+        "latitude": 41.7166666667,
+        "longitude": 82.95,
+        "elevation": "",
+        "sonde": [
+            "31"
+        ]
+    },
+    {
+        "name": "KASHI",
+        "operator": "CMA",
+        "wmo-id": 51709,
+        "latitude": 39.4833333333,
+        "longitude": 75.75,
+        "elevation": "",
+        "sonde": [
+            "32"
+        ]
+    },
+    {
+        "name": "RUOQIANG",
+        "operator": "CMA",
+        "wmo-id": 51777,
+        "latitude": 39.0333333333,
+        "longitude": 88.1666666667,
+        "elevation": "",
+        "sonde": [
+            "32"
+        ]
+    },
+    {
+        "name": "HOTAN",
+        "operator": "CMA",
+        "wmo-id": 51828,
+        "latitude": 37.1333333333,
+        "longitude": 79.9333333333,
+        "elevation": "",
+        "sonde": [
+            "32"
+        ]
+    },
+    {
+        "name": "MINFENG",
+        "operator": "CMA",
+        "wmo-id": 51839,
+        "latitude": 37.0666666667,
+        "longitude": 82.7166666667,
+        "elevation": "1409.5",
+        "sonde": [
+            "32"
+        ]
+    },
+    {
+        "name": "HAMI",
+        "operator": "CMA",
+        "wmo-id": 52203,
+        "latitude": 42.8166666667,
+        "longitude": 93.5166666667,
+        "elevation": "",
+        "sonde": [
+            "32"
+        ]
+    },
+    {
+        "name": "EJIN QI",
+        "operator": "CMA",
+        "wmo-id": 52267,
+        "latitude": 41.95,
+        "longitude": 101.0666666667,
+        "elevation": "",
+        "sonde": [
+            "32"
+        ]
+    },
+    {
+        "name": "MAZONG SHAN",
+        "operator": "CMA",
+        "wmo-id": 52323,
+        "latitude": 41.8,
+        "longitude": 97.0333333333,
+        "elevation": "",
+        "sonde": [
+            "32"
+        ]
+    },
+    {
+        "name": "DUNHUANG",
+        "operator": "CMA",
+        "wmo-id": 52418,
+        "latitude": 40.15,
+        "longitude": 94.6833333333,
+        "elevation": "",
+        "sonde": [
+            "32"
+        ]
+    },
+    {
+        "name": "JIUQUAN",
+        "operator": "CMA",
+        "wmo-id": 52533,
+        "latitude": 39.7666666667,
+        "longitude": 98.4833333333,
+        "elevation": "",
+        "sonde": [
+            "32"
+        ]
+    },
+    {
+        "name": "MINQIN",
+        "operator": "CMA",
+        "wmo-id": 52681,
+        "latitude": 38.6333333333,
+        "longitude": 103.0833333333,
+        "elevation": "1367",
+        "sonde": [
+            "32"
+        ]
+    },
+    {
+        "name": "GOLMUD",
+        "operator": "CMA",
+        "wmo-id": 52818,
+        "latitude": 36.4166666667,
+        "longitude": 94.9,
+        "elevation": "",
+        "sonde": [
+            "32"
+        ]
+    },
+    {
+        "name": "DOULAN",
+        "operator": "CMA",
+        "wmo-id": 52836,
+        "latitude": 36.3,
+        "longitude": 98.1,
+        "elevation": "",
+        "sonde": [
+            "32"
+        ]
+    },
+    {
+        "name": "XINING (52866-1)",
+        "operator": "CMA",
+        "wmo-id": 52866,
+        "latitude": 36.7166666667,
+        "longitude": 101.75,
+        "elevation": "",
+        "sonde": [
+            "32"
+        ]
+    },
+    {
+        "name": "YU ZHONG",
+        "operator": "CMA",
+        "wmo-id": 52983,
+        "latitude": 35.8666666667,
+        "longitude": 104.15,
+        "elevation": "",
+        "sonde": [
+            "32"
+        ]
+    },
+    {
+        "name": "ERENHOT (53068-1)",
+        "operator": "CMA",
+        "wmo-id": 53068,
+        "latitude": 43.6333333333,
+        "longitude": 111.95,
+        "elevation": "",
+        "sonde": [
+            "32"
+        ]
+    },
+    {
+        "name": "HOHHOT",
+        "operator": "CMA",
+        "wmo-id": 53463,
+        "latitude": 40.85,
+        "longitude": 111.5666666667,
+        "elevation": "",
+        "sonde": [
+            "32"
+        ]
+    },
+    {
+        "name": "LINHE",
+        "operator": "CMA",
+        "wmo-id": 53513,
+        "latitude": 40.7333333333,
+        "longitude": 107.3666666667,
+        "elevation": "1041",
+        "sonde": [
+            "33"
+        ]
+    },
+    {
+        "name": "YINCHUAN",
+        "operator": "CMA",
+        "wmo-id": 53614,
+        "latitude": 38.4666666667,
+        "longitude": 106.2,
+        "elevation": "",
+        "sonde": [
+            "32"
+        ]
+    },
+    {
+        "name": "TAIYUAN (53772-1)",
+        "operator": "CMA",
+        "wmo-id": 53772,
+        "latitude": 37.6205555556,
+        "longitude": 112.5766666667,
+        "elevation": "",
+        "sonde": [
+            "31"
+        ]
+    },
+    {
+        "name": "YAN AN (53845-1)",
+        "operator": "CMA",
+        "wmo-id": 53845,
+        "latitude": 36.5666666667,
+        "longitude": 109.45,
+        "elevation": "",
+        "sonde": [
+            "31"
+        ]
+    },
+    {
+        "name": "PINGLIANG",
+        "operator": "CMA",
+        "wmo-id": 53915,
+        "latitude": 35.5333333333,
+        "longitude": 106.6666666667,
+        "elevation": "",
+        "sonde": [
+            "32"
+        ]
+    },
+    {
+        "name": "XILIN HOT",
+        "operator": "CMA",
+        "wmo-id": 54102,
+        "latitude": 43.95,
+        "longitude": 116.1166666667,
+        "elevation": "",
+        "sonde": [
+            "32"
+        ]
+    },
+    {
+        "name": "TONGLIAO",
+        "operator": "CMA",
+        "wmo-id": 54135,
+        "latitude": 43.6,
+        "longitude": 122.2666666667,
+        "elevation": "",
+        "sonde": [
+            "32"
+        ]
+    },
+    {
+        "name": "CHANGCHUN",
+        "operator": "CMA",
+        "wmo-id": 54161,
+        "latitude": 43.9,
+        "longitude": 125.2166666667,
+        "elevation": "",
+        "sonde": [
+            "33"
+        ]
+    },
+    {
+        "name": "CHIFENG (54218-1)",
+        "operator": "CMA",
+        "wmo-id": 54218,
+        "latitude": 42.3,
+        "longitude": 118.8333333333,
+        "elevation": "",
+        "sonde": [
+            "32"
+        ]
+    },
+    {
+        "name": "YANJI",
+        "operator": "CMA",
+        "wmo-id": 54292,
+        "latitude": 42.8666666667,
+        "longitude": 129.5,
+        "elevation": "",
+        "sonde": [
+            "32"
+        ]
+    },
+    {
+        "name": "LINJIANG",
+        "operator": "CMA",
+        "wmo-id": 54374,
+        "latitude": 41.8,
+        "longitude": 126.8833333333,
+        "elevation": "385",
+        "sonde": [
+            "33"
+        ]
+    },
+    {
+        "name": "BEIJING",
+        "operator": "CMA",
+        "wmo-id": 54511,
+        "latitude": 39.9333333333,
+        "longitude": 116.2833333333,
+        "elevation": "",
+        "sonde": [
+            "32"
+        ]
+    },
+    {
+        "name": "DALIAN",
+        "operator": "CMA",
+        "wmo-id": 54662,
+        "latitude": 38.9,
+        "longitude": 121.6333333333,
+        "elevation": "",
+        "sonde": [
+            "32"
+        ]
+    },
+    {
+        "name": "ZHANGQIU",
+        "operator": "CMA",
+        "wmo-id": 54727,
+        "latitude": 36.7,
+        "longitude": 117.55,
+        "elevation": "",
+        "sonde": [
+            "32"
+        ]
+    },
+    {
+        "name": "QINGDAO",
+        "operator": "CMA",
+        "wmo-id": 54857,
+        "latitude": 36.0666666667,
+        "longitude": 120.3333333333,
+        "elevation": "",
+        "sonde": [
+            "32"
+        ]
+    },
+    {
+        "name": "NAGQU",
+        "operator": "CMA",
+        "wmo-id": 55299,
+        "latitude": 31.4833333333,
+        "longitude": 92.0666666667,
+        "elevation": "",
+        "sonde": [
+            "32"
+        ]
+    },
+    {
+        "name": "LHASA",
+        "operator": "CMA",
+        "wmo-id": 55591,
+        "latitude": 29.6666666667,
+        "longitude": 91.1333333333,
+        "elevation": "",
+        "sonde": [
+            "32"
+        ]
+    },
+    {
+        "name": "YUSHU (56029-1)",
+        "operator": "CMA",
+        "wmo-id": 56029,
+        "latitude": 33.0,
+        "longitude": 96.95,
+        "elevation": "",
+        "sonde": [
+            "32"
+        ]
+    },
+    {
+        "name": "HEZUO",
+        "operator": "CMA",
+        "wmo-id": 56080,
+        "latitude": 35.0,
+        "longitude": 102.9,
+        "elevation": "",
+        "sonde": [
+            "32"
+        ]
+    },
+    {
+        "name": "QAMDO (56137-1)",
+        "operator": "CMA",
+        "wmo-id": 56137,
+        "latitude": 31.15,
+        "longitude": 97.1666666667,
+        "elevation": "",
+        "sonde": [
+            "31"
+        ]
+    },
+    {
+        "name": "GARZE",
+        "operator": "CMA",
+        "wmo-id": 56146,
+        "latitude": 31.6166666667,
+        "longitude": 100.0,
+        "elevation": "",
+        "sonde": [
+            "32"
+        ]
+    },
+    {
+        "name": "WENJIANG (56187-1)",
+        "operator": "CMA",
+        "wmo-id": 56187,
+        "latitude": 30.75,
+        "longitude": 103.8666666667,
+        "elevation": "",
+        "sonde": [
+            "32"
+        ]
+    },
+    {
+        "name": "XICHANG",
+        "operator": "CMA",
+        "wmo-id": 56571,
+        "latitude": 27.9,
+        "longitude": 102.2666666667,
+        "elevation": "",
+        "sonde": [
+            "32"
+        ]
+    },
+    {
+        "name": "WEINING",
+        "operator": "CMA",
+        "wmo-id": 56691,
+        "latitude": 26.8666666667,
+        "longitude": 104.2833333333,
+        "elevation": "",
+        "sonde": [
+            "32"
+        ]
+    },
+    {
+        "name": "TENGCHONG",
+        "operator": "CMA",
+        "wmo-id": 56739,
+        "latitude": 24.9844444444,
+        "longitude": 98.5055555556,
+        "elevation": "",
+        "sonde": [
+            "32"
+        ]
+    },
+    {
+        "name": "KUNMING",
+        "operator": "CMA",
+        "wmo-id": 56778,
+        "latitude": 25.0166666667,
+        "longitude": 102.6833333333,
+        "elevation": "",
+        "sonde": [
+            "32"
+        ]
+    },
+    {
+        "name": "SIMAO",
+        "operator": "CMA",
+        "wmo-id": 56964,
+        "latitude": 22.7666666667,
+        "longitude": 100.9833333333,
+        "elevation": "",
+        "sonde": [
+            "33"
+        ]
+    },
+    {
+        "name": "MENGZI",
+        "operator": "CMA",
+        "wmo-id": 56985,
+        "latitude": 23.4444444444,
+        "longitude": 103.3277777778,
+        "elevation": "",
+        "sonde": [
+            "33"
+        ]
+    },
+    {
+        "name": "ZHENGZHOU",
+        "operator": "CMA",
+        "wmo-id": 57083,
+        "latitude": 34.7166666667,
+        "longitude": 113.65,
+        "elevation": "",
+        "sonde": [
+            "32"
+        ]
+    },
+    {
+        "name": "HANZHONG",
+        "operator": "CMA",
+        "wmo-id": 57127,
+        "latitude": 33.0666666667,
+        "longitude": 107.0333333333,
+        "elevation": "",
+        "sonde": [
+            "32"
+        ]
+    },
+    {
+        "name": "JINGHE (57131-0)",
+        "operator": "CMA",
+        "wmo-id": 57131,
+        "latitude": 34.4333333333,
+        "longitude": 108.9666666667,
+        "elevation": "",
+        "sonde": [
+            "32"
+        ]
+    },
+    {
+        "name": "NANYANG",
+        "operator": "CMA",
+        "wmo-id": 57178,
+        "latitude": 33.1,
+        "longitude": 112.4833333333,
+        "elevation": "",
+        "sonde": [
+            "32"
+        ]
+    },
+    {
+        "name": "ENSHI",
+        "operator": "CMA",
+        "wmo-id": 57447,
+        "latitude": 30.2833333333,
+        "longitude": 109.4666666667,
+        "elevation": "",
+        "sonde": [
+            "32"
+        ]
+    },
+    {
+        "name": "YICHANG",
+        "operator": "CMA",
+        "wmo-id": 57461,
+        "latitude": 30.7333333333,
+        "longitude": 111.3666666667,
+        "elevation": "",
+        "sonde": [
+            "32"
+        ]
+    },
+    {
+        "name": "WUHAN",
+        "operator": "CMA",
+        "wmo-id": 57494,
+        "latitude": 30.6,
+        "longitude": 114.05,
+        "elevation": "24",
+        "sonde": [
+            "33"
+        ]
+    },
+    {
+        "name": "CHONGQING (57516-1)",
+        "operator": "CMA",
+        "wmo-id": 57516,
+        "latitude": 29.6,
+        "longitude": 106.4,
+        "elevation": "",
+        "sonde": [
+            "32"
+        ]
+    },
+    {
+        "name": "CHENZHOU",
+        "operator": "CMA",
+        "wmo-id": 57687,
+        "latitude": 25.7352777778,
+        "longitude": 112.9738888889,
+        "elevation": "",
+        "sonde": [
+            "32"
+        ]
+    },
+    {
+        "name": "HUAIHUA",
+        "operator": "CMA",
+        "wmo-id": 57749,
+        "latitude": 27.5666666667,
+        "longitude": 110.0,
+        "elevation": "257.8",
+        "sonde": [
+            "32"
+        ]
+    },
+    {
+        "name": "GUIYANG (57816-1)",
+        "operator": "CMA",
+        "wmo-id": 57816,
+        "latitude": 26.4833333333,
+        "longitude": 106.65,
+        "elevation": "",
+        "sonde": [
+            "32"
+        ]
+    },
+    {
+        "name": "GUILIN",
+        "operator": "CMA",
+        "wmo-id": 57957,
+        "latitude": 25.3333333333,
+        "longitude": 110.3,
+        "elevation": "",
+        "sonde": [
+            "32"
+        ]
+    },
+    {
+        "name": "CHENZHOU",
+        "operator": "CMA",
+        "wmo-id": 57972,
+        "latitude": 25.7352777778,
+        "longitude": 112.9738888889,
+        "elevation": "",
+        "sonde": [
+            "32"
+        ]
+    },
+    {
+        "name": "GANZHOU (57993-1)",
+        "operator": "CMA",
+        "wmo-id": 57993,
+        "latitude": 25.8666666667,
+        "longitude": 115.0,
+        "elevation": "",
+        "sonde": [
+            "33"
+        ]
+    },
+    {
+        "name": "XUZHOU",
+        "operator": "CMA",
+        "wmo-id": 58027,
+        "latitude": 34.2833333333,
+        "longitude": 117.15,
+        "elevation": "",
+        "sonde": [
+            "32"
+        ]
+    },
+    {
+        "name": "SHEYANG",
+        "operator": "CMA",
+        "wmo-id": 58150,
+        "latitude": 33.75,
+        "longitude": 120.3,
+        "elevation": "",
+        "sonde": [
+            "32"
+        ]
+    },
+    {
+        "name": "FUYANG",
+        "operator": "CMA",
+        "wmo-id": 58203,
+        "latitude": 32.8666666667,
+        "longitude": 115.7333333333,
+        "elevation": "",
+        "sonde": [
+            "32"
+        ]
+    },
+    {
+        "name": "NANJING",
+        "operator": "CMA",
+        "wmo-id": 58238,
+        "latitude": 31.9333333333,
+        "longitude": 118.9,
+        "elevation": "32",
+        "sonde": [
+            "32"
+        ]
+    },
+    {
+        "name": "SHANGHAI (BAOSHAN)",
+        "operator": "CMA",
+        "wmo-id": 58362,
+        "latitude": 31.4166666667,
+        "longitude": 121.45,
+        "elevation": "",
+        "sonde": [
+            "32"
+        ]
+    },
+    {
+        "name": "ANQING",
+        "operator": "CMA",
+        "wmo-id": 58424,
+        "latitude": 30.6166666667,
+        "longitude": 116.9666666667,
+        "elevation": "",
+        "sonde": [
+            "32"
+        ]
+    },
+    {
+        "name": "HANGZHOU",
+        "operator": "CMA",
+        "wmo-id": 58457,
+        "latitude": 30.2333333333,
+        "longitude": 120.1666666667,
+        "elevation": "",
+        "sonde": [
+            "32"
+        ]
+    },
+    {
+        "name": "NANCHANG",
+        "operator": "CMA",
+        "wmo-id": 58606,
+        "latitude": 28.6,
+        "longitude": 115.9166666667,
+        "elevation": "",
+        "sonde": [
+            "32"
+        ]
+    },
+    {
+        "name": "QU XIAN",
+        "operator": "CMA",
+        "wmo-id": 58633,
+        "latitude": 28.9666666667,
+        "longitude": 118.8666666667,
+        "elevation": "",
+        "sonde": [
+            "32"
+        ]
+    },
+    {
+        "name": "HONGJIA",
+        "operator": "CMA",
+        "wmo-id": 58665,
+        "latitude": 28.6166666667,
+        "longitude": 121.4166666667,
+        "elevation": "4.6",
+        "sonde": [
+            "32"
+        ]
+    },
+    {
+        "name": "SHAOWU",
+        "operator": "CMA",
+        "wmo-id": 58725,
+        "latitude": 27.3333333333,
+        "longitude": 117.4666666667,
+        "elevation": "",
+        "sonde": [
+            "32"
+        ]
+    },
+    {
+        "name": "FUZHOU",
+        "operator": "CMA",
+        "wmo-id": 58847,
+        "latitude": 26.0833333333,
+        "longitude": 119.2833333333,
+        "elevation": "",
+        "sonde": [
+            "32"
+        ]
+    },
+    {
+        "name": "TAIBEI",
+        "operator": "CMA",
+        "wmo-id": 58968,
+        "latitude": 25.0333333333,
+        "longitude": 121.5166666667,
+        "elevation": "",
+        "sonde": [
+            "23"
+        ]
+    },
+    {
+        "name": "XIAMEN",
+        "operator": "CMA",
+        "wmo-id": 59134,
+        "latitude": 24.4833333333,
+        "longitude": 118.0833333333,
+        "elevation": "139",
+        "sonde": [
+            "32"
+        ]
+    },
+    {
+        "name": "BAISE",
+        "operator": "CMA",
+        "wmo-id": 59211,
+        "latitude": 23.9,
+        "longitude": 106.6,
+        "elevation": "",
+        "sonde": [
+            "32"
+        ]
+    },
+    {
+        "name": "WUZHOU",
+        "operator": "CMA",
+        "wmo-id": 59265,
+        "latitude": 23.4833333333,
+        "longitude": 111.3,
+        "elevation": "",
+        "sonde": [
+            "32"
+        ]
+    },
+    {
+        "name": "QINGYUAN (59280-0)",
+        "operator": "CMA",
+        "wmo-id": 59280,
+        "latitude": 23.7166666667,
+        "longitude": 113.0833333333,
+        "elevation": "79.2",
+        "sonde": [
+            "31"
+        ]
+    },
+    {
+        "name": "SHANTOU (59316-1)",
+        "operator": "CMA",
+        "wmo-id": 59316,
+        "latitude": 23.35,
+        "longitude": 116.6666666667,
+        "elevation": "4",
+        "sonde": [
+            "32"
+        ]
+    },
+    {
+        "name": "NANNING",
+        "operator": "CMA",
+        "wmo-id": 59431,
+        "latitude": 22.7833333333,
+        "longitude": 108.55,
+        "elevation": "152",
+        "sonde": [
+            "32"
+        ]
+    },
+    {
+        "name": "HAIKOU",
+        "operator": "CMA",
+        "wmo-id": 59758,
+        "latitude": 20.0,
+        "longitude": 110.25,
+        "elevation": "",
+        "sonde": [
+            "32"
+        ]
+    },
+    {
+        "name": "XISHA DAO",
+        "operator": "CMA",
+        "wmo-id": 59981,
+        "latitude": 16.8333333333,
+        "longitude": 112.3333333333,
+        "elevation": "",
+        "sonde": [
+            "32"
+        ]
+    },
+    {
+        "name": "TENERIFE-GUIMAR",
+        "operator": "AEMET",
+        "wmo-id": 60018,
+        "latitude": 28.3183333333,
+        "longitude": -16.3822222222,
+        "elevation": "105",
+        "sonde": [
+            "23"
+        ]
+    },
+    {
+        "name": "DAKHLA",
+        "operator": "DMNM",
+        "wmo-id": 60096,
+        "latitude": 23.7111111111,
+        "longitude": -15.9308333333,
+        "elevation": "11",
+        "sonde": [
+            "77"
+        ]
+    },
+    {
+        "name": "CASABLANCA",
+        "operator": "DMNM",
+        "wmo-id": 60155,
+        "latitude": 33.5666666667,
+        "longitude": -7.6666666667,
+        "elevation": "56",
+        "sonde": [
+            "77"
+        ]
+    },
+    {
+        "name": "DAR-EL-BEIDA",
+        "operator": "ONM",
+        "wmo-id": 60390,
+        "latitude": 36.6833333333,
+        "longitude": 3.2166666667,
+        "elevation": "25",
+        "sonde": [
+            "41"
+        ]
+    },
+    {
+        "name": "BECHAR",
+        "operator": "ONM",
+        "wmo-id": 60571,
+        "latitude": 31.5,
+        "longitude": -2.25,
+        "elevation": "811",
+        "sonde": [
+            "41"
+        ]
+    },
+    {
+        "name": "IN-SALAH",
+        "operator": "ONM",
+        "wmo-id": 60630,
+        "latitude": 27.2333333333,
+        "longitude": 2.5,
+        "elevation": "273",
+        "sonde": [
+            "41"
+        ]
+    },
+    {
+        "name": "TINDOUF",
+        "operator": "ONM",
+        "wmo-id": 60656,
+        "latitude": 27.7,
+        "longitude": -8.1666666667,
+        "elevation": "443",
+        "sonde": [
+            "41"
+        ]
+    },
+    {
+        "name": "TAMANRASSET",
+        "operator": "ONM",
+        "wmo-id": 60680,
+        "latitude": 22.8,
+        "longitude": 5.4333333333,
+        "elevation": "1377",
+        "sonde": [
+            "41"
+        ]
+    },
+    {
+        "name": "TUNIS-CARTHAGE",
+        "operator": "INMT",
+        "wmo-id": 60715,
+        "latitude": 36.8333333333,
+        "longitude": 10.2333333333,
+        "elevation": "4",
+        "sonde": [
+            "57"
+        ]
+    },
+    {
+        "name": "TAMBACOUNDA",
+        "operator": "DMNS",
+        "wmo-id": 61687,
+        "latitude": 13.7697222222,
+        "longitude": -13.6797222222,
+        "elevation": "48.68",
+        "sonde": [
+            "77"
+        ]
+    },
+    {
+        "name": "ST. HELENA IS.",
+        "operator": "UKMO",
+        "wmo-id": 61901,
+        "latitude": -15.9419444444,
+        "longitude": -5.6672222222,
+        "elevation": "435",
+        "sonde": [
+            "41"
+        ]
+    },
+    {
+        "name": "SAINT-DENIS/GILLOT (REUNION)",
+        "operator": "MF",
+        "wmo-id": 61980,
+        "latitude": -20.8925,
+        "longitude": 55.5286111111,
+        "elevation": "20",
+        "sonde": [
+            "77"
+        ]
+    },
+    {
+        "name": "PORT-AUX-FRANCAIS (ILES KERGUELEN)",
+        "operator": "MF",
+        "wmo-id": 61998,
+        "latitude": -49.3522222222,
+        "longitude": 70.2433333333,
+        "elevation": "29",
+        "sonde": [
+            "77"
+        ]
+    },
+    {
+        "name": "MERSA MATRUH",
+        "operator": "EMA",
+        "wmo-id": 62306,
+        "latitude": 31.3252777778,
+        "longitude": 27.2216666667,
+        "elevation": "28.96",
+        "sonde": [
+            "77"
+        ]
+    },
+    {
+        "name": "HELWAN",
+        "operator": "EMA",
+        "wmo-id": 62378,
+        "latitude": 29.8627777778,
+        "longitude": 31.3491666667,
+        "elevation": "139.3",
+        "sonde": [
+            "77"
+        ]
+    },
+    {
+        "name": "ASSWAN",
+        "operator": "EMA",
+        "wmo-id": 62414,
+        "latitude": 23.9644444444,
+        "longitude": 32.82,
+        "elevation": "201.78",
+        "sonde": [
+            "77"
+        ]
+    },
+    {
+        "name": "FARAFRA",
+        "operator": "EMA",
+        "wmo-id": 62423,
+        "latitude": 27.0583333333,
+        "longitude": 27.9891666667,
+        "elevation": "82.2",
+        "sonde": [
+            "77"
+        ]
+    },
+    {
+        "name": "ADDIS ABABA-BOLE",
+        "operator": "NMSA",
+        "wmo-id": 63450,
+        "latitude": 9.0333333333,
+        "longitude": 38.75,
+        "elevation": "",
+        "sonde": [
+            "80"
+        ]
+    },
+    {
+        "name": "SEYCHELLES INTER. AIRPORT (RAWINSONDE STATION)",
+        "operator": "SMA (Seychelles)",
+        "wmo-id": 63985,
+        "latitude": -4.6833333333,
+        "longitude": 55.5166666667,
+        "elevation": "4",
+        "sonde": [
+            "41"
+        ]
+    },
+    {
+        "name": "TAMALE",
+        "operator": "GMA",
+        "wmo-id": 65503,
+        "latitude": 9.55,
+        "longitude": -0.85,
+        "elevation": "168.8",
+        "sonde": [
+            "77"
+        ]
+    },
+    {
+        "name": "ABIDJAN",
+        "operator": "DMNCIV",
+        "wmo-id": 65578,
+        "latitude": 5.25,
+        "longitude": -3.9333333333,
+        "elevation": "7",
+        "sonde": [
+            "77"
+        ]
+    },
+    {
+        "name": "ANTANANARIVO/IVATO",
+        "operator": "MeteoMadagascar",
+        "wmo-id": 67083,
+        "latitude": -18.8,
+        "longitude": 47.4833333333,
+        "elevation": "1279",
+        "sonde": [
+            "41"
+        ]
+    },
+    {
+        "name": "TAOLAGNARO",
+        "operator": "MeteoMadagascar",
+        "wmo-id": 67197,
+        "latitude": -25.0333333333,
+        "longitude": 46.95,
+        "elevation": "8",
+        "sonde": [
+            "41"
+        ]
+    },
+    {
+        "name": "WINDHOEK",
+        "operator": "Meteona",
+        "wmo-id": 68110,
+        "latitude": -22.5666666667,
+        "longitude": 17.1,
+        "elevation": "1725",
+        "sonde": [
+            "99"
+        ]
+    },
+    {
+        "name": "PRETORIA (IRENE)",
+        "operator": "SAWS",
+        "wmo-id": 68263,
+        "latitude": -25.9105,
+        "longitude": 28.2106,
+        "elevation": "1524",
+        "sonde": [
+            "99"
+        ]
+    },
+    {
+        "name": "UPINGTON",
+        "operator": "SAWS",
+        "wmo-id": 68424,
+        "latitude": -28.4111,
+        "longitude": 21.2641,
+        "elevation": "840",
+        "sonde": [
+            "99"
+        ]
+    },
+    {
+        "name": "BLOEMFONTEIN AIRPORT",
+        "operator": "SAWS",
+        "wmo-id": 68442,
+        "latitude": -29.1039,
+        "longitude": 26.2981,
+        "elevation": "1354",
+        "sonde": [
+            "99"
+        ]
+    },
+    {
+        "name": "DE AAR",
+        "operator": "SAWS",
+        "wmo-id": 68538,
+        "latitude": -30.6651,
+        "longitude": 23.9927,
+        "elevation": "1286",
+        "sonde": [
+            "99"
+        ]
+    },
+    {
+        "name": "CAPE TOWN INTNL. AIRPORT",
+        "operator": "SAWS",
+        "wmo-id": 68816,
+        "latitude": -33.9631,
+        "longitude": 18.6023,
+        "elevation": "42",
+        "sonde": [
+            "99"
+        ]
+    },
+    {
+        "name": "PORT ELIZABETH",
+        "operator": "SAWS",
+        "wmo-id": 68842,
+        "latitude": -33.9864,
+        "longitude": 25.6164,
+        "elevation": "59",
+        "sonde": [
+            "99"
+        ]
+    },
+    {
+        "name": "GOUGH ISLAND",
+        "operator": "SAWS",
+        "wmo-id": 68906,
+        "latitude": -40.3495,
+        "longitude": -9.8804,
+        "elevation": "54",
+        "sonde": [
+            "99"
+        ]
+    },
+    {
+        "name": "MARION ISLAND",
+        "operator": "SAWS",
+        "wmo-id": 68994,
+        "latitude": -46.8767,
+        "longitude": 37.8587,
+        "elevation": "24",
+        "sonde": [
+            "99"
+        ]
+    },
+    {
+        "name": "BARROW/W. POST W. ROGERS",
+        "operator": "NOAA-NWS",
+        "wmo-id": 70026,
+        "latitude": 71.2888888889,
+        "longitude": -156.7833333333,
+        "elevation": "11.9",
+        "sonde": [
+            "24"
+        ]
+    },
+    {
+        "name": "KOTZEBUE, RALPH WIEN",
+        "operator": "NOAA-NWS",
+        "wmo-id": 70133,
+        "latitude": 66.8863888889,
+        "longitude": -162.6133333333,
+        "elevation": "5",
+        "sonde": [
+            "82"
+        ]
+    },
+    {
+        "name": "NOME, AK",
+        "operator": "NOAA-NWS",
+        "wmo-id": 70200,
+        "latitude": 64.5072222222,
+        "longitude": -165.4347222222,
+        "elevation": "6.5",
+        "sonde": [
+            "82"
+        ]
+    },
+    {
+        "name": "BETHEL/BETHEL AIRPORT, AK",
+        "operator": "NOAA-NWS",
+        "wmo-id": 70219,
+        "latitude": 60.785,
+        "longitude": -161.84,
+        "elevation": "33",
+        "sonde": [
+            "24"
+        ]
+    },
+    {
+        "name": "MCGRATH, AK",
+        "operator": "NOAA-NWS",
+        "wmo-id": 70231,
+        "latitude": 62.9583333333,
+        "longitude": -155.5977777778,
+        "elevation": "103",
+        "sonde": [
+            "82"
+        ]
+    },
+    {
+        "name": "FAIRBANKS/INT., AK",
+        "operator": "NOAA-NWS",
+        "wmo-id": 70261,
+        "latitude": 64.8161111111,
+        "longitude": -147.8766666667,
+        "elevation": "133.7",
+        "sonde": [
+            "24"
+        ]
+    },
+    {
+        "name": "ANCHORAGE/INT., AK",
+        "operator": "NOAA-NWS",
+        "wmo-id": 70273,
+        "latitude": 61.1566666667,
+        "longitude": -149.9863888889,
+        "elevation": "52.1",
+        "sonde": [
+            "24"
+        ]
+    },
+    {
+        "name": "ST. PAUL ISLANDS, AK",
+        "operator": "NOAA-NWS",
+        "wmo-id": 70308,
+        "latitude": 57.15,
+        "longitude": -170.2166666667,
+        "elevation": "10",
+        "sonde": [
+            "24"
+        ]
+    },
+    {
+        "name": "COLD BAY, AK",
+        "operator": "NOAA-NWS",
+        "wmo-id": 70316,
+        "latitude": 55.2011111111,
+        "longitude": -162.7163888889,
+        "elevation": "25.3",
+        "sonde": [
+            "82"
+        ]
+    },
+    {
+        "name": "KING SALMON, AK",
+        "operator": "NOAA-NWS",
+        "wmo-id": 70326,
+        "latitude": 58.6794444444,
+        "longitude": -156.6683333333,
+        "elevation": "8.4",
+        "sonde": [
+            "24"
+        ]
+    },
+    {
+        "name": "KODIAK, AK",
+        "operator": "NOAA-NWS",
+        "wmo-id": 70350,
+        "latitude": 57.7430555556,
+        "longitude": -152.4866666667,
+        "elevation": "5",
+        "sonde": [
+            "24"
+        ]
+    },
+    {
+        "name": "YAKUTAT, AK",
+        "operator": "NOAA-NWS",
+        "wmo-id": 70361,
+        "latitude": 59.5166666667,
+        "longitude": -139.6666666667,
+        "elevation": "10.7",
+        "sonde": [
+            "24"
+        ]
+    },
+    {
+        "name": "ANNETTE ISLAND, AK",
+        "operator": "NOAA-NWS",
+        "wmo-id": 70398,
+        "latitude": 55.0388888889,
+        "longitude": -131.5777777778,
+        "elevation": "34.7",
+        "sonde": [
+            "24"
+        ]
+    },
+    {
+        "name": "SHEMYA AFB",
+        "operator": "NOAA-NWS",
+        "wmo-id": 70414,
+        "latitude": 52.7166666667,
+        "longitude": 174.1,
+        "elevation": "29",
+        "sonde": [
+            "41"
+        ]
+    },
+    {
+        "name": "NORMAN WELLS UA, NWT",
+        "operator": "EC",
+        "wmo-id": 71043,
+        "latitude": 65.2833333333,
+        "longitude": -126.75,
+        "elevation": "93.6",
+        "sonde": [
+            "80",
+            "17"
+        ]
+    },
+    {
+        "name": "HALL BEACH UA, NU",
+        "operator": "EC",
+        "wmo-id": 71081,
+        "latitude": 68.7666666667,
+        "longitude": -81.2166666667,
+        "elevation": "5.9",
+        "sonde": [
+            "17"
+        ]
+    },
+    {
+        "name": "ALERT UA, NU",
+        "operator": "EC",
+        "wmo-id": 71082,
+        "latitude": 82.5,
+        "longitude": -62.3333333333,
+        "elevation": "65.4",
+        "sonde": [
+            "80"
+        ]
+    },
+    {
+        "name": "PORT HARDY UA, BC",
+        "operator": "EC",
+        "wmo-id": 71109,
+        "latitude": 50.685,
+        "longitude": -127.3758333333,
+        "elevation": "17.4",
+        "sonde": [
+            "17"
+        ]
+    },
+    {
+        "name": "STONY PLAIN UA, ALTA",
+        "operator": "EC",
+        "wmo-id": 71119,
+        "latitude": 53.5475,
+        "longitude": -114.1083333333,
+        "elevation": "766.3",
+        "sonde": [
+            "17",
+            "80"
+        ]
+    },
+    {
+        "name": "STONY PLAIN UA, ALTA",
+        "operator": "EC",
+        "wmo-id": 71120,
+        "latitude": 53.5475,
+        "longitude": -114.1083333333,
+        "elevation": "766.3",
+        "sonde": [
+            "41"
+        ]
+    },
+    {
+        "name": "STONY PLAIN UA, ALTA",
+        "operator": "EC",
+        "wmo-id": 71126,
+        "latitude": 53.5475,
+        "longitude": -114.1083333333,
+        "elevation": "766.3",
+        "sonde": [
+            "80"
+        ]
+    },
+    {
+        "name": "SABLE ISLAND, NS",
+        "operator": "EC",
+        "wmo-id": 71600,
+        "latitude": 43.9322222222,
+        "longitude": -60.0094444444,
+        "elevation": "5",
+        "sonde": [
+            "80"
+        ]
+    },
+    {
+        "name": "YARMOUTH UA, NS",
+        "operator": "EC",
+        "wmo-id": 71603,
+        "latitude": 43.8666666667,
+        "longitude": -66.1,
+        "elevation": "8.9",
+        "sonde": [
+            "17"
+        ]
+    },
+    {
+        "name": "GAGETOWN A, NB",
+        "operator": "EC",
+        "wmo-id": 71701,
+        "latitude": 45.8333333333,
+        "longitude": -66.4333333333,
+        "elevation": "50.6",
+        "sonde": [
+            "41"
+        ]
+    },
+    {
+        "name": "MANIWAKI UA, QUE",
+        "operator": "EC",
+        "wmo-id": 71722,
+        "latitude": 46.3019444444,
+        "longitude": -76.0061111111,
+        "elevation": "188.58",
+        "sonde": [
+            "17"
+        ]
+    },
+    {
+        "name": "ST JOHN'S WEST UA, NFLD",
+        "operator": "EC",
+        "wmo-id": 71802,
+        "latitude": 47.5166666667,
+        "longitude": -52.7833333333,
+        "elevation": "112.45",
+        "sonde": [
+            "17"
+        ]
+    },
+    {
+        "name": "SEPT-ILES UA, QUE",
+        "operator": "EC",
+        "wmo-id": 71811,
+        "latitude": 50.2166666667,
+        "longitude": -66.25,
+        "elevation": "53.1",
+        "sonde": [
+            "17"
+        ]
+    },
+    {
+        "name": "STEPHENVILLE UA, NFLD",
+        "operator": "EC",
+        "wmo-id": 71815,
+        "latitude": 48.5666666667,
+        "longitude": -58.5666666667,
+        "elevation": "57",
+        "sonde": [
+            "17"
+        ]
+    },
+    {
+        "name": "GOOSE UA, NFLD",
+        "operator": "EC",
+        "wmo-id": 71816,
+        "latitude": 53.3,
+        "longitude": -60.3666666667,
+        "elevation": "35.7",
+        "sonde": [
+            "17"
+        ]
+    },
+    {
+        "name": "LA GRANDE IV UA, QUE",
+        "operator": "EC",
+        "wmo-id": 71823,
+        "latitude": 53.7572222222,
+        "longitude": -73.6791666667,
+        "elevation": "302.4",
+        "sonde": [
+            "80"
+        ]
+    },
+    {
+        "name": "MOOSONEE UA, ONT",
+        "operator": "EC",
+        "wmo-id": 71836,
+        "latitude": 51.2666666667,
+        "longitude": -80.65,
+        "elevation": "10",
+        "sonde": [
+            "17"
+        ]
+    },
+    {
+        "name": "PICKLE LAKE UA, ONT",
+        "operator": "EC",
+        "wmo-id": 71845,
+        "latitude": 51.45,
+        "longitude": -90.2,
+        "elevation": "386.2",
+        "sonde": [
+            "80",
+            "50"
+        ]
+    },
+    {
+        "name": "THE PAS UA, MAN",
+        "operator": "EC",
+        "wmo-id": 71867,
+        "latitude": 53.9666666667,
+        "longitude": -101.1,
+        "elevation": "274",
+        "sonde": [
+            "80"
+        ]
+    },
+    {
+        "name": "KUUJJUAQ, UA, QUE",
+        "operator": "EC",
+        "wmo-id": 71906,
+        "latitude": 58.1166666667,
+        "longitude": -68.4166666667,
+        "elevation": "60.2",
+        "sonde": [
+            "80"
+        ]
+    },
+    {
+        "name": "INUKJUAK UA, QUE",
+        "operator": "EC",
+        "wmo-id": 71907,
+        "latitude": 58.4666666667,
+        "longitude": -78.0833333333,
+        "elevation": "24.4",
+        "sonde": [
+            "80"
+        ]
+    },
+    {
+        "name": "PRINCE GEORGE UA, BC",
+        "operator": "EC",
+        "wmo-id": 71908,
+        "latitude": 53.9,
+        "longitude": -122.79,
+        "elevation": "600.54",
+        "sonde": [
+            "80"
+        ]
+    },
+    {
+        "name": "IQALUIT UA, NU",
+        "operator": "EC",
+        "wmo-id": 71909,
+        "latitude": 63.75,
+        "longitude": -68.55,
+        "elevation": "21.9",
+        "sonde": [
+            "17"
+        ]
+    },
+    {
+        "name": "CHURCHILL A UA, MAN",
+        "operator": "EC",
+        "wmo-id": 71913,
+        "latitude": 58.7333333333,
+        "longitude": -94.0666666667,
+        "elevation": "28.5",
+        "sonde": [
+            "80"
+        ]
+    },
+    {
+        "name": "EUREKA UA, NU",
+        "operator": "EC",
+        "wmo-id": 71917,
+        "latitude": 79.9833333333,
+        "longitude": -85.9333333333,
+        "elevation": "10.4",
+        "sonde": [
+            "17"
+        ]
+    },
+    {
+        "name": "RESOLUTE UA, NU",
+        "operator": "EC",
+        "wmo-id": 71924,
+        "latitude": 74.7041666667,
+        "longitude": -94.9680555556,
+        "elevation": "46.1",
+        "sonde": [
+            "17"
+        ]
+    },
+    {
+        "name": "CAMBRIDGE BAY UA, NU",
+        "operator": "EC",
+        "wmo-id": 71925,
+        "latitude": 69.1333333333,
+        "longitude": -105.0666666667,
+        "elevation": "25.1",
+        "sonde": [
+            "17"
+        ]
+    },
+    {
+        "name": "BAKER LAKE UA, NU",
+        "operator": "EC",
+        "wmo-id": 71926,
+        "latitude": 64.3166666667,
+        "longitude": -96.0,
+        "elevation": "50.8",
+        "sonde": [
+            "80"
+        ]
+    },
+    {
+        "name": "FORT SMITH UA, NWT",
+        "operator": "EC",
+        "wmo-id": 71934,
+        "latitude": 60.0261111111,
+        "longitude": -111.9294444444,
+        "elevation": "204.1",
+        "sonde": [
+            "80"
+        ]
+    },
+    {
+        "name": "FORT NELSON UA, BC",
+        "operator": "EC",
+        "wmo-id": 71945,
+        "latitude": 58.8333333333,
+        "longitude": -122.6,
+        "elevation": "378.3",
+        "sonde": [
+            "17"
+        ]
+    },
+    {
+        "name": "FORT NELSON UA, BC",
+        "operator": "EC",
+        "wmo-id": 71945,
+        "latitude": 58.8333333333,
+        "longitude": -122.6,
+        "elevation": "378.3",
+        "sonde": [
+            "17"
+        ]
+    },
+    {
+        "name": "INUVIK UA, NWT",
+        "operator": "EC",
+        "wmo-id": 71957,
+        "latitude": 68.3166666667,
+        "longitude": -133.5166666667,
+        "elevation": "103.2",
+        "sonde": [
+            "17"
+        ]
+    },
+    {
+        "name": "WHITEHORSE UA, YT",
+        "operator": "EC",
+        "wmo-id": 71964,
+        "latitude": 60.7327777778,
+        "longitude": -135.0969444444,
+        "elevation": "707",
+        "sonde": [
+            "81",
+            "80"
+        ]
+    },
+    {
+        "name": "KEY WEST/INT., FL",
+        "operator": "NOAA-NWS",
+        "wmo-id": 72201,
+        "latitude": 24.5530555556,
+        "longitude": -81.7886111111,
+        "elevation": "13.4",
+        "sonde": [
+            "52"
+        ]
+    },
+    {
+        "name": "MIAMI, FL (72202-1)",
+        "operator": "NOAA-NWS",
+        "wmo-id": 72202,
+        "latitude": 25.7544444444,
+        "longitude": -80.3830555556,
+        "elevation": "4.3",
+        "sonde": [
+            "11"
+        ]
+    },
+    {
+        "name": "JACKSONVILLE/INTNL.,  FL.",
+        "operator": "NOAA-NWS",
+        "wmo-id": 72206,
+        "latitude": 30.4838888889,
+        "longitude": -81.7011111111,
+        "elevation": "10.1",
+        "sonde": [
+            "52"
+        ]
+    },
+    {
+        "name": "CHARLESTON/MUN., SC.",
+        "operator": "NOAA-NWS",
+        "wmo-id": 72208,
+        "latitude": 32.895,
+        "longitude": -80.0275,
+        "elevation": "13.3",
+        "sonde": [
+            "82"
+        ]
+    },
+    {
+        "name": "TAMPA BAY AREA, FL.",
+        "operator": "NOAA-NWS",
+        "wmo-id": 72210,
+        "latitude": 27.7052777778,
+        "longitude": -82.4005555556,
+        "elevation": "13.1",
+        "sonde": [
+            "82"
+        ]
+    },
+    {
+        "name": "TALLAHASSEE/MUN.,  FL.",
+        "operator": "NOAA-NWS",
+        "wmo-id": 72214,
+        "latitude": 30.4461111111,
+        "longitude": -84.2994444444,
+        "elevation": "52.8",
+        "sonde": [
+            "82"
+        ]
+    },
+    {
+        "name": "PEACHTREE CITY, GA.",
+        "operator": "NOAA-NWS",
+        "wmo-id": 72215,
+        "latitude": 33.3558333333,
+        "longitude": -84.5672222222,
+        "elevation": "244.9",
+        "sonde": [
+            "82"
+        ]
+    },
+    {
+        "name": "VALPARAISO/EGLIN AFB, FL.",
+        "operator": "NOAA-NWS",
+        "wmo-id": 72221,
+        "latitude": 30.4833333333,
+        "longitude": -86.5166666667,
+        "elevation": "",
+        "sonde": [
+            "41"
+        ]
+    },
+    {
+        "name": "BIRMINGHAM, AL",
+        "operator": "NOAA-NWS",
+        "wmo-id": 72230,
+        "latitude": 33.1788888889,
+        "longitude": -86.7822222222,
+        "elevation": "174",
+        "sonde": [
+            "82"
+        ]
+    },
+    {
+        "name": "SLIDELL/MUN. LA",
+        "operator": "NOAA-NWS",
+        "wmo-id": 72233,
+        "latitude": 30.3369444444,
+        "longitude": -89.825,
+        "elevation": "9.9",
+        "sonde": [
+            "52"
+        ]
+    },
+    {
+        "name": "JACKSON/ALLEN C. THOMPSON FIELD, MS.",
+        "operator": "NOAA-NWS",
+        "wmo-id": 72235,
+        "latitude": 32.3188888889,
+        "longitude": -90.08,
+        "elevation": "90.7",
+        "sonde": [
+            "82"
+        ]
+    },
+    {
+        "name": "LAKE CHARLES/MUN., LA.",
+        "operator": "NOAA-NWS",
+        "wmo-id": 72240,
+        "latitude": 30.1252777778,
+        "longitude": -93.2161111111,
+        "elevation": "4.8",
+        "sonde": [
+            "52"
+        ]
+    },
+    {
+        "name": "SHREVEPORT/REG., LA.",
+        "operator": "NOAA-NWS",
+        "wmo-id": 72248,
+        "latitude": 32.4511111111,
+        "longitude": -93.8413888889,
+        "elevation": "85.1",
+        "sonde": [
+            "82"
+        ]
+    },
+    {
+        "name": "FORT WORTH, TX.",
+        "operator": "NOAA-NWS",
+        "wmo-id": 72249,
+        "latitude": 32.835,
+        "longitude": -97.2986111111,
+        "elevation": "195.2",
+        "sonde": [
+            "82"
+        ]
+    },
+    {
+        "name": "BROWNSVILLE/INT., TX",
+        "operator": "NOAA-NWS",
+        "wmo-id": 72250,
+        "latitude": 25.9166666667,
+        "longitude": -97.4191666667,
+        "elevation": "7.1",
+        "sonde": [
+            "52"
+        ]
+    },
+    {
+        "name": "CORPUS CHRISTI/INT., TX.",
+        "operator": "NOAA-NWS",
+        "wmo-id": 72251,
+        "latitude": 27.7788888889,
+        "longitude": -97.5055555556,
+        "elevation": "14.8",
+        "sonde": [
+            "52"
+        ]
+    },
+    {
+        "name": "DEL RIO/INT., TX.",
+        "operator": "NOAA-NWS",
+        "wmo-id": 72261,
+        "latitude": 29.3744444444,
+        "longitude": -100.9183333333,
+        "elevation": "314",
+        "sonde": [
+            "82"
+        ]
+    },
+    {
+        "name": "MIDLAND/MIDLAND REG. AIR TERM., TX.",
+        "operator": "NOAA-NWS",
+        "wmo-id": 72265,
+        "latitude": 31.9425,
+        "longitude": -102.1891666667,
+        "elevation": "874.9",
+        "sonde": [
+            "82"
+        ]
+    },
+    {
+        "name": "TUCSON, AZ",
+        "operator": "NOAA-NWS",
+        "wmo-id": 72274,
+        "latitude": 32.2277777778,
+        "longitude": -110.9558333333,
+        "elevation": "751.4",
+        "sonde": [
+            "52"
+        ]
+    },
+    {
+        "name": "SAN DIEGO/MIRAMAR,  NAS, CA.",
+        "operator": "NOAA-NWS",
+        "wmo-id": 72293,
+        "latitude": 32.8333333333,
+        "longitude": -117.1166666667,
+        "elevation": "133.5",
+        "sonde": [
+            "52"
+        ]
+    },
+    {
+        "name": "NEWPORT, NC.",
+        "operator": "NOAA-NWS",
+        "wmo-id": 72305,
+        "latitude": 34.7761111111,
+        "longitude": -76.8766666667,
+        "elevation": "10.97",
+        "sonde": [
+            "52"
+        ]
+    },
+    {
+        "name": "GREENSBORO/G.-HIGH PT., NC.",
+        "operator": "NOAA-NWS",
+        "wmo-id": 72317,
+        "latitude": 36.0980555556,
+        "longitude": -79.9427777778,
+        "elevation": "276.5",
+        "sonde": [
+            "82"
+        ]
+    },
+    {
+        "name": "BLACKSBURG, VA.",
+        "operator": "NOAA-NWS",
+        "wmo-id": 72318,
+        "latitude": 37.2038888889,
+        "longitude": -80.4141666667,
+        "elevation": "639.4",
+        "sonde": [
+            "11"
+        ]
+    },
+    {
+        "name": "NASHVILLE/OLD HICKORY, TN.",
+        "operator": "NOAA-NWS",
+        "wmo-id": 72327,
+        "latitude": 36.2469444444,
+        "longitude": -86.5616666667,
+        "elevation": "180.2",
+        "sonde": [
+            "82"
+        ]
+    },
+    {
+        "name": "LITTLE ROCK/ADAMS FLD,  AR.",
+        "operator": "NOAA-NWS",
+        "wmo-id": 72340,
+        "latitude": 34.835,
+        "longitude": -92.2594444444,
+        "elevation": "173.2",
+        "sonde": [
+            "82"
+        ]
+    },
+    {
+        "name": "NORMAN/MAX WESTHEIMER A, OK.",
+        "operator": "NOAA-NWS",
+        "wmo-id": 72357,
+        "latitude": 35.1808333333,
+        "longitude": -97.4377777778,
+        "elevation": "344.9",
+        "sonde": [
+            "11"
+        ]
+    },
+    {
+        "name": "AMARILLO/INTL., TX.",
+        "operator": "NOAA-NWS",
+        "wmo-id": 72363,
+        "latitude": 35.2330555556,
+        "longitude": -101.7091666667,
+        "elevation": "1095",
+        "sonde": [
+            "82"
+        ]
+    },
+    {
+        "name": "SANTA TERESA, NM.",
+        "operator": "NOAA-NWS",
+        "wmo-id": 72364,
+        "latitude": 31.8727777778,
+        "longitude": -106.6980555556,
+        "elevation": "1254",
+        "sonde": [
+            "52"
+        ]
+    },
+    {
+        "name": "ALBUQUERQUE/INT., NM.",
+        "operator": "NOAA-NWS",
+        "wmo-id": 72365,
+        "latitude": 35.0377777778,
+        "longitude": -106.6219444444,
+        "elevation": "1619",
+        "sonde": [
+            "82"
+        ]
+    },
+    {
+        "name": "FLAGSTAFF, AZ",
+        "operator": "NOAA-NWS",
+        "wmo-id": 72376,
+        "latitude": 35.23,
+        "longitude": -111.8216666667,
+        "elevation": "2179",
+        "sonde": [
+            "52"
+        ]
+    },
+    {
+        "name": "SAN DIEGO/MIRAMAR,  NAS, CA.",
+        "operator": "NOAA-NWS",
+        "wmo-id": 72381,
+        "latitude": 32.8333333333,
+        "longitude": -117.1166666667,
+        "elevation": "133.5",
+        "sonde": [
+            "11"
+        ]
+    },
+    {
+        "name": "MERCURY/DESERT ROCK, NV.",
+        "operator": "NOAA-NWS",
+        "wmo-id": 72388,
+        "latitude": 36.6166666667,
+        "longitude": -116.0166666667,
+        "elevation": "1006",
+        "sonde": [
+            "82"
+        ]
+    },
+    {
+        "name": "VANDENBERG AFB, CA. (72393-0)",
+        "operator": "NOAA-NWS",
+        "wmo-id": 72393,
+        "latitude": 34.75,
+        "longitude": -120.5666666667,
+        "elevation": "",
+        "sonde": [
+            "11",
+            "49"
+        ]
+    },
+    {
+        "name": "WALLOPS ISLAND, VA.",
+        "operator": "NOAA-NWS",
+        "wmo-id": 72402,
+        "latitude": 37.9333333333,
+        "longitude": -75.4833333333,
+        "elevation": "12.2",
+        "sonde": [
+            "11"
+        ]
+    },
+    {
+        "name": "STERLING, VA.",
+        "operator": "NOAA-NWS",
+        "wmo-id": 72403,
+        "latitude": 38.9766666667,
+        "longitude": -77.4858333333,
+        "elevation": "88.4",
+        "sonde": [
+            "11"
+        ]
+    },
+    {
+        "name": "WILMINGTON, OH.",
+        "operator": "NOAA-NWS",
+        "wmo-id": 72426,
+        "latitude": 39.4213888889,
+        "longitude": -83.8216666667,
+        "elevation": "322.7",
+        "sonde": [
+            "82"
+        ]
+    },
+    {
+        "name": "SPRINGFIELD/MUN., MO.",
+        "operator": "NOAA-NWS",
+        "wmo-id": 72440,
+        "latitude": 37.2347222222,
+        "longitude": -93.4013888889,
+        "elevation": "391.1",
+        "sonde": [
+            "52"
+        ]
+    },
+    {
+        "name": "DODGE CITY/MUN., KS.",
+        "operator": "NOAA-NWS",
+        "wmo-id": 72451,
+        "latitude": 37.7613888889,
+        "longitude": -99.9686111111,
+        "elevation": "786.4",
+        "sonde": [
+            "82"
+        ]
+    },
+    {
+        "name": "TOPEKA/MUN., KS.",
+        "operator": "NOAA-NWS",
+        "wmo-id": 72456,
+        "latitude": 39.0722222222,
+        "longitude": -95.6305555556,
+        "elevation": "268.1",
+        "sonde": [
+            "11"
+        ]
+    },
+    {
+        "name": "DENVER/STAPLETON INT., CO.",
+        "operator": "NOAA-NWS",
+        "wmo-id": 72469,
+        "latitude": 39.7675,
+        "longitude": -104.8694444444,
+        "elevation": "1611",
+        "sonde": [
+            "11"
+        ]
+    },
+    {
+        "name": "RENO, NV.",
+        "operator": "NOAA-NWS",
+        "wmo-id": 72489,
+        "latitude": 39.5680555556,
+        "longitude": -119.7966666667,
+        "elevation": "1518",
+        "sonde": [
+            "82"
+        ]
+    },
+    {
+        "name": "OAKLAND/METROP. OAKLAND INT., CA.",
+        "operator": "NOAA-NWS",
+        "wmo-id": 72493,
+        "latitude": 37.7444444444,
+        "longitude": -122.2236111111,
+        "elevation": "2.5",
+        "sonde": [
+            "82"
+        ]
+    },
+    {
+        "name": "UPTON, NY.",
+        "operator": "NOAA-NWS",
+        "wmo-id": 72501,
+        "latitude": 40.865,
+        "longitude": -72.8627777778,
+        "elevation": "19.6",
+        "sonde": [
+            "52"
+        ]
+    },
+    {
+        "name": "ALBANY, NY.",
+        "operator": "NOAA-NWS",
+        "wmo-id": 72518,
+        "latitude": 42.6919444444,
+        "longitude": -73.8322222222,
+        "elevation": "95",
+        "sonde": [
+            "82"
+        ]
+    },
+    {
+        "name": "PITTSBURGH, PA.",
+        "operator": "NOAA-NWS",
+        "wmo-id": 72520,
+        "latitude": 40.5316666667,
+        "longitude": -80.2172222222,
+        "elevation": "360.5",
+        "sonde": [
+            "82"
+        ]
+    },
+    {
+        "name": "BUFFALO/GREATER BUFFALO INT., NY.",
+        "operator": "NOAA-NWS",
+        "wmo-id": 72528,
+        "latitude": 42.9411111111,
+        "longitude": -78.7188888889,
+        "elevation": "218.4",
+        "sonde": [
+            "82"
+        ]
+    },
+    {
+        "name": "VALLEY, NE.",
+        "operator": "NOAA-NWS",
+        "wmo-id": 72558,
+        "latitude": 41.32,
+        "longitude": -96.3669444444,
+        "elevation": "351.5",
+        "sonde": [
+            "82"
+        ]
+    },
+    {
+        "name": "NORTH PLATTE/LEE BIRD, NE.",
+        "operator": "NOAA-NWS",
+        "wmo-id": 72562,
+        "latitude": 41.1327777778,
+        "longitude": -100.7,
+        "elevation": "848.8",
+        "sonde": [
+            "82"
+        ]
+    },
+    {
+        "name": "SALT LAKE CITY/INTNL UT.",
+        "operator": "NOAA-NWS",
+        "wmo-id": 72572,
+        "latitude": 40.7722222222,
+        "longitude": -111.9552777778,
+        "elevation": "1289",
+        "sonde": [
+            "82"
+        ]
+    },
+    {
+        "name": "ELKO, NV.",
+        "operator": "NOAA-NWS",
+        "wmo-id": 72582,
+        "latitude": 40.86,
+        "longitude": -115.7422222222,
+        "elevation": "1593",
+        "sonde": [
+            "82"
+        ]
+    },
+    {
+        "name": "MEDFORD/MEDFORD-JACKSON COUNTY, OR.",
+        "operator": "NOAA-NWS",
+        "wmo-id": 72597,
+        "latitude": 42.3769444444,
+        "longitude": -122.8822222222,
+        "elevation": "398.2",
+        "sonde": [
+            "52"
+        ]
+    },
+    {
+        "name": "WHITE LAKE, MI.",
+        "operator": "NOAA-NWS",
+        "wmo-id": 72632,
+        "latitude": 42.6988888889,
+        "longitude": -83.4713888889,
+        "elevation": "330.2",
+        "sonde": [
+            "52"
+        ]
+    },
+    {
+        "name": "GAYLORD, MI.",
+        "operator": "NOAA-NWS",
+        "wmo-id": 72634,
+        "latitude": 44.9075,
+        "longitude": -84.7188888889,
+        "elevation": "447.7",
+        "sonde": [
+            "52"
+        ]
+    },
+    {
+        "name": "GREEN BAY/A.-STRAUBEL, WI.",
+        "operator": "NOAA-NWS",
+        "wmo-id": 72645,
+        "latitude": 44.4986111111,
+        "longitude": -88.1119444444,
+        "elevation": "209.3",
+        "sonde": [
+            "82"
+        ]
+    },
+    {
+        "name": "CHANHASSEN, MN.",
+        "operator": "NOAA-NWS",
+        "wmo-id": 72649,
+        "latitude": 44.8497222222,
+        "longitude": -93.5647222222,
+        "elevation": "290.2",
+        "sonde": [
+            "82"
+        ]
+    },
+    {
+        "name": "ABERDEEN/REG., SD.",
+        "operator": "NOAA-NWS",
+        "wmo-id": 72659,
+        "latitude": 45.4555555556,
+        "longitude": -98.4133333333,
+        "elevation": "398.4",
+        "sonde": [
+            "82"
+        ]
+    },
+    {
+        "name": "RAPID CITY WFO, SD.",
+        "operator": "NOAA-NWS",
+        "wmo-id": 72662,
+        "latitude": 44.07301399,
+        "longitude": -103.2102729,
+        "elevation": "1030.55",
+        "sonde": [
+            "82"
+        ]
+    },
+    {
+        "name": "RIVERTON, WY.",
+        "operator": "NOAA-NWS",
+        "wmo-id": 72672,
+        "latitude": 43.0647222222,
+        "longitude": -108.4766666667,
+        "elevation": "1699",
+        "sonde": [
+            "82"
+        ]
+    },
+    {
+        "name": "BOISE/MUN., ID.",
+        "operator": "NOAA-NWS",
+        "wmo-id": 72681,
+        "latitude": 43.5672222222,
+        "longitude": -116.2113888889,
+        "elevation": "873.1",
+        "sonde": [
+            "11"
+        ]
+    },
+    {
+        "name": "SALEM/MCNARY, OR.",
+        "operator": "NOAA-NWS",
+        "wmo-id": 72694,
+        "latitude": 44.9091666667,
+        "longitude": -123.0083333333,
+        "elevation": "62.4",
+        "sonde": [
+            "82"
+        ]
+    },
+    {
+        "name": "CARIBOU/MUN., ME.",
+        "operator": "NOAA-NWS",
+        "wmo-id": 72712,
+        "latitude": 46.8683333333,
+        "longitude": -68.0136111111,
+        "elevation": "191",
+        "sonde": [
+            "52"
+        ]
+    },
+    {
+        "name": "INT.FALLS/FALLS INT. MN.",
+        "operator": "NOAA-NWS",
+        "wmo-id": 72747,
+        "latitude": 48.5647222222,
+        "longitude": -93.3975,
+        "elevation": "357.3",
+        "sonde": [
+            "52"
+        ]
+    },
+    {
+        "name": "BISMARCK/MUN., ND.",
+        "operator": "NOAA-NWS",
+        "wmo-id": 72764,
+        "latitude": 46.7716666667,
+        "longitude": -100.7594444444,
+        "elevation": "506.2",
+        "sonde": [
+            "82"
+        ]
+    },
+    {
+        "name": "GLASGOW/INT., MT.",
+        "operator": "NOAA-NWS",
+        "wmo-id": 72768,
+        "latitude": 48.2066666667,
+        "longitude": -106.6255555556,
+        "elevation": "693.1",
+        "sonde": [
+            "82"
+        ]
+    },
+    {
+        "name": "GREAT FALLS, MT.",
+        "operator": "NOAA-NWS",
+        "wmo-id": 72776,
+        "latitude": 47.4613888889,
+        "longitude": -111.3847222222,
+        "elevation": "1132",
+        "sonde": [
+            "52"
+        ]
+    },
+    {
+        "name": "SPOKANE, WA.",
+        "operator": "NOAA-NWS",
+        "wmo-id": 72786,
+        "latitude": 47.6805555556,
+        "longitude": -117.6266666667,
+        "elevation": "729.1",
+        "sonde": [
+            "82"
+        ]
+    },
+    {
+        "name": "QUILLAYUTE, WA.",
+        "operator": "NOAA-NWS",
+        "wmo-id": 72797,
+        "latitude": 47.9338888889,
+        "longitude": -124.5602777778,
+        "elevation": "56.8",
+        "sonde": [
+            "52"
+        ]
+    },
+    {
+        "name": "SALTON SEA, CA. (AFS)",
+        "operator": "NOAA-NWS",
+        "wmo-id": 74004,
+        "latitude": 33.2166666667,
+        "longitude": -115.8666666667,
+        "elevation": "",
+        "sonde": [
+            "41"
+        ]
+    },
+    {
+        "name": "SALTON SEA, CA. (AFS)",
+        "operator": "NOAA-NWS",
+        "wmo-id": 74005,
+        "latitude": 33.2166666667,
+        "longitude": -115.8666666667,
+        "elevation": "",
+        "sonde": [
+            "41"
+        ]
+    },
+    {
+        "name": "SALTON SEA, CA. (AFS)",
+        "operator": "NOAA-NWS",
+        "wmo-id": 74006,
+        "latitude": 33.2166666667,
+        "longitude": -115.8666666667,
+        "elevation": "",
+        "sonde": [
+            "41"
+        ]
+    },
+    {
+        "name": "GRAY, ME.",
+        "operator": "NOAA-NWS",
+        "wmo-id": 74389,
+        "latitude": 43.8925,
+        "longitude": -70.2572222222,
+        "elevation": "124.5",
+        "sonde": [
+            "52"
+        ]
+    },
+    {
+        "name": "QUAD CITY, IA.",
+        "operator": "NOAA-NWS",
+        "wmo-id": 74455,
+        "latitude": 41.6113888889,
+        "longitude": -90.5816666667,
+        "elevation": "230.5",
+        "sonde": [
+            "11"
+        ]
+    },
+    {
+        "name": "CHATHAM, MA.",
+        "operator": "NOAA-NWS",
+        "wmo-id": 74494,
+        "latitude": 41.6569444444,
+        "longitude": -69.9588888889,
+        "elevation": "15.1",
+        "sonde": [
+            "82"
+        ]
+    },
+    {
+        "name": "LINCOLN, IL.",
+        "operator": "NOAA-NWS",
+        "wmo-id": 74560,
+        "latitude": 40.1516666667,
+        "longitude": -89.3383333333,
+        "elevation": "179.2",
+        "sonde": [
+            "82"
+        ]
+    },
+    {
+        "name": "TUCSON, AZ",
+        "operator": "NOAA-NWS",
+        "wmo-id": 74626,
+        "latitude": 32.2277777778,
+        "longitude": -110.9558333333,
+        "elevation": "751.4",
+        "sonde": [
+            "23"
+        ]
+    },
+    {
+        "name": "NORMAN/MAX WESTHEIMER A, OK.",
+        "operator": "NOAA-NWS",
+        "wmo-id": 74646,
+        "latitude": 35.1808333333,
+        "longitude": -97.4377777778,
+        "elevation": "344.9",
+        "sonde": [
+            "23"
+        ]
+    },
+    {
+        "name": "CAPE KENNEDY, FL.",
+        "operator": "NOAA-NWS",
+        "wmo-id": 74794,
+        "latitude": 28.4666666667,
+        "longitude": -80.55,
+        "elevation": "5",
+        "sonde": [
+            "11"
+        ]
+    },
+    {
+        "name": "CHIHUAHUA, CHIH.",
+        "operator": "CONAGUA",
+        "wmo-id": 76225,
+        "latitude": 28.670611,
+        "longitude": -106.030417,
+        "elevation": "1397",
+        "sonde": [
+            "41"
+        ]
+    },
+    {
+        "name": "LA PAZ, BCS",
+        "operator": "CONAGUA",
+        "wmo-id": 76256,
+        "latitude": 24.128806,
+        "longitude": -110.320603,
+        "elevation": "24",
+        "sonde": [
+            "41"
+        ]
+    },
+    {
+        "name": "AEROP.INTERNACIONAL MONTERREY, N.L.",
+        "operator": "CONAGUA",
+        "wmo-id": 76394,
+        "latitude": 25.8666666667,
+        "longitude": -100.2333333333,
+        "elevation": "448",
+        "sonde": [
+            "41"
+        ]
+    },
+    {
+        "name": "LA PAZ, BCS",
+        "operator": "CONAGUA",
+        "wmo-id": 76405,
+        "latitude": 24.128806,
+        "longitude": -110.320603,
+        "elevation": "24",
+        "sonde": [
+            "41"
+        ]
+    },
+    {
+        "name": "COLONIA JUAN CARRASCO MAZATLAN, SIN.",
+        "operator": "CONAGUA",
+        "wmo-id": 76458,
+        "latitude": 23.217333,
+        "longitude": -106.411119,
+        "elevation": "7",
+        "sonde": [
+            "41"
+        ]
+    },
+    {
+        "name": "GUADALAJARA, JAL.",
+        "operator": "CONAGUA",
+        "wmo-id": 76526,
+        "latitude": 20.706497,
+        "longitude": -103.392389,
+        "elevation": "1558",
+        "sonde": [
+            "41"
+        ]
+    },
+    {
+        "name": "CANCUN",
+        "operator": "CONAGUA",
+        "wmo-id": 76595,
+        "latitude": 21.029017,
+        "longitude": -86.852092,
+        "elevation": "9",
+        "sonde": [
+            "41"
+        ]
+    },
+    {
+        "name": "GUADALAJARA, JAL.",
+        "operator": "CONAGUA",
+        "wmo-id": 76612,
+        "latitude": 20.706497,
+        "longitude": -103.392389,
+        "elevation": "1558",
+        "sonde": [
+            "41"
+        ]
+    },
+    {
+        "name": "AEROP.INTERNACIONAL MERIDA, YUC",
+        "operator": "CONAGUA",
+        "wmo-id": 76644,
+        "latitude": 20.94685,
+        "longitude": -89.652111,
+        "elevation": "12",
+        "sonde": [
+            "41"
+        ]
+    },
+    {
+        "name": "MANZANILLO, COL.",
+        "operator": "CONAGUA",
+        "wmo-id": 76654,
+        "latitude": 19.044472,
+        "longitude": -104.318592,
+        "elevation": "3",
+        "sonde": [
+            "41"
+        ]
+    },
+    {
+        "name": "AEROP. INTERNACIONAL MEXICO, D.F.",
+        "operator": "CONAGUA",
+        "wmo-id": 76679,
+        "latitude": 19.403703,
+        "longitude": -99.1966,
+        "elevation": "2337",
+        "sonde": [
+            "41"
+        ]
+    },
+    {
+        "name": "HACIENDA YLANG YLANG VERACRUZ, VER.",
+        "operator": "CONAGUA",
+        "wmo-id": 76692,
+        "latitude": 19.142989,
+        "longitude": -96.111314,
+        "elevation": "15",
+        "sonde": [
+            "35"
+        ]
+    },
+    {
+        "name": "ACAPULCO, GRO.",
+        "operator": "CONAGUA",
+        "wmo-id": 76805,
+        "latitude": 16.762875,
+        "longitude": -99.749392,
+        "elevation": "5",
+        "sonde": [
+            "41"
+        ]
+    },
+    {
+        "name": "GUATEMALA (AEROPUERTO LA AURORA)",
+        "operator": "INSIVUMEH",
+        "wmo-id": 76903,
+        "latitude": 14.5833333333,
+        "longitude": -90.5166666667,
+        "elevation": "",
+        "sonde": [
+            "35",
+            "41"
+        ]
+    },
+    {
+        "name": "L F WADE INTERNATIONAL AIRPORT",
+        "operator": "UKMO",
+        "wmo-id": 78016,
+        "latitude": 32.3669444444,
+        "longitude": -64.6772222222,
+        "elevation": "",
+        "sonde": [
+            "41"
+        ]
+    },
+    {
+        "name": "NASSAU AIRPORT NEW PROVIDENCE",
+        "operator": "DMB",
+        "wmo-id": 78073,
+        "latitude": 25.05,
+        "longitude": -77.4666666667,
+        "elevation": "",
+        "sonde": [
+            "17"
+        ]
+    },
+    {
+        "name": "OWEN ROBERTS AIRPORT GRAND CAYMAN",
+        "operator": "CINWS",
+        "wmo-id": 78384,
+        "latitude": 19.2916666667,
+        "longitude": -81.3583333333,
+        "elevation": "3",
+        "sonde": [
+            "17"
+        ]
+    },
+    {
+        "name": "KINGSTON/NORMAN MANLEY",
+        "operator": "MSJAM",
+        "wmo-id": 78397,
+        "latitude": 17.9333333333,
+        "longitude": -76.7833333333,
+        "elevation": "3",
+        "sonde": [
+            "17"
+        ]
+    },
+    {
+        "name": "SANTO DOMINGO (78486-0)",
+        "operator": "ONAMET",
+        "wmo-id": 78486,
+        "latitude": 18.4333333333,
+        "longitude": -69.8833333333,
+        "elevation": "",
+        "sonde": [
+            "17"
+        ]
+    },
+    {
+        "name": "SAN JUAN/INT.,  PUERTO RICO",
+        "operator": "NOAA-NWS",
+        "wmo-id": 78526,
+        "latitude": 18.4316666667,
+        "longitude": -65.9919444444,
+        "elevation": "4",
+        "sonde": [
+            "52"
+        ]
+    },
+    {
+        "name": "BELIZE/PHILLIP GOLDSTON INTL. AIRPORT",
+        "operator": "NMSB",
+        "wmo-id": 78583,
+        "latitude": 17.5333333333,
+        "longitude": -88.3,
+        "elevation": "5",
+        "sonde": [
+            "17"
+        ]
+    },
+    {
+        "name": "JUAN SANTAMARIA INT. AIRPORT",
+        "operator": "IMN",
+        "wmo-id": 78762,
+        "latitude": 9.9833333333,
+        "longitude": -84.1833333333,
+        "elevation": "",
+        "sonde": [
+            "41"
+        ]
+    },
+    {
+        "name": "COROZAL OESTE",
+        "operator": "Hidromet",
+        "wmo-id": 78807,
+        "latitude": 8.9666666667,
+        "longitude": -79.5666666667,
+        "elevation": "7",
+        "sonde": [
+            "41"
+        ]
+    },
+    {
+        "name": "LE RAIZET AERO",
+        "operator": "MF",
+        "wmo-id": 78897,
+        "latitude": 16.2638888889,
+        "longitude": -61.5163888889,
+        "elevation": "11",
+        "sonde": [
+            "77"
+        ]
+    },
+    {
+        "name": "GRANTLEY ADAMS",
+        "operator": "BMS Barbados",
+        "wmo-id": 78954,
+        "latitude": 13.0666666667,
+        "longitude": -59.4833333333,
+        "elevation": "50",
+        "sonde": [
+            "17"
+        ]
+    },
+    {
+        "name": "PIARCO INT. AIRPORT,  TRINIDAD",
+        "operator": "TTMS",
+        "wmo-id": 78970,
+        "latitude": 10.6166666667,
+        "longitude": -61.35,
+        "elevation": "12",
+        "sonde": [
+            "17"
+        ]
+    },
+    {
+        "name": "HATO AIRPORT, CURACAO (78988-1)",
+        "operator": "MDC",
+        "wmo-id": 78988,
+        "latitude": 12.2,
+        "longitude": -68.9666666667,
+        "elevation": "8",
+        "sonde": [
+            "17"
+        ]
+    },
+    {
+        "name": "SAN ANDRES (ISLA)/SESQUICENTENARIO",
+        "operator": "IDEAM",
+        "wmo-id": 80001,
+        "latitude": 12.5833333333,
+        "longitude": -81.7166666667,
+        "elevation": "1",
+        "sonde": [
+            "17"
+        ]
+    },
+    {
+        "name": "RIOHACHA/ALMIRANTE PADILLA",
+        "operator": "IDEAM",
+        "wmo-id": 80028,
+        "latitude": 11.5333333333,
+        "longitude": -72.9333333333,
+        "elevation": "4",
+        "sonde": [
+            "41"
+        ]
+    },
+    {
+        "name": "SAN ANTONIO DEL TACHIRA",
+        "operator": "INAMEH",
+        "wmo-id": 80094,
+        "latitude": 7.85,
+        "longitude": -72.45,
+        "elevation": "377",
+        "sonde": [
+            "41"
+        ]
+    },
+    {
+        "name": "BOGOTA/ELDORADO",
+        "operator": "IDEAM",
+        "wmo-id": 80210,
+        "latitude": 4.7,
+        "longitude": -74.15,
+        "elevation": "2547",
+        "sonde": [
+            "41"
+        ]
+    },
+    {
+        "name": "BOGOTA/ELDORADO",
+        "operator": "IDEAM",
+        "wmo-id": 80222,
+        "latitude": 4.7,
+        "longitude": -74.15,
+        "elevation": "2547",
+        "sonde": [
+            "41",
+            "71"
+        ]
+    },
+    {
+        "name": "BOGOTA/ELDORADO",
+        "operator": "IDEAM",
+        "wmo-id": 80259,
+        "latitude": 4.7,
+        "longitude": -74.15,
+        "elevation": "2547",
+        "sonde": [
+            "41",
+            "71"
+        ]
+    },
+    {
+        "name": "LETICIA/VASQUEZ COBO",
+        "operator": "IDEAM",
+        "wmo-id": 80398,
+        "latitude": -4.1666666667,
+        "longitude": -69.95,
+        "elevation": "84",
+        "sonde": [
+            "41"
+        ]
+    },
+    {
+        "name": "CAYENNE MATOURY",
+        "operator": "MF",
+        "wmo-id": 81405,
+        "latitude": 4.8222222222,
+        "longitude": -52.3652777778,
+        "elevation": "8",
+        "sonde": [
+            "77"
+        ]
+    },
+    {
+        "name": "BOA VISTA (AERO)",
+        "operator": "INMET",
+        "wmo-id": 82022,
+        "latitude": 2.8333333333,
+        "longitude": -60.7,
+        "elevation": "140",
+        "sonde": [
+            "80"
+        ]
+    },
+    {
+        "name": "TIRIOS",
+        "operator": "INMET",
+        "wmo-id": 82026,
+        "latitude": 2.2238888889,
+        "longitude": -55.9472222222,
+        "elevation": "325",
+        "sonde": [
+            "80"
+        ]
+    },
+    {
+        "name": "MACAPA (AERO)",
+        "operator": "INMET",
+        "wmo-id": 82099,
+        "latitude": 0.05,
+        "longitude": -51.0666666667,
+        "elevation": "16",
+        "sonde": [
+            "80"
+        ]
+    },
+    {
+        "name": "BELEM (AERO)",
+        "operator": "INMET",
+        "wmo-id": 82193,
+        "latitude": -1.3833333333,
+        "longitude": -48.4833333333,
+        "elevation": "16",
+        "sonde": [
+            "80"
+        ]
+    },
+    {
+        "name": "SANTAREM (AERO)",
+        "operator": "INMET",
+        "wmo-id": 82244,
+        "latitude": -2.4333333333,
+        "longitude": -54.7166666667,
+        "elevation": "72",
+        "sonde": [
+            "80"
+        ]
+    },
+    {
+        "name": "SAO LUIZ (AERO)",
+        "operator": "INMET",
+        "wmo-id": 82281,
+        "latitude": -2.6,
+        "longitude": -44.2333333333,
+        "elevation": "53",
+        "sonde": [
+            "80"
+        ]
+    },
+    {
+        "name": "MANAUS (AERO)",
+        "operator": "INMET",
+        "wmo-id": 82332,
+        "latitude": -3.15,
+        "longitude": -59.9833333333,
+        "elevation": "84",
+        "sonde": [
+            "80"
+        ]
+    },
+    {
+        "name": "FORTALEZA (82397-0)",
+        "operator": "INMET",
+        "wmo-id": 82397,
+        "latitude": -3.7666666667,
+        "longitude": -38.6,
+        "elevation": "26",
+        "sonde": [
+            "14"
+        ]
+    },
+    {
+        "name": "FERNANDO DE NORONHA",
+        "operator": "INMET",
+        "wmo-id": 82400,
+        "latitude": -3.85,
+        "longitude": -32.4166666667,
+        "elevation": "56",
+        "sonde": [
+            "80"
+        ]
+    },
+    {
+        "name": "LETICIA/VASQUEZ COBO",
+        "operator": "IDEAM",
+        "wmo-id": 82411,
+        "latitude": -4.1666666667,
+        "longitude": -69.95,
+        "elevation": "84",
+        "sonde": [
+            "80"
+        ]
+    },
+    {
+        "name": "MANICORE (AERO)",
+        "operator": "INMET",
+        "wmo-id": 82532,
+        "latitude": -5.8166666667,
+        "longitude": -61.2833333333,
+        "elevation": "53",
+        "sonde": [
+            "80"
+        ]
+    },
+    {
+        "name": "NATAL (AERO)",
+        "operator": "INMET",
+        "wmo-id": 82599,
+        "latitude": -5.9166666667,
+        "longitude": -35.25,
+        "elevation": "52",
+        "sonde": [
+            "80"
+        ]
+    },
+    {
+        "name": "CRUZEIRO DO SUL (AERO)",
+        "operator": "INMET",
+        "wmo-id": 82705,
+        "latitude": -7.5833333333,
+        "longitude": -72.7666666667,
+        "elevation": "199",
+        "sonde": [
+            "80"
+        ]
+    },
+    {
+        "name": "PORTO VELHO (AERO)",
+        "operator": "INMET",
+        "wmo-id": 82824,
+        "latitude": -8.7666666667,
+        "longitude": -63.9166666667,
+        "elevation": "102",
+        "sonde": [
+            "80"
+        ]
+    },
+    {
+        "name": "RECIFE (82900-0)",
+        "operator": "INMET",
+        "wmo-id": 82900,
+        "latitude": -8.05,
+        "longitude": -34.9166666667,
+        "elevation": "7",
+        "sonde": [
+            "14"
+        ]
+    },
+    {
+        "name": "RIO BRANCO (AERO)",
+        "operator": "INMET",
+        "wmo-id": 82917,
+        "latitude": -10.0,
+        "longitude": -67.8,
+        "elevation": "142",
+        "sonde": [
+            "80"
+        ]
+    },
+    {
+        "name": "ALTA FLORESTA (AERO)",
+        "operator": "INMET",
+        "wmo-id": 82965,
+        "latitude": -9.8666666667,
+        "longitude": -56.1,
+        "elevation": "288",
+        "sonde": [
+            "23"
+        ]
+    },
+    {
+        "name": "PETROLINA (82983-0)",
+        "operator": "INMET",
+        "wmo-id": 82983,
+        "latitude": -9.3833333333,
+        "longitude": -40.4833333333,
+        "elevation": "370",
+        "sonde": [
+            "14"
+        ]
+    },
+    {
+        "name": "VILHENA (AERO)",
+        "operator": "INMET",
+        "wmo-id": 83208,
+        "latitude": -12.7,
+        "longitude": -60.1,
+        "elevation": "612",
+        "sonde": [
+            "80"
+        ]
+    },
+    {
+        "name": "CUIABA (AERO)",
+        "operator": "INMET",
+        "wmo-id": 83362,
+        "latitude": -15.65,
+        "longitude": -56.1,
+        "elevation": "187",
+        "sonde": [
+            "80"
+        ]
+    },
+    {
+        "name": "BRASILIA (AERO)",
+        "operator": "INMET",
+        "wmo-id": 83378,
+        "latitude": -15.8666666667,
+        "longitude": -47.9333333333,
+        "elevation": "1061",
+        "sonde": [
+            "80"
+        ]
+    },
+    {
+        "name": "UBERLANDIA (AERO)",
+        "operator": "INMET",
+        "wmo-id": 83525,
+        "latitude": -18.8833333333,
+        "longitude": -48.2166666667,
+        "elevation": "943",
+        "sonde": [
+            "23"
+        ]
+    },
+    {
+        "name": "CORUMBA (AERO)",
+        "operator": "INMET",
+        "wmo-id": 83554,
+        "latitude": -19.0,
+        "longitude": -57.6666666667,
+        "elevation": "141",
+        "sonde": [
+            "80"
+        ]
+    },
+    {
+        "name": "CAMPO GRANDE (AERO)",
+        "operator": "INMET",
+        "wmo-id": 83612,
+        "latitude": -20.4666666667,
+        "longitude": -54.6666666667,
+        "elevation": "567",
+        "sonde": [
+            "80"
+        ]
+    },
+    {
+        "name": "VITORIA (AERO)",
+        "operator": "INMET",
+        "wmo-id": 83649,
+        "latitude": -20.2666666667,
+        "longitude": -40.2833333333,
+        "elevation": "4",
+        "sonde": [
+            "23"
+        ]
+    },
+    {
+        "name": "GALEAO",
+        "operator": "INMET",
+        "wmo-id": 83746,
+        "latitude": -22.8166666667,
+        "longitude": -43.25,
+        "elevation": "6",
+        "sonde": [
+            "80"
+        ]
+    },
+    {
+        "name": "LONDRINA (AERO)",
+        "operator": "INMET",
+        "wmo-id": 83768,
+        "latitude": -23.3333333333,
+        "longitude": -51.1333333333,
+        "elevation": "569",
+        "sonde": [
+            "23",
+            "14"
+        ]
+    },
+    {
+        "name": "MARTE (AERO)",
+        "operator": "INMET",
+        "wmo-id": 83779,
+        "latitude": -23.5,
+        "longitude": -46.6333333333,
+        "elevation": "722",
+        "sonde": [
+            "14",
+            "80"
+        ]
+    },
+    {
+        "name": "FOZ DO IGUACU (AERO)",
+        "operator": "INMET",
+        "wmo-id": 83827,
+        "latitude": -25.5166666667,
+        "longitude": -54.5833333333,
+        "elevation": "180",
+        "sonde": [
+            "80"
+        ]
+    },
+    {
+        "name": "CURITIBA (AERO)",
+        "operator": "INMET",
+        "wmo-id": 83840,
+        "latitude": -25.5166666667,
+        "longitude": -49.1666666667,
+        "elevation": "908",
+        "sonde": [
+            "80"
+        ]
+    },
+    {
+        "name": "FLORIANOPOLIS (AERO)",
+        "operator": "INMET",
+        "wmo-id": 83899,
+        "latitude": -27.6666666667,
+        "longitude": -48.55,
+        "elevation": "5",
+        "sonde": [
+            "80"
+        ]
+    },
+    {
+        "name": "URUGUAIANA (AERO)",
+        "operator": "INMET",
+        "wmo-id": 83928,
+        "latitude": -29.7833333333,
+        "longitude": -57.0333333333,
+        "elevation": "74",
+        "sonde": [
+            "80"
+        ]
+    },
+    {
+        "name": "SANTA MARIA (AERO)",
+        "operator": "INMET",
+        "wmo-id": 83937,
+        "latitude": -29.7166666667,
+        "longitude": -53.7,
+        "elevation": "85",
+        "sonde": [
+            "80"
+        ]
+    },
+    {
+        "name": "PORTO ALEGRE (AERO)",
+        "operator": "INMET",
+        "wmo-id": 83971,
+        "latitude": -30.0,
+        "longitude": -51.1833333333,
+        "elevation": "3",
+        "sonde": [
+            "80"
+        ]
+    },
+    {
+        "name": "GUAYAQUIL AEROPUERTO",
+        "operator": "INAMHI",
+        "wmo-id": 84203,
+        "latitude": -2.1580555556,
+        "longitude": -79.8838888889,
+        "elevation": "6",
+        "sonde": [
+            "14"
+        ]
+    },
+    {
+        "name": "LIMA/CALLAO",
+        "operator": "SENAMHI Peru",
+        "wmo-id": 84628,
+        "latitude": -12.0166666667,
+        "longitude": -77.1166666667,
+        "elevation": "12",
+        "sonde": [
+            "41"
+        ]
+    },
+    {
+        "name": "ANTOFAGASTA",
+        "operator": "DMC",
+        "wmo-id": 85442,
+        "latitude": -23.45028,
+        "longitude": -70.44111,
+        "elevation": "113",
+        "sonde": [
+            "41"
+        ]
+    },
+    {
+        "name": "ISLA DE PASCUA",
+        "operator": "DMC",
+        "wmo-id": 85469,
+        "latitude": -27.16056,
+        "longitude": -109.42722,
+        "elevation": "48",
+        "sonde": [
+            "41"
+        ]
+    },
+    {
+        "name": "SANTO DOMINGO (85586-0)",
+        "operator": "DMC",
+        "wmo-id": 85586,
+        "latitude": -33.655,
+        "longitude": -71.61417,
+        "elevation": "75",
+        "sonde": [
+            "41"
+        ]
+    },
+    {
+        "name": "PUERTO MONTT",
+        "operator": "DMC",
+        "wmo-id": 85799,
+        "latitude": -41.435,
+        "longitude": -73.09778,
+        "elevation": "85",
+        "sonde": [
+            "41"
+        ]
+    },
+    {
+        "name": "PUNTA ARENAS",
+        "operator": "DMC",
+        "wmo-id": 85934,
+        "latitude": -53.0033,
+        "longitude": -70.845,
+        "elevation": "38",
+        "sonde": [
+            "41"
+        ]
+    },
+    {
+        "name": "RESISTENCIA AERO",
+        "operator": "SMN Argentina",
+        "wmo-id": 86218,
+        "latitude": -27.43888,
+        "longitude": -59.04602,
+        "elevation": "53",
+        "sonde": [
+            "23"
+        ]
+    },
+    {
+        "name": "RESISTENCIA AERO",
+        "operator": "SMN Argentina",
+        "wmo-id": 87155,
+        "latitude": -27.43888,
+        "longitude": -59.04602,
+        "elevation": "53",
+        "sonde": [
+            "77"
+        ]
+    },
+    {
+        "name": "CORDOBA AERO",
+        "operator": "SMN Argentina",
+        "wmo-id": 87344,
+        "latitude": -31.29663,
+        "longitude": -64.21185,
+        "elevation": "493",
+        "sonde": [
+            "77"
+        ]
+    },
+    {
+        "name": "MENDOZA AERO",
+        "operator": "SMN Argentina",
+        "wmo-id": 87418,
+        "latitude": -32.84375,
+        "longitude": -68.79631,
+        "elevation": "705",
+        "sonde": [
+            "77"
+        ]
+    },
+    {
+        "name": "EZEIZA AERO",
+        "operator": "SMN Argentina",
+        "wmo-id": 87576,
+        "latitude": -34.81856,
+        "longitude": -58.54229,
+        "elevation": "20",
+        "sonde": [
+            "77"
+        ]
+    },
+    {
+        "name": "SANTA ROSA AERO",
+        "operator": "SMN Argentina",
+        "wmo-id": 87623,
+        "latitude": -36.59311,
+        "longitude": -64.27988,
+        "elevation": "190",
+        "sonde": [
+            "77"
+        ]
+    },
+    {
+        "name": "NEUQUEN AERO",
+        "operator": "SMN Argentina",
+        "wmo-id": 87715,
+        "latitude": -38.95204,
+        "longitude": -68.1367,
+        "elevation": "270",
+        "sonde": [
+            "77"
+        ]
+    },
+    {
+        "name": "COMODORO RIVADAVIA AERO",
+        "operator": "SMN Argentina",
+        "wmo-id": 87860,
+        "latitude": -45.7923,
+        "longitude": -67.46194,
+        "elevation": "58",
+        "sonde": [
+            "77"
+        ]
+    },
+    {
+        "name": "MOUNT PLEASANT AIRPORT",
+        "operator": "UKMO",
+        "wmo-id": 88889,
+        "latitude": -51.82,
+        "longitude": -58.4480555556,
+        "elevation": "74",
+        "sonde": [
+            "41"
+        ]
+    },
+    {
+        "name": "NEUMAYER",
+        "operator": "AWI",
+        "wmo-id": 89002,
+        "latitude": -70.6666666667,
+        "longitude": -8.25,
+        "elevation": "50",
+        "sonde": [
+            "23"
+        ]
+    },
+    {
+        "name": "AMUNDSEN-SCOTT",
+        "operator": "NOAA-NWS",
+        "wmo-id": 89009,
+        "latitude": -90.0,
+        "longitude": 0.0,
+        "elevation": "",
+        "sonde": [
+            "23"
+        ]
+    },
+    {
+        "name": "BASE MARAMBIO (CENTRO MET. ANTARTICO)",
+        "operator": "SMN Argentina",
+        "wmo-id": 89055,
+        "latitude": -64.24141,
+        "longitude": -56.62503,
+        "elevation": "208",
+        "sonde": [
+            "41"
+        ]
+    },
+    {
+        "name": "ROTHERA (89062-1)",
+        "operator": "UKMO",
+        "wmo-id": 89062,
+        "latitude": -67.5661111111,
+        "longitude": -68.1297222222,
+        "elevation": "3",
+        "sonde": [
+            "41"
+        ]
+    },
+    {
+        "name": "SYOWA",
+        "operator": "JMA",
+        "wmo-id": 89532,
+        "latitude": -69.0052777778,
+        "longitude": 39.5811111111,
+        "elevation": "18.4",
+        "sonde": [
+            "22"
+        ]
+    },
+    {
+        "name": "MAWSON",
+        "operator": "BoM",
+        "wmo-id": 89564,
+        "latitude": -67.6016666667,
+        "longitude": 62.8752777778,
+        "elevation": "9.9",
+        "sonde": [
+            "41"
+        ]
+    },
+    {
+        "name": "DAVIS",
+        "operator": "BoM",
+        "wmo-id": 89571,
+        "latitude": -68.5744444444,
+        "longitude": 77.9672222222,
+        "elevation": "18",
+        "sonde": [
+            "41",
+            "23"
+        ]
+    },
+    {
+        "name": "MIRNYJ (89592-0)",
+        "operator": "Roshydromet",
+        "wmo-id": 89592,
+        "latitude": -66.5519444444,
+        "longitude": 93.0147222222,
+        "elevation": "43.39",
+        "sonde": [
+            "58"
+        ]
+    },
+    {
+        "name": "CASEY",
+        "operator": "BoM",
+        "wmo-id": 89611,
+        "latitude": -66.2825,
+        "longitude": 110.5230555556,
+        "elevation": "40",
+        "sonde": [
+            "41"
+        ]
+    },
+    {
+        "name": "CONCORDIA",
+        "operator": "AM-IMS",
+        "wmo-id": 89625,
+        "latitude": -75.1016666667,
+        "longitude": 123.4119444444,
+        "elevation": "3233",
+        "sonde": [
+            "23"
+        ]
+    },
+    {
+        "name": "DUMONT D'URVILLE",
+        "operator": "MF",
+        "wmo-id": 89642,
+        "latitude": -66.6630555556,
+        "longitude": 140.0011111111,
+        "elevation": "43",
+        "sonde": [
+            "77"
+        ]
+    },
+    {
+        "name": "MCMURDO",
+        "operator": "NOAA-NWS",
+        "wmo-id": 89664,
+        "latitude": -77.85,
+        "longitude": 166.6666666667,
+        "elevation": "",
+        "sonde": [
+            "23"
+        ]
+    },
+    {
+        "name": "LIHUE, KAUAI, HAWAII",
+        "operator": "NOAA-NWS",
+        "wmo-id": 91165,
+        "latitude": 21.9933333333,
+        "longitude": -159.3466666667,
+        "elevation": "32.3",
+        "sonde": [
+            "11"
+        ]
+    },
+    {
+        "name": "WEATHER FORECAST OFFICE, GUAM, MARIANA IS.",
+        "operator": "NOAA-NWS",
+        "wmo-id": 91212,
+        "latitude": 13.4766666667,
+        "longitude": 144.7944444444,
+        "elevation": "75.4",
+        "sonde": [
+            "52"
+        ]
+    },
+    {
+        "name": "HILO HI, HAWAII",
+        "operator": "NOAA-NWS",
+        "wmo-id": 91285,
+        "latitude": 19.7183333333,
+        "longitude": -155.0583333333,
+        "elevation": "11",
+        "sonde": [
+            "82"
+        ]
+    },
+    {
+        "name": "WEATHER SERVICE OFFICE, CHUUK, ECI",
+        "operator": "FSM",
+        "wmo-id": 91334,
+        "latitude": 7.4538888889,
+        "longitude": 151.8425,
+        "elevation": "3.9",
+        "sonde": [
+            "82"
+        ]
+    },
+    {
+        "name": "WEATHER SERVICE OFFICE, POHNPEI, CAROLINE IS.",
+        "operator": "FSM",
+        "wmo-id": 91348,
+        "latitude": 6.9619444444,
+        "longitude": 158.2066666667,
+        "elevation": "38.4",
+        "sonde": [
+            "82"
+        ]
+    },
+    {
+        "name": "KWAJALEIN/BUCHOLZ AAF, MARSHALL IS.",
+        "operator": "",
+        "wmo-id": 91364,
+        "latitude": 8.7333333333,
+        "longitude": 167.7333333333,
+        "elevation": "2",
+        "sonde": [
+            "90"
+        ]
+    },
+    {
+        "name": "KWAJALEIN/BUCHOLZ AAF, MARSHALL IS.",
+        "operator": "",
+        "wmo-id": 91366,
+        "latitude": 8.7333333333,
+        "longitude": 167.7333333333,
+        "elevation": "2",
+        "sonde": [
+            "90"
+        ]
+    },
+    {
+        "name": "MAJURO/MARSHALL IS. INTNL.",
+        "operator": "",
+        "wmo-id": 91376,
+        "latitude": 7.0683333333,
+        "longitude": 171.2941666667,
+        "elevation": "3.9",
+        "sonde": [
+            "82"
+        ]
+    },
+    {
+        "name": "WEATHER SERVICE OFFICE, KOROR, PALAU WCI.",
+        "operator": "NOAA-NWS",
+        "wmo-id": 91408,
+        "latitude": 7.3397222222,
+        "longitude": 134.4886111111,
+        "elevation": "30.2",
+        "sonde": [
+            "11"
+        ]
+    },
+    {
+        "name": "WEATHER SERVICE OFFICE, YAP, CAROLINE IS.",
+        "operator": "FSM",
+        "wmo-id": 91413,
+        "latitude": 9.4972222222,
+        "longitude": 138.0816666667,
+        "elevation": "27.18",
+        "sonde": [
+            "82"
+        ]
+    },
+    {
+        "name": "NOUMEA (NLLE-CALEDONIE)",
+        "operator": "MFNCL",
+        "wmo-id": 91592,
+        "latitude": -22.2761111111,
+        "longitude": 166.4527777778,
+        "elevation": "70",
+        "sonde": [
+            "77"
+        ]
+    },
+    {
+        "name": "TARAWA",
+        "operator": "KMS",
+        "wmo-id": 91610,
+        "latitude": 1.35,
+        "longitude": 172.9166666667,
+        "elevation": "2",
+        "sonde": [
+            "41"
+        ]
+    },
+    {
+        "name": "NADI AIRPORT",
+        "operator": "FMS",
+        "wmo-id": 91680,
+        "latitude": -17.75,
+        "longitude": 177.45,
+        "elevation": "13",
+        "sonde": [
+            "41"
+        ]
+    },
+    {
+        "name": "PAGO PAGO/INT.AIRP. AMERICAN SAMOA",
+        "operator": "NOAA-NWS",
+        "wmo-id": 91765,
+        "latitude": -14.3383333333,
+        "longitude": -170.7191666667,
+        "elevation": "5.5",
+        "sonde": [
+            "82"
+        ]
+    },
+    {
+        "name": "HIVA-OA",
+        "operator": "MFPYF",
+        "wmo-id": 91925,
+        "latitude": -9.8061111111,
+        "longitude": -139.0355555556,
+        "elevation": "51",
+        "sonde": [
+            "77"
+        ]
+    },
+    {
+        "name": "TAHITI-FAAA",
+        "operator": "MFPYF",
+        "wmo-id": 91938,
+        "latitude": -17.5552777778,
+        "longitude": -149.6144444444,
+        "elevation": "2",
+        "sonde": [
+            "77"
+        ]
+    },
+    {
+        "name": "MANGAREVA",
+        "operator": "MFPYF",
+        "wmo-id": 91948,
+        "latitude": -23.1302777778,
+        "longitude": -134.9652777778,
+        "elevation": "91",
+        "sonde": [
+            "77"
+        ]
+    },
+    {
+        "name": "RAPA",
+        "operator": "MFPYF",
+        "wmo-id": 91958,
+        "latitude": -27.6183333333,
+        "longitude": -144.3347222222,
+        "elevation": "2",
+        "sonde": [
+            "77"
+        ]
+    },
+    {
+        "name": "WHENUAPAI",
+        "operator": "MSNZ",
+        "wmo-id": 93112,
+        "latitude": -36.7927777778,
+        "longitude": 174.6213888889,
+        "elevation": "30",
+        "sonde": [
+            "41"
+        ]
+    },
+    {
+        "name": "PARAPARAUMU AERODROME",
+        "operator": "MSNZ",
+        "wmo-id": 93417,
+        "latitude": -40.9044444444,
+        "longitude": 174.9838888889,
+        "elevation": "6",
+        "sonde": [
+            "41"
+        ]
+    },
+    {
+        "name": "INVERCARGILL AIRPORT",
+        "operator": "MSNZ",
+        "wmo-id": 93844,
+        "latitude": -46.4108333333,
+        "longitude": 168.3177777778,
+        "elevation": "2",
+        "sonde": [
+            "41"
+        ]
+    },
+    {
+        "name": "RAOUL ISLAND, KERMADEC IS.",
+        "operator": "MSNZ",
+        "wmo-id": 93997,
+        "latitude": -29.2447222222,
+        "longitude": -177.9288888889,
+        "elevation": "47.7",
+        "sonde": [
+            "41"
+        ]
+    },
+    {
+        "name": "DARWIN AIRPORT",
+        "operator": "BoM",
+        "wmo-id": 94120,
+        "latitude": -12.4238888889,
+        "longitude": 130.8925,
+        "elevation": "31.4",
+        "sonde": [
+            "41"
+        ]
+    },
+    {
+        "name": "GOVE AIRPORT",
+        "operator": "BoM",
+        "wmo-id": 94150,
+        "latitude": -12.2741666667,
+        "longitude": 136.8202777778,
+        "elevation": "62.5",
+        "sonde": [
+            "41"
+        ]
+    },
+    {
+        "name": "WEIPA AERO",
+        "operator": "BoM",
+        "wmo-id": 94170,
+        "latitude": -12.6777777778,
+        "longitude": 141.9208333333,
+        "elevation": "19.2",
+        "sonde": [
+            "42"
+        ]
+    },
+    {
+        "name": "BROOME AIRPORT",
+        "operator": "BoM",
+        "wmo-id": 94203,
+        "latitude": -17.9475,
+        "longitude": 122.2352777778,
+        "elevation": "17.4",
+        "sonde": [
+            "41"
+        ]
+    },
+    {
+        "name": "TOWNSVILLE AERO",
+        "operator": "BoM",
+        "wmo-id": 94294,
+        "latitude": -19.2483333333,
+        "longitude": 146.7661111111,
+        "elevation": "5.5",
+        "sonde": [
+            "41"
+        ]
+    },
+    {
+        "name": "WILLIS ISLAND",
+        "operator": "BoM",
+        "wmo-id": 94299,
+        "latitude": -16.2877777778,
+        "longitude": 149.9652777778,
+        "elevation": "9.29",
+        "sonde": [
+            "41"
+        ]
+    },
+    {
+        "name": "LEARMONTH AIRPORT",
+        "operator": "BoM",
+        "wmo-id": 94302,
+        "latitude": -22.2405555556,
+        "longitude": 114.0966666667,
+        "elevation": "6",
+        "sonde": [
+            "42"
+        ]
+    },
+    {
+        "name": "ALICE SPRINGS AIRPORT",
+        "operator": "BoM",
+        "wmo-id": 94326,
+        "latitude": -23.795,
+        "longitude": 133.8888888889,
+        "elevation": "545.3",
+        "sonde": [
+            "41"
+        ]
+    },
+    {
+        "name": "MOUNT ISA AERO",
+        "operator": "BoM",
+        "wmo-id": 94332,
+        "latitude": -20.6777777778,
+        "longitude": 139.4875,
+        "elevation": "341.7",
+        "sonde": [
+            "42"
+        ]
+    },
+    {
+        "name": "ROCKHAMPTON AERO",
+        "operator": "BoM",
+        "wmo-id": 94374,
+        "latitude": -23.3752777778,
+        "longitude": 150.4775,
+        "elevation": "10.4",
+        "sonde": [
+            "41"
+        ]
+    },
+    {
+        "name": "GERALDTON AIRPORT",
+        "operator": "BoM",
+        "wmo-id": 94403,
+        "latitude": -28.8044444444,
+        "longitude": 114.6988888889,
+        "elevation": "36.9",
+        "sonde": [
+            "41"
+        ]
+    },
+    {
+        "name": "MEEKATHARRA AIRPORT",
+        "operator": "BoM",
+        "wmo-id": 94430,
+        "latitude": -26.6136111111,
+        "longitude": 118.5372222222,
+        "elevation": "522.1",
+        "sonde": [
+            "42"
+        ]
+    },
+    {
+        "name": "GILES METEOROLOGICAL OFFICE",
+        "operator": "BoM",
+        "wmo-id": 94461,
+        "latitude": -25.0341666667,
+        "longitude": 128.3011111111,
+        "elevation": "580",
+        "sonde": [
+            "41"
+        ]
+    },
+    {
+        "name": "CHARLEVILLE AERO",
+        "operator": "BoM",
+        "wmo-id": 94510,
+        "latitude": -26.4138888889,
+        "longitude": 146.2558333333,
+        "elevation": "305.7",
+        "sonde": [
+            "42"
+        ]
+    },
+    {
+        "name": "BRISBANE AERO",
+        "operator": "BoM",
+        "wmo-id": 94578,
+        "latitude": -27.3916666667,
+        "longitude": 153.1291666667,
+        "elevation": "4",
+        "sonde": [
+            "41"
+        ]
+    },
+    {
+        "name": "PERTH AIRPORT",
+        "operator": "BoM",
+        "wmo-id": 94610,
+        "latitude": -31.9275,
+        "longitude": 115.9763888889,
+        "elevation": "20.4",
+        "sonde": [
+            "41"
+        ]
+    },
+    {
+        "name": "KALGOORLIE-BOULDER AIRPORT",
+        "operator": "BoM",
+        "wmo-id": 94637,
+        "latitude": -30.7847222222,
+        "longitude": 121.4533333333,
+        "elevation": "366.7",
+        "sonde": [
+            "42"
+        ]
+    },
+    {
+        "name": "ESPERANCE",
+        "operator": "BoM",
+        "wmo-id": 94638,
+        "latitude": -33.83,
+        "longitude": 121.8925,
+        "elevation": "25",
+        "sonde": [
+            "41"
+        ]
+    },
+    {
+        "name": "WOOMERA AERODROME",
+        "operator": "BoM",
+        "wmo-id": 94653,
+        "latitude": -31.1558333333,
+        "longitude": 136.8052777778,
+        "elevation": "167",
+        "sonde": [
+            "42"
+        ]
+    },
+    {
+        "name": "WOOMERA AERODROME",
+        "operator": "BoM",
+        "wmo-id": 94659,
+        "latitude": -31.1558333333,
+        "longitude": 136.8052777778,
+        "elevation": "167",
+        "sonde": [
+            "42"
+        ]
+    },
+    {
+        "name": "ADELAIDE AIRPORT",
+        "operator": "BoM",
+        "wmo-id": 94672,
+        "latitude": -34.9525,
+        "longitude": 138.5202777778,
+        "elevation": "6.1",
+        "sonde": [
+            "41"
+        ]
+    },
+    {
+        "name": "COBAR MO",
+        "operator": "BoM",
+        "wmo-id": 94711,
+        "latitude": -31.4838888889,
+        "longitude": 145.8294444444,
+        "elevation": "260",
+        "sonde": [
+            "42"
+        ]
+    },
+    {
+        "name": "NOWRA RAN AIR STATION AWS",
+        "operator": "BoM",
+        "wmo-id": 94750,
+        "latitude": -34.9469444444,
+        "longitude": 150.5352777778,
+        "elevation": "122",
+        "sonde": [
+            "41"
+        ]
+    },
+    {
+        "name": "SYDNEY AIRPORT AMO",
+        "operator": "BoM",
+        "wmo-id": 94767,
+        "latitude": -33.9463888889,
+        "longitude": 151.1730555556,
+        "elevation": "6.4",
+        "sonde": [
+            "41"
+        ]
+    },
+    {
+        "name": "WILLIAMTOWN RAAF",
+        "operator": "BoM",
+        "wmo-id": 94776,
+        "latitude": -32.7933333333,
+        "longitude": 151.8358333333,
+        "elevation": "9.5",
+        "sonde": [
+            "42"
+        ]
+    },
+    {
+        "name": "ALBANY AIRPORT",
+        "operator": "BoM",
+        "wmo-id": 94802,
+        "latitude": -34.9413888889,
+        "longitude": 117.8022222222,
+        "elevation": "71",
+        "sonde": [
+            "41"
+        ]
+    },
+    {
+        "name": "MOUNT GAMBIER AERO",
+        "operator": "BoM",
+        "wmo-id": 94821,
+        "latitude": -37.7472222222,
+        "longitude": 140.7738888889,
+        "elevation": "64.6",
+        "sonde": [
+            "42"
+        ]
+    },
+    {
+        "name": "MELBOURNE AIRPORT",
+        "operator": "BoM",
+        "wmo-id": 94866,
+        "latitude": -37.6655555556,
+        "longitude": 144.8322222222,
+        "elevation": "132.3",
+        "sonde": [
+            "41"
+        ]
+    },
+    {
+        "name": "WAGGA WAGGA AMO",
+        "operator": "BoM",
+        "wmo-id": 94910,
+        "latitude": -35.1583333333,
+        "longitude": 147.4572222222,
+        "elevation": "220.7",
+        "sonde": [
+            "41"
+        ]
+    },
+    {
+        "name": "HOBART AIRPORT",
+        "operator": "BoM",
+        "wmo-id": 94975,
+        "latitude": -42.8338888889,
+        "longitude": 147.5033333333,
+        "elevation": "4",
+        "sonde": [
+            "41"
+        ]
+    },
+    {
+        "name": "LORD HOWE ISLAND AERO",
+        "operator": "BoM",
+        "wmo-id": 94995,
+        "latitude": -31.5422222222,
+        "longitude": 159.0786111111,
+        "elevation": "5.2",
+        "sonde": [
+            "42"
+        ]
+    },
+    {
+        "name": "NORFOLK ISLAND AERO",
+        "operator": "BoM",
+        "wmo-id": 94996,
+        "latitude": -29.0388888889,
+        "longitude": 167.9408333333,
+        "elevation": "113",
+        "sonde": [
+            "41"
+        ]
+    },
+    {
+        "name": "MACQUARIE ISLAND",
+        "operator": "BoM",
+        "wmo-id": 94998,
+        "latitude": -54.4994444444,
+        "longitude": 158.9369444444,
+        "elevation": "6",
+        "sonde": [
+            "80"
+        ]
+    },
+    {
+        "name": "MOREE AERO",
+        "operator": "BoM",
+        "wmo-id": 95527,
+        "latitude": -29.4897222222,
+        "longitude": 149.8472222222,
+        "elevation": "213.7",
+        "sonde": [
+            "42"
+        ]
+    },
+    {
+        "name": "BANDA ACEH/BLANG BINTANG",
+        "operator": "BMKG",
+        "wmo-id": 96011,
+        "latitude": 5.522383,
+        "longitude": 95.41685,
+        "elevation": "19.82",
+        "sonde": [
+            "77"
+        ]
+    },
+    {
+        "name": "KUALANAMU MEDAN",
+        "operator": "BMKG",
+        "wmo-id": 96035,
+        "latitude": 3.6402777778,
+        "longitude": 98.8786111111,
+        "elevation": "",
+        "sonde": [
+            "35"
+        ]
+    },
+    {
+        "name": "RANAI",
+        "operator": "BMKG",
+        "wmo-id": 96147,
+        "latitude": 3.912034,
+        "longitude": 108.39353,
+        "elevation": "2",
+        "sonde": [
+            "77"
+        ]
+    },
+    {
+        "name": "MIA PADANG",
+        "operator": "BMKG",
+        "wmo-id": 96163,
+        "latitude": -0.793551,
+        "longitude": 100.289137,
+        "elevation": "5.9",
+        "sonde": [
+            "35"
+        ]
+    },
+    {
+        "name": "PANGKAL PINANG",
+        "operator": "BMKG",
+        "wmo-id": 96237,
+        "latitude": -2.1666666667,
+        "longitude": 106.1333333333,
+        "elevation": "33",
+        "sonde": [
+            "35"
+        ]
+    },
+    {
+        "name": "MIA PADANG",
+        "operator": "BMKG",
+        "wmo-id": 96253,
+        "latitude": -0.793551,
+        "longitude": 100.289137,
+        "elevation": "5.9",
+        "sonde": [
+            "35"
+        ]
+    },
+    {
+        "name": "BRUNEI AIRPORT",
+        "operator": "BDMD",
+        "wmo-id": 96315,
+        "latitude": 4.9333333333,
+        "longitude": 114.9333333333,
+        "elevation": "22",
+        "sonde": [
+            "41"
+        ]
+    },
+    {
+        "name": "KUCHING",
+        "operator": "MMD",
+        "wmo-id": 96413,
+        "latitude": 1.4833333333,
+        "longitude": 110.3333333333,
+        "elevation": "21",
+        "sonde": [
+            "17"
+        ]
+    },
+    {
+        "name": "BINTULU",
+        "operator": "MMD",
+        "wmo-id": 96441,
+        "latitude": 3.2,
+        "longitude": 113.0333333333,
+        "elevation": "24",
+        "sonde": [
+            "17"
+        ]
+    },
+    {
+        "name": "KOTA KINABALU",
+        "operator": "MMD",
+        "wmo-id": 96471,
+        "latitude": 5.9333333333,
+        "longitude": 116.05,
+        "elevation": "2",
+        "sonde": [
+            "17"
+        ]
+    },
+    {
+        "name": "TAWAU",
+        "operator": "MMD",
+        "wmo-id": 96481,
+        "latitude": 4.2666666667,
+        "longitude": 117.8833333333,
+        "elevation": "18",
+        "sonde": [
+            "17"
+        ]
+    },
+    {
+        "name": "TARAKAN/JUWATA",
+        "operator": "BMKG",
+        "wmo-id": 96509,
+        "latitude": 3.3333333333,
+        "longitude": 117.5666666667,
+        "elevation": "",
+        "sonde": [
+            "77"
+        ]
+    },
+    {
+        "name": "PONTIANAK/SUPADIO",
+        "operator": "BMKG",
+        "wmo-id": 96581,
+        "latitude": -0.15,
+        "longitude": 109.4,
+        "elevation": "3",
+        "sonde": [
+            "35"
+        ]
+    },
+    {
+        "name": "PANGKALAN BUN/ISKANDAR",
+        "operator": "BMKG",
+        "wmo-id": 96645,
+        "latitude": -2.7,
+        "longitude": 111.7,
+        "elevation": "",
+        "sonde": [
+            "77"
+        ]
+    },
+    {
+        "name": "BANJARMASIN/SYAMSUDIN NOOR",
+        "operator": "BMKG",
+        "wmo-id": 96685,
+        "latitude": -3.438748,
+        "longitude": 114.752365,
+        "elevation": "15.8",
+        "sonde": [
+            "35"
+        ]
+    },
+    {
+        "name": "JAKARTA/SOEKARNO-HATTA",
+        "operator": "BMKG",
+        "wmo-id": 96749,
+        "latitude": -6.12211,
+        "longitude": 106.65472,
+        "elevation": "",
+        "sonde": [
+            "35"
+        ]
+    },
+    {
+        "name": "CILACAP",
+        "operator": "BMKG",
+        "wmo-id": 96805,
+        "latitude": -7.7333333333,
+        "longitude": 109.0166666667,
+        "elevation": "6",
+        "sonde": [
+            "77"
+        ]
+    },
+    {
+        "name": "JUANDA SURABAYA",
+        "operator": "BMKG",
+        "wmo-id": 96935,
+        "latitude": -7.3725941,
+        "longitude": 112.7799479,
+        "elevation": "2.8",
+        "sonde": [
+            "35"
+        ]
+    },
+    {
+        "name": "COCOS ISLAND AERO",
+        "operator": "BoM",
+        "wmo-id": 96996,
+        "latitude": -12.1891666667,
+        "longitude": 96.8344444444,
+        "elevation": "3",
+        "sonde": [
+            "42"
+        ]
+    },
+    {
+        "name": "MENADO/ SAM RATULANGI",
+        "operator": "BMKG",
+        "wmo-id": 97014,
+        "latitude": 1.545951,
+        "longitude": 124.92283,
+        "elevation": "23.3",
+        "sonde": [
+            "35"
+        ]
+    },
+    {
+        "name": "PALU/MUTIARA",
+        "operator": "BMKG",
+        "wmo-id": 97072,
+        "latitude": -0.916333,
+        "longitude": 119.905402,
+        "elevation": "84",
+        "sonde": [
+            "35"
+        ]
+    },
+    {
+        "name": "UJUNG PANDANG/HASANUDDIN",
+        "operator": "BMKG",
+        "wmo-id": 97180,
+        "latitude": -5.071028,
+        "longitude": 119.55217,
+        "elevation": "",
+        "sonde": [
+            "35"
+        ]
+    },
+    {
+        "name": "KUPANG/ELTARI",
+        "operator": "BMKG",
+        "wmo-id": 97372,
+        "latitude": -10.167626,
+        "longitude": 123.6701349,
+        "elevation": "102",
+        "sonde": [
+            "35"
+        ]
+    },
+    {
+        "name": "MENADO/ SAM RATULANGI",
+        "operator": "BMKG",
+        "wmo-id": 97430,
+        "latitude": 1.545951,
+        "longitude": 124.92283,
+        "elevation": "23.3",
+        "sonde": [
+            "35"
+        ]
+    },
+    {
+        "name": "DEO SORONG",
+        "operator": "BMKG",
+        "wmo-id": 97502,
+        "latitude": -0.891134,
+        "longitude": 131.285757,
+        "elevation": "",
+        "sonde": [
+            "77"
+        ]
+    },
+    {
+        "name": "BIAK/FRANS KAISIEPO",
+        "operator": "BMKG",
+        "wmo-id": 97560,
+        "latitude": -1.1833333333,
+        "longitude": 136.1166666667,
+        "elevation": "",
+        "sonde": [
+            "35"
+        ]
+    },
+    {
+        "name": "AMBON/PATTIMURA",
+        "operator": "BMKG",
+        "wmo-id": 97724,
+        "latitude": -3.711136,
+        "longitude": 128.085393,
+        "elevation": "14",
+        "sonde": [
+            "35"
+        ]
+    },
+    {
+        "name": "SAUMLAKI/OLILIT",
+        "operator": "BMKG",
+        "wmo-id": 97900,
+        "latitude": -7.9833333333,
+        "longitude": 131.3,
+        "elevation": "",
+        "sonde": [
+            "35"
+        ]
+    },
+    {
+        "name": "MERAUKE/MOPAH",
+        "operator": "BMKG",
+        "wmo-id": 97980,
+        "latitude": -8.520192,
+        "longitude": 140.415679,
+        "elevation": "3",
+        "sonde": [
+            "35"
+        ]
+    },
+    {
+        "name": "LAOAG",
+        "operator": "PAGASA",
+        "wmo-id": 98223,
+        "latitude": 18.183016,
+        "longitude": 120.534723,
+        "elevation": "5",
+        "sonde": [
+            "18"
+        ]
+    },
+    {
+        "name": "LAOAG",
+        "operator": "PAGASA",
+        "wmo-id": 98233,
+        "latitude": 18.183016,
+        "longitude": 120.534723,
+        "elevation": "5",
+        "sonde": [
+            "11"
+        ]
+    },
+    {
+        "name": "LAOAG",
+        "operator": "PAGASA",
+        "wmo-id": 98328,
+        "latitude": 18.183016,
+        "longitude": 120.534723,
+        "elevation": "5",
+        "sonde": [
+            "11"
+        ]
+    },
+    {
+        "name": "TANAY",
+        "operator": "PAGASA",
+        "wmo-id": 98433,
+        "latitude": 14.5812,
+        "longitude": 121.3693,
+        "elevation": "650",
+        "sonde": [
+            "11",
+            "13"
+        ]
+    },
+    {
+        "name": "LEGASPI",
+        "operator": "PAGASA",
+        "wmo-id": 98444,
+        "latitude": 13.150937,
+        "longitude": 123.728605,
+        "elevation": "15.49",
+        "sonde": [
+            "41"
+        ]
+    },
+    {
+        "name": "PUERTO PRINCESA",
+        "operator": "PAGASA",
+        "wmo-id": 98618,
+        "latitude": 9.740134,
+        "longitude": 118.758613,
+        "elevation": "14.9",
+        "sonde": [
+            "11"
+        ]
+    },
+    {
+        "name": "MACTAN",
+        "operator": "PAGASA",
+        "wmo-id": 98646,
+        "latitude": 10.322329,
+        "longitude": 123.980118,
+        "elevation": "24.3",
+        "sonde": [
+            "41"
+        ]
+    },
+    {
+        "name": "MACTAN",
+        "operator": "PAGASA",
+        "wmo-id": 98747,
+        "latitude": 10.322329,
+        "longitude": 123.980118,
+        "elevation": "24.3",
+        "sonde": [
+            "11"
+        ]
+    },
+    {
+        "name": "MACTAN",
+        "operator": "PAGASA",
+        "wmo-id": 98753,
+        "latitude": 10.322329,
+        "longitude": 123.980118,
+        "elevation": "24.3",
+        "sonde": [
+            "11"
+        ]
+    }
+]
