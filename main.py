@@ -97,7 +97,6 @@ def sonde_df_to_dict(df: pd.DataFrame, match_df: pd.DataFrame) -> dict:
                 'manufacturer': row['Manufacturer'],
                 'family': row['Family'],
                 'model': row['Model'],
-                'wmo': row['WMOTypeIdentifier'],
             },
             'autosonde': bool(match_df.iloc[i].Autosonde),
         })
@@ -118,7 +117,6 @@ for index, row in nearest.iterrows():
         'latitude': row['Latitude'],
         'longitude': row['Longitude'],
         'elevation': row['Elevation'],
-        'sonde_wmos': sonde_models,
         'sonde': sonde_df_to_dict(sonde_models_df, sonde_models_matches),
     }
     station_jsons.append(station)
